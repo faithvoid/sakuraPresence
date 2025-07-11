@@ -14,6 +14,7 @@ Discord Rich Presence for all network-capable retro consoles. Includes multi-med
 
 ## How to Use (as a developer):
 If you're developing an add-on using this server as a base, making a console-specific plugin is super easy! You just need to send a TCP/UDP packet with contents like the following 
+
 ``` {"ps1": true, "id": "SLUS-00662"} # Parasite Eve Disc 1 ``` 
 
 ``` {"ps2": true, "id": "SLUS-20765"} # Resident Evil Outbreak ``` 
