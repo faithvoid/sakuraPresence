@@ -15,19 +15,19 @@ Discord Rich Presence for all network-capable retro consoles. Includes multi-med
 ## How to Use (as a developer):
 If you're developing an add-on using this server as a base, making a console-specific plugin is super easy! You just need to send a TCP/UDP packet with contents like the following 
 ### Playstation
-```{"ps1": true, "id": "SLUS-00662"}``` # Parasite Eve Disc 1
+```{"ps1": true, "id": "SLUS-00662"}``` Parasite Eve Disc 1
 ### Playstation 2
-```{"ps2": true, "id": "SLUS-20765"}``` # Resident Evil Outbreak 
+```{"ps2": true, "id": "SLUS-20765"}``` Resident Evil Outbreak 
 ### Playstation 3
-```{"ps3": true, "id": "BLUS30094"}``` # Haze
+```{"ps3": true, "id": "BLUS30094"}``` Haze
 ### Playstation Portable
-```{"psp": true, "id": "UCUS98711"}``` # Patapon
+```{"psp": true, "id": "UCUS98711"}``` Patapon
 ### Xbox
-```{"xbox": true, "id": "4D530064"}```  # Halo 2
+```{"xbox": true, "id": "4D530064"}```  Halo 2
 ### Xbox 360
-```{"xbox360": true, "id": "4D5307E6"}``` # Halo 3 
+```{"xbox360": true, "id": "4D5307E6"}``` Halo 3 
 ### Console Dashboard
-```{"dashboard": true, "id": "X360_DASH"}``` # Xbox 360 Dashboard 
+```{"dashboard": true, "id": "X360_DASH"}``` Xbox 360 Dashboard 
 
 
 replacing the console name with the console you'd like to use, and the ID with the ID pulled from the game (the matching XBMC4Xbox script pulls this information from the .XBE files, but YMMV depending on console).
