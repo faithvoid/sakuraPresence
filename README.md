@@ -3,8 +3,7 @@ Discord Rich Presence for all network-capable retro consoles. Includes multi-med
 
 ## Features:
 - PS1/PS2/PS3/Xbox/Xbox 360/Wii/Wii U support!
-- Super modular and straightforward!
-- Can be used to design a launcher that runs on virtually anything with an internet connection!
+- Super modular and straightforward, can be adapted to any console that can send TCP/UDP packets!
 
 ## How to Use (as a user):
 - Download the latest sakuraRPC release .zip
