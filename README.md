@@ -14,7 +14,13 @@ Discord Rich Presence for all network-capable retro consoles. Includes multi-med
 
 ## How to Use (as a developer):
 If you're developing an add-on using this server as a base, making a console-specific plugin is super easy! You just need to send a TCP/UDP packet with contents like the following 
-``` {"ps2": true, "id": "SLUS-20037"} ``` 
+``` {"ps1": true, "id": "SLUS-00662"} # Parasite Eve Disc 1 ``` 
+``` {"ps2": true, "id": "SLUS-20765"} # Resident Evil Outbreak ``` 
+``` {"ps3": true, "id": "BLUS30094"} # Haze ``` 
+``` {"psp": true, "id": "UCUS98711"} # Patapon ``` 
+``` {"xbox": true, "id": "4D530064"} # Halo 2 ``` 
+``` {"xbox360": true, "id": "4D5307E6"} # Halo 3 ``` 
+
 replacing the console name with the console you'd like to use, and the ID with the ID pulled from the game (the matching XBMC4Xbox script pulls this information from the .XBE files, but YMMV depending on console).
 
 To make an entry for a console's dashboard, you'll want to send a packet like so:
