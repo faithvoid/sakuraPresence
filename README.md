@@ -54,22 +54,15 @@ If you're developing an add-on using this server as a base, making a console-spe
 ```{"switch": true, "id": "0100152000022000"}``` Mario Kart 8 Deluxe
 ### Dreamcast
 ```{"dc": true, "id": "51000"}``` Sonic Adventure (USA)
-
-
-
 ### Console Dashboard
-```{"dashboard": true, "id": "XBOX_DASH"}``` Xbox Dashboard 
-
-
-replacing the console name with the console you'd like to use, and the ID with the ID pulled from the game (the matching XBMC4Xbox script pulls this information from the .XBE files, but YMMV depending on console).
-
-To make an entry for a console's dashboard, you'll want to send a packet like so:
-``` {"dashboard": true, "id": "X360_DASH"} ``` 
+```{"dashboard": true, "id": "XBOX_DASH"}``` Xbox Dashboard (can call any platform listed above for dashboard idling mode)
 
 For multi-media, you'll want to send a packet like so:
 ``` {"music": true, "id": "Artist - Title"} ``` 
 or
 ``` {"video": true, "id": "Title"} ``` 
+
+This will resolve your tracks via MusicBrainz and video files via TMDB/TVDB to grab cover art, episode/film information, plot synopsis, and more!
 
 ## Roadmap
 - [x] PS1/PS2/PS3/PSP support
@@ -94,6 +87,7 @@ or
 - RPSC3 team - RCPN stats
 - TVDB - TV episode information
 - TMDB - Movie information
+- MusicBrainz + CoverArtArchive - Music information
 - Insignia Team 
 - XLink Kai Team
 - Many more coming soon!
