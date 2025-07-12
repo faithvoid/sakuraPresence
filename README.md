@@ -1,13 +1,18 @@
 # ![](https://cdn.discordapp.com/app-assets/1379734520508579960/1393481542910611476.png) sakuraPresence
 Discord Rich Presence for all network-capable retro consoles. Includes multi-media support!
 ## Features:
-- PS1/PS2/PS3/Xbox/Xbox 360/Wii/Wii U support!
-- Super modular and straightforward, can be adapted to any console that can send TCP/UDP packets!
+- Support for multiple retro consoles! If you can send a network packet, you can send a presence!
+- Super modular and straightforward, can be adapted to any console or emulator with networking!
 - Integrated XLink / Insignia / RPCN multiplayer statistics for games where that information is available!
 - Homebrew support! (currently only for Xbox + Xbox 360)
 
+## Supported Systems:
+- Playstation 1 / 2 / 3 / Portable
+- Xbox + Xbox 360
+- Nintendo Wii
+
 ## How to Use (as a user):
-- Download the latest sakuraRPC release .zip
+- Download the latest sakuraPresence release .zip
 - Go into the "consoles" folder and copy over your sakuraPresence launcher of choice to your system
 - Copy "sakuraPresence.py" anywhere you'll remember it
 - Run "sakuraPresence.py" (make sure Discord Rich Presence is enabled!)
