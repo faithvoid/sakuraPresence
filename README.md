@@ -11,6 +11,13 @@ Discord Rich Presence for all network-capable retro consoles. Includes multi-med
 - Xbox + Xbox 360
 - Nintendo Wii
 
+## Planned Systems:
+- Dreamcast
+- Gamecube
+- Switch
+- Wii U
+- DS + 3DS
+
 ## How to Use (as a user):
 - Download the latest sakuraPresence release .zip
 - Go into the "consoles" folder and copy over your sakuraPresence launcher of choice to your system
