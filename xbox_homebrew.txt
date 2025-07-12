@@ -8,6 +8,9 @@ ffffd00a DoomX
 ffff1d1d Quake X
 75447253 Quake 2X
 fff3faad Quake III Arena
+5044474E Panzer Dragoon
+54465353 Super Street Fighter II Turbo
+32465343 Chess Street Fighter II
 	 XDuke
 	 XBOMBERBOX
 	 XBOMBERBOX2
