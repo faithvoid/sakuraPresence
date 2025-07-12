@@ -29,7 +29,7 @@ If you're developing an add-on using this server as a base, making a console-spe
 ### Xbox 360
 ```{"xbox360": true, "id": "4D5307E6"}``` Halo 3 
 ### Console Dashboard
-```{"dashboard": true, "id": "X360_DASH"}``` Xbox 360 Dashboard 
+```{"dashboard": true, "id": "XBOX_DASH"}``` Xbox Dashboard 
 
 
 replacing the console name with the console you'd like to use, and the ID with the ID pulled from the game (the matching XBMC4Xbox script pulls this information from the .XBE files, but YMMV depending on console).
