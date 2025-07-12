@@ -4,13 +4,15 @@ Discord Rich Presence for all network-capable retro consoles. Includes multi-med
 ## Features:
 - PS1/PS2/PS3/Xbox/Xbox 360/Wii/Wii U support!
 - Super modular and straightforward, can be adapted to any console that can send TCP/UDP packets!
+- Integrated XLink / Insignia / RPCN multiplayer statistics for games where that information is available!
+- Homebrew support! (currently only for Xbox + Xbox 360)
 
 ## How to Use (as a user):
 - Download the latest sakuraRPC release .zip
-- Go into the "consoles" folder and copy over your sakuraRPC launcher of choice to your system
-- Copy "sakuraRPC.py" anywhere you'll remember it
-- Run "sakuraRPC.py" (make sure Discord Rich Presence is enabled!)
-- Run the sakuraRPC launcher from your console and you should see your game and title ID automagically appear!
+- Go into the "consoles" folder and copy over your sakuraPresence launcher of choice to your system
+- Copy "sakuraPresence.py" anywhere you'll remember it
+- Run "sakuraPresence.py" (make sure Discord Rich Presence is enabled!)
+- Run the sakuraPresence launcher from your console and you should see your game and title ID automagically appear!
 
 ## How to Use (as a developer):
 If you're developing an add-on using this server as a base, making a console-specific plugin is super easy! You just need to send a TCP/UDP packet with contents like the following 
@@ -42,8 +44,10 @@ or
 
 ## Roadmap
 - [ ] Integrating proper XLink Kai arena support into every XLink-capable system
+- [x] RPCN support
 - [x] PS1/PS2/PS3/PSP support
 - [x] Xbox / Xbox 360 support
+- [ ] Xbox / Xbox 360 homebrew support (need to finish database)
 - [x] Wii / Wii U support
 - [ ] Dreamcast support
 - [ ] Gamecube support
@@ -53,10 +57,12 @@ or
 - [ ] Find better sources for cover art
 
 ## Credits:
-- Mobcat + Milenko - Original "xbdStats" server that this is based off of.
+- Mobcat + Milenko - Original "xbdStats" server that this is based off of. This wouldn't be possible without their hard work!
 - xlenore - PS1/PS2 cover art sources
-- TVDB
-- TMDB
-- Insignia Team
+- OGXbox team - Insignia / XLink Kai statistics
+- RPSC3 team - RCPN stats
+- TVDB - TV episode information
+- TMDB - Movie information
+- Insignia Team 
 - XLink Kai Team
 - Many more coming soon!
