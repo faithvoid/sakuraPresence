@@ -1,0 +1,87 @@
+	 DashLaunch
+	 Fakeanim
+	 FFPlay
+	 GamePad 36ster
+	 GOD Unlocker XB360
+	 HDD Compatability Fixer
+	 Lightshow
+	 MilkyTracker
+	 NXE2GOD
+	 Simple 360 NAND Flasher
+	 XellLaunch
+	 XM360
+	 XNA Offline
+	 XPG Chameleon 
+	 RetroArch 360
+	 RetroArch 360 (Unofficial V3) 
+	 3DOx
+	 Amiga360
+	 CPx3
+	 DOSXbox360
+	 DOSBox
+	 MAME 0.72
+	 FBNeo
+	 FBANext
+	 XeBoyAdvance
+	 Visual Boy Advance 360
+	 DSon360
+	 FCE360
+	 Snes360
+	 ScummVM
+	 PCE360
+	 FreePSX
+	 PCSXR-360
+	 PPSSPP
+	 SMS360
+	 Genesis360
+	 Sega Genesis Plus 360 
+	 Vecx-360
+	 Virtual JaguarX
+	 A Little More Intense Snake
+	 Beats of Rage
+	 Claw Machine
+	 Exult 360
+	 FlappyBird
+	 Fursan al-Aqsa: The Knights of the Al-Aqsa Mosque
+	 OpenBOR 360
+	 OpenJazz360
+	 PACMAN COLORS
+	 Paddle Meyhem
+	 Quake3-360
+	 RAWx 360
+	 RedPill
+	 Reminiscene360
+	 Rick360
+	 SDL-Quake
+	 Super Mario War v1.8
+	 Super Mario War v1.7
+	 Tank360
+	 xBermuda360
+	 Xbox Invaders
+	 Quad Carnage
+	 Nest Bound
+	 Mupen64-360
+	 NullDC
+	 SDL-Quake
+	 Snes9x GX
+	 NSMS Plus
+	 Tank360
+	 Ubuntu 10.10
+	 XNA Offline Demo Shortcut
+	 XellLaunch Shortcut
+	 XMPlayer
+	 Game Boy Advance (RetroArch)
+	 Game Boy (RetroArch)
+	 Mame2003 (RetroArch)
+	 Neo Geo Pocket (RetroArch)
+	 FCEUltra (NES) (RetroArch)
+	 Nestopia (RetroArch)
+	 Super Nintendo (RetroArch)
+	 Virtual Boy (RetroArch)
+	 Quake (RetroArch)
+	 Genesis (RetroArch)
+	 TurboGrafx-16 (RetroArch)
+	 Wonderswan (RetroArch)
+	 Cave Story (RetroArch)
+	 Doom (RetroArch)
+	 Final Burn Alpha (RetroArch)
