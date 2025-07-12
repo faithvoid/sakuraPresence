@@ -8,7 +8,7 @@ Discord Rich Presence for all network-capable retro consoles. Includes multi-med
 
 ## Supported Systems:
 - Playstation 1 / 2 / 3 / Portable
-- Xbox + Xbox 360
+- [Xbox](https://github.com/OfficialTeamUIX/Xbox-Discord-Rich-Presence) (128mb recommended for media presence) + [Xbox 360](https://github.com/OfficialTeamUIX/Xbox-Discord-Rich-Presence)
 - Nintendo Wii
 
 ## Planned Systems:
