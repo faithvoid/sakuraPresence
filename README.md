@@ -43,8 +43,6 @@ or
 ``` {"video": true, "id": "Title"} ``` 
 
 ## Roadmap
-- [ ] Integrating proper XLink Kai arena support into every XLink-capable system
-- [x] RPCN support
 - [x] PS1/PS2/PS3/PSP support
 - [x] Xbox / Xbox 360 support
 - [ ] Xbox / Xbox 360 homebrew support (need to finish database)
@@ -55,6 +53,9 @@ or
 - [ ] Switch support
 - [ ] Tkinter-based GUI?
 - [ ] Find better sources for cover art
+- [ ] Integrating proper XLink Kai arena support into every XLink-capable system
+- [x] RPCN support
+- [ ] Wiimmfi support (not possible at the moment due to no external API + CloudFlare protection)
 
 ## Credits:
 - Mobcat + Milenko - Original "xbdStats" server that this is based off of. This wouldn't be possible without their hard work!
