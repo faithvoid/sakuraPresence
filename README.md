@@ -1,6 +1,5 @@
-# sakuraPresence
+# ![](https://cdn.discordapp.com/app-assets/1379734520508579960/1393481542910611476.png) sakuraPresence
 Discord Rich Presence for all network-capable retro consoles. Includes multi-media support!
-
 ## Features:
 - PS1/PS2/PS3/Xbox/Xbox 360/Wii/Wii U support!
 - Super modular and straightforward, can be adapted to any console that can send TCP/UDP packets!
