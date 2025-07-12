@@ -1,4 +1,4 @@
-00000000 Alien Vs Predator
+00000000 Alien vs Predator
 ffff0002 Celeste
 7022007 Cave Story
 ffff0002 DevilutionX
