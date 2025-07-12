@@ -1,4 +1,4 @@
-# sakuraRPC
+# sakuraPresence
 Discord Rich Presence for all network-capable retro consoles. Includes multi-media support!
 
 ## Features:
