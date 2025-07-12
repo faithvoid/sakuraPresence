@@ -26,7 +26,7 @@ Discord Rich Presence for all network-capable retro consoles. Includes multi-med
 - Run the sakuraPresence launcher from your console and you should see your game and title ID automagically appear!
 
 ## How to Use (as a developer):
-If you're developing an add-on using this server as a base, making a console-specific plugin is super easy! You just need to send a TCP/UDP packet with titleID of the game you've launched like the following:
+If you're developing an add-on using this server as a base, making a console-specific plugin or game launcher is super easy! You just need to send a TCP/UDP packet with titleID of the game you've launched like the following:
 
 ### Playstation
 ```{"ps1": true, "id": "SLUS-00662"}``` Parasite Eve Disc 1
@@ -64,6 +64,8 @@ or
 
 This will resolve your tracks via MusicBrainz and video files via TMDB/TVDB to grab cover art, episode/film information, plot synopsis, and more!
 
+For an example of how a game plugin or launcher can work, please look at the Python files in system/xbox (either mediapresence.py or gamepresence.py) to see how it parses game information (this implementation scans the .XBE file for the title ID, similar practices may be possible on other consoles, and if not, MD5 scanning or disc-based title reading reading is an option, please let me know if this is something you need for your presence project and I'll implement it server-side!)
+
 ## Roadmap
 - [x] PS1/PS2/PS3/PSP support
 - [x] Xbox / Xbox 360 support
@@ -79,6 +81,8 @@ This will resolve your tracks via MusicBrainz and video files via TMDB/TVDB to g
 - [ ] Integrating proper XLink Kai arena support into every XLink-capable system
 - [x] RPCN support
 - [ ] Wiimmfi support (not possible at the moment due to no external API + CloudFlare protection)
+- [ ] Better commenting and documentation for developers
+- [ ] Optimization (this is already at 1.5k lines of code because a ton of functionality was duplicated to save time during testing)
 
 ## Credits:
 - Mobcat + Milenko - Original "xbdStats" server that this is based off of. This wouldn't be possible without their hard work!
