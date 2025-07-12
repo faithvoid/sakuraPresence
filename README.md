@@ -26,7 +26,8 @@ Discord Rich Presence for all network-capable retro consoles. Includes multi-med
 - Run the sakuraPresence launcher from your console and you should see your game and title ID automagically appear!
 
 ## How to Use (as a developer):
-If you're developing an add-on using this server as a base, making a console-specific plugin is super easy! You just need to send a TCP/UDP packet with contents like the following 
+If you're developing an add-on using this server as a base, making a console-specific plugin is super easy! You just need to send a TCP/UDP packet with titleID of the game you've launched like the following:
+
 ### Playstation
 ```{"ps1": true, "id": "SLUS-00662"}``` Parasite Eve Disc 1
 ### Playstation 2
@@ -39,6 +40,23 @@ If you're developing an add-on using this server as a base, making a console-spe
 ```{"xbox": true, "id": "4D530064"}```  Halo 2
 ### Xbox 360
 ```{"xbox360": true, "id": "4D5307E6"}``` Halo 3 
+### Gamecube
+```{"gc": true, "id": "DOL-GZLE-USA"}``` The Legend of Zelda: Wind Waker
+### Wii
+```{"wii": true, "id": "RMCE01"}``` Mario Kart Wii
+### Wii U
+```{"wiiu": true, "id": "WUP-P-ABAE"}``` Super Mario Party 10
+### DS
+```{"ds": true, "id": "AMHJ"}``` Metroid Prime Hunters
+### 3DS
+```{"3ds": true, "id": "0004000000033500"}``` Super Mario Party 10
+### Switch
+```{"switch": true, "id": "0100152000022000"}``` Mario Kart 8 Deluxe
+### Dreamcast
+```{"dc": true, "id": "51000"}``` Sonic Adventure (USA)
+
+
+
 ### Console Dashboard
 ```{"dashboard": true, "id": "XBOX_DASH"}``` Xbox Dashboard 
 
@@ -63,6 +81,7 @@ or
 - [ ] DS / 3DS support
 - [ ] Switch support
 - [ ] Tkinter-based GUI?
+- [ ] Server-side console toggles
 - [ ] Find better sources for cover art
 - [ ] Integrating proper XLink Kai arena support into every XLink-capable system
 - [x] RPCN support
