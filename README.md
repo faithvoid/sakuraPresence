@@ -7,13 +7,13 @@ Discord Rich Presence for all network-capable retro consoles. Includes multi-med
 - Homebrew support! (currently only for Xbox + Xbox 360)
 
 ## Supported Systems:
-- Playstation
-- Playstation 2 (includes XLink Kai support)
-- Playstation 3 (includes XLink Kai & RPCN support)
-- Playstation Portable (includes XLink Kai support)
-- [Xbox](https://github.com/OfficialTeamUIX/Xbox-Discord-Rich-Presence) (includes XLink Kai & Insignia support) (128mb recommended for media presence)
-- [Xbox 360](https://github.com/OfficialTeamUIX/Xbox-Discord-Rich-Presence) (includes XLink Kai support)
-- Nintendo Wii
+- Playstation (server-side)
+- Playstation 2 (includes XLink Kai support) (server-side)
+- Playstation 3 (includes XLink Kai & RPCN support) (server-side)
+- Playstation Portable (includes XLink Kai support) (server + client-side)
+- [Xbox](https://github.com/OfficialTeamUIX/Xbox-Discord-Rich-Presence) (includes XLink Kai & Insignia support) (128mb recommended for media presence) (server + client-side)
+- [Xbox 360](https://github.com/OfficialTeamUIX/Xbox-Discord-Rich-Presence) (includes XLink Kai support) (server-side)
+- Nintendo Wii (server-side)
 
 ## Planned Systems:
 - Dreamcast
