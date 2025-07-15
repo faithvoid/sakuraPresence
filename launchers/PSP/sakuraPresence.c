@@ -22,7 +22,7 @@
 
 PSP_MODULE_INFO("sakuraPresence", 0, 1, 0);
 PSP_MAIN_THREAD_ATTR(THREAD_ATTR_USER | THREAD_ATTR_VFPU);
-PSP_HEAP_SIZE_KB(12*1024);
+PSP_HEAP_SIZE_KB(8*1024);
 
 #define SERVER_IP "192.168.1.110"
 #define SERVER_PORT 1102
@@ -103,7 +103,7 @@ int connectToNetwork() {
     return 0;
 }
 
-int sendPacket(const char* titleID) {
+int sendPacket(const char* gameID) {
     int sock = socket(AF_INET, SOCK_DGRAM, 0);
     if (sock < 0) {
         pspDebugScreenPrintf("Failed to create socket\n");
@@ -117,7 +117,7 @@ int sendPacket(const char* titleID) {
     addr.sin_addr.s_addr = inet_addr(SERVER_IP);
 
     char packet[256];
-    snprintf(packet, sizeof(packet), "{\"psp\": true, \"id\": \"%s\"}", titleID);
+    snprintf(packet, sizeof(packet), "{\"psp\": true, \"id\": \"%s\"}", gameID);
 
     int sent = sendto(sock, packet, strlen(packet), 0, (struct sockaddr *)&addr, sizeof(addr));
     if (sent < 0) {
@@ -131,7 +131,7 @@ int sendPacket(const char* titleID) {
     return 0;
 }
 
-int sendDashPacket(const char* titleID) {
+int sendDashPacket(const char* gameID) {
     int sock = socket(AF_INET, SOCK_DGRAM, 0);
     if (sock < 0) {
         pspDebugScreenPrintf("Failed to create socket\n");
@@ -145,7 +145,7 @@ int sendDashPacket(const char* titleID) {
     addr.sin_addr.s_addr = inet_addr(SERVER_IP);
 
     char packet[256];
-    snprintf(packet, sizeof(packet), "{\"dashboard\": true, \"id\": \"%s\"}", titleID);
+    snprintf(packet, sizeof(packet), "{\"dashboard\": true, \"id\": \"%s\"}", gameID);
 
     int sent = sendto(sock, packet, strlen(packet), 0, (struct sockaddr *)&addr, sizeof(addr));
     if (sent < 0) {
@@ -220,81 +220,85 @@ int readFileToBuffer(const char* path, unsigned char** buffer, size_t* size) {
     return 0;
 }
 
-int extractTitleIDFromPBP(const char* path, char* titleID, size_t titleIDSize) {
+int extractGameIDFromPBP(const char* path, char* gameID, size_t gameIDSize) {
     unsigned char* pbpData = NULL;
     size_t pbpSize = 0;
-    
+
     if (readFileToBuffer(path, &pbpData, &pbpSize) < 0) {
         pspDebugScreenPrintf("Failed to read PBP file\n");
         return -1;
     }
-    
-    if (pbpSize < 0x28) {
-        pspDebugScreenPrintf("PBP file too small (%lu bytes)\n", pbpSize);
+
+    if (pbpSize < 0x28 || memcmp(pbpData, "\0PBP", 4) != 0) {
+        pspDebugScreenPrintf("Invalid or corrupt PBP header\n");
         free(pbpData);
         return -1;
     }
-    
-    uint32_t sfoOffset = readLE32(pbpData + 0x8);
-    uint32_t sfoSize = readLE32(pbpData + 0xC) - sfoOffset;
-    
-    if (sfoOffset >= pbpSize || sfoOffset + sfoSize > pbpSize) {
-        pspDebugScreenPrintf("Invalid SFO section in PBP (offset: 0x%08X, size: 0x%08X)\n", 
-                            sfoOffset, sfoSize);
+
+    uint32_t sfoOffset = readLE32(pbpData + 0x08);
+    if (sfoOffset + 20 > pbpSize) {
+        pspDebugScreenPrintf("SFO offset out of range\n");
         free(pbpData);
         return -1;
     }
-    
-    const unsigned char* sfoData = pbpData + sfoOffset;
-    
-    if (readLE32(sfoData) != 0x46535000) { 
+
+    const unsigned char* sfo = pbpData + sfoOffset;
+
+    if (readLE32(sfo) != 0x46535000) {
         pspDebugScreenPrintf("Invalid SFO magic\n");
         free(pbpData);
         return -1;
     }
-    
-    uint32_t version = readLE32(sfoData + 4);
-    uint32_t keyTableOffset = readLE32(sfoData + 8);
-    uint32_t dataTableOffset = readLE32(sfoData + 12);
-    uint32_t entryCount = readLE32(sfoData + 16);
-    
-    if (version != 0x0101 || entryCount > 100 || 
-        keyTableOffset >= sfoSize || dataTableOffset >= sfoSize) {
-        pspDebugScreenPrintf("Invalid SFO structure\n");
-        free(pbpData);
-        return -1;
-    }
-    
-    const unsigned char* entries = sfoData + 20;
-    int found = 0;
-    
-    for (uint32_t i = 0; i < entryCount && !found; i++) {
-        uint16_t keyOffset = readLE16(entries + (i * 16));
-        uint16_t dataFormat = entries[(i * 16) + 2];
-        uint32_t dataLength = entries[(i * 16) + 4];
-        uint32_t dataOffset = readLE32(entries + (i * 16) + 8);
-        
-        const char* key = (const char*)(sfoData + keyTableOffset + keyOffset);
-        
-        if (strcmp(key, "DISC_ID") == 0) {
-            const char* data = (const char*)(sfoData + dataTableOffset + dataOffset);
+
+    uint32_t keyTableOff = readLE32(sfo + 8);
+    uint32_t dataTableOff = readLE32(sfo + 12);
+    uint32_t entryCount   = readLE32(sfo + 16);
+    const unsigned char* entries = sfo + 20;
+
+    for (uint32_t i = 0; i < entryCount; i++) {
+        const unsigned char* entry = entries + i * 16;
+
+        uint16_t keyOff    = readLE16(entry + 0);
+        uint16_t fmt       = readLE16(entry + 2);
+        uint32_t len       = readLE32(entry + 4);
+        uint32_t dataOff   = readLE32(entry + 12); 
+
+        const char* key = (const char*)(sfo + keyTableOff + keyOff);
+
+        if (strcmp(key, "DISC_ID") == 0 || strcmp(key, "TITLE_ID") == 0) {
+            const char* value = (const char*)(sfo + dataTableOff + dataOff);
+
+            pspDebugScreenPrintf("Raw ID data (%d bytes): ", len);
+            for (uint32_t j = 0; j < len && j < 16; j++) {
+                pspDebugScreenPrintf("%02X ", (unsigned char)value[j]);
+            }
+            pspDebugScreenPrintf("\n");
+
+            size_t actualLen = 0;
+            while (actualLen < len && value[actualLen] != '\0') {
+                actualLen++;
+            }
+
+            if (gameIDSize == 0) {
+                pspDebugScreenPrintf("Invalid gameID buffer size\n");
+                free(pbpData);
+                return -1;
+            }
+
+            size_t copyLen = (actualLen < gameIDSize - 1) ? actualLen : gameIDSize - 1;
+            memcpy(gameID, value, copyLen);
+            gameID[copyLen] = '\0';
+
+            pspDebugScreenPrintf("Found %s: '%s' (length: %d)\n", key, gameID, actualLen);
             
-            size_t copyLen = (dataLength < titleIDSize - 1) ? dataLength : titleIDSize - 1;
-            strncpy(titleID, data, copyLen);
-            titleID[copyLen] = '\0';
-            
-            found = 1;
+            free(pbpData);
+            return 0;
         }
     }
-    
+
+    pspDebugScreenPrintf("DISC_ID or TITLE_ID not found\n");
     free(pbpData);
-    
-    if (!found) {
-        pspDebugScreenPrintf("TITLE_ID not found in PARAM.SFO\n");
-        return -1;
-    }
-    
-    return 0;
+    return -1;
 }
 
 
@@ -317,12 +321,8 @@ void displayFileBrowser(int* selected) {
     }
 }
 
-void launchGame(const char* path, const char* titleID) {
+void launchGame(const char* path, const char* gameID) {
     pspDebugScreenPrintf("Preparing to launch %s...\n", path);
-
-    if (sendPacket(titleID) < 0) {
-        pspDebugScreenPrintf("Failed to send title ID\n");
-    }
 
     cleanupNetwork();
 
@@ -331,18 +331,19 @@ void launchGame(const char* path, const char* titleID) {
     struct SceKernelLoadExecParam param;
     memset(&param, 0, sizeof(param));
     param.size = sizeof(param);
-    param.args = strlen(path) + 1;
-    param.argp = (void*)path;
-    param.key = "game";
+    param.args = 0;
+    param.argp = NULL;
+    param.key = NULL;
 
     pspDebugScreenPrintf("Launching %s...\n", path);
-    sceKernelLoadExec(path, &param);
-
-    pspDebugScreenPrintf("Failed to launch game!\n");
-    sceKernelDelayThread(3000000);
-
-    connectToNetwork();
+    int ret = sceKernelLoadExec(path, &param);
+    if (ret < 0) {
+        pspDebugScreenPrintf("Failed to launch game! Error: 0x%08X\n", ret);
+        sceKernelDelayThread(3000000);
+        connectToNetwork();
+    }
 }
+
 
 int main(int argc, char *argv[]) {
     pspDebugScreenInit();
@@ -431,12 +432,12 @@ int main(int argc, char *argv[]) {
                 const char* ext = strrchr(fileList[selected].name, '.');
                 if (ext) {
                     if (strcasecmp(ext, ".pbp") == 0) {
-                        char titleID[10] = {0};
+                        char gameID[16];
                         pspDebugScreenPrintf("\nExtracting Title ID...\n");
                         
-                        if (extractTitleIDFromPBP(newPath, titleID, sizeof(titleID)) == 0) {
-                            pspDebugScreenPrintf("Title ID: %s\n", titleID);
-                            launchGame(newPath, titleID);
+                        if (extractGameIDFromPBP(newPath, gameID, sizeof(gameID)) == 0) {
+                            pspDebugScreenPrintf("Title ID: %s\n", gameID);
+                            launchGame(newPath, gameID);
                         } else {
                             pspDebugScreenPrintf("Failed to extract Title ID\n");
                             sceKernelDelayThread(2000000);
