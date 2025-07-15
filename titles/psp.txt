@@ -24,7 +24,7 @@ UCAS40139 Magic Sudoku
 UCAS40140 Rezel Cross
 UCAS40142 Lost Regnum: The Emperor of Theives
 UCAS40154 Saru Get You: SaruSaru Daisakusen
-UCAS40179 WipEoutÂ® Pulse [CN]
+UCAS40179 WipEout® Pulse [CN]
 UCAS40180 Coded Soul
 UCAS40192 MyStylist
 UCAS40193 Patapon
@@ -53,10 +53,10 @@ UCED00365 LocoRoco [Demo]
 UCED00432 B-Boy [Demo]
 UCED00448 TEKKEN: Dark Resurrection [Demo]
 UCED00970 God of War: Chains of Olympus [Demo]
-UCED00971 God of WarÂ® Chains of Olympus [Demo]
+UCED00971 God of War® Chains of Olympus [Demo]
 UCED90007 LocoRoco (Christmas Demo)
 UCED90042 SOCOM: Fireteam Bravo 2
-UCES00001 WipEoutÂ® Pure
+UCES00001 WipEout® Pure
 UCES00002 Ridge Racer
 UCES00003 World Tour Soccer
 UCES00004 Formula 1 Grand Prix
@@ -70,7 +70,7 @@ UCES00019 Pursuit Force
 UCES00038 SOCOM: U.S. Navy SEALs: Fireteam Bravo
 UCES00044 Daxter
 UCES00045 Ape Escape P
-UCES00109 LemmingsÂ
+UCES00109 Lemmings
 UCES00113 Gangs of London
 UCES00116 Namco Museum Battle Collection
 UCES00152 Go! Sudoku
@@ -90,12 +90,12 @@ UCES00302 Ape Academy 2
 UCES00304 LocoRoco [Demo]
 UCES00310 Syphon Filter: Dark Mirror
 UCES00356 TEKKEN: Dark Resurrection
-UCES00373 MotoGPÂ
+UCES00373 MotoGP
 UCES00420 Ratchet & Clank: Size Matters
 UCES00421 Shinobido: Tales of the Ninja
 UCES00422 Ridge Racer 2 [Demo]
 UCES00423 Ace Combat X: Skies of Deception
-UCES00465 WipEoutÂ® Pulse
+UCES00465 WipEout® Pulse
 UCES00523 Gangs of London
 UCES00543 SOCOM: U.S. Navy SEALs: Fireteam Bravo 2
 UCES00580 Pink (Video)
@@ -146,7 +146,7 @@ UCES01241 inviZimals
 UCES01242 SOCOM: U.S. Navy SEALs: Fireteam Bravo 3
 UCES01245 Gran Turismo PSP
 UCES01250 Motorstorm Arctic Edge
-UCES01264 LittleBigPlanetÂ
+UCES01264 LittleBigPlanet
 UCES01276 Ghostbusters: The Video Game
 UCES01279 Desi Adda: Games of India
 UCES01289 Buzz! Quiz World [PL]
@@ -161,7 +161,7 @@ UCES01312 Fat Princess: Fistful of Cake
 UCES01313 echoshift
 UCES01320 Street Cricket Champions
 UCES01321 Ghostbusters: The Video Game
-UCES01327 ModNationÂ Racers
+UCES01327 ModNation Racers
 UCES01334 Eye of Judgment Legends, The
 UCES01401 God of War: Ghost of Sparta
 UCES01411 inviZimals: Shadow Zone
@@ -187,12 +187,12 @@ UCES01563 Geronimo Stilton: Return to the Kingdom of Fantasy
 UCES01564 Phineas and Ferb: Across the 2nd Dimension
 UCES01579 Street Cricket Champions 2
 UCET00007 Pursuit Force [Beta]
-UCET00179 LemmingsÂ [Beta]
+UCET00179 Lemmings [Beta]
 UCET00247 Key of Heaven [Beta]
 UCET00287 Killzone: Liberation [Beta]
 UCET00357 LocoRoco [Beta]
 UCET00424 TEKKEN: Dark Resurrection [Beta]
-UCET00713 WipEoutÂ® Pulse [Promo]
+UCET00713 WipEout® Pulse [Promo]
 UCET00844 God of War: Chains of Olympus (Beta)
 UCJB98010 Dokoitsu Let's Gakkou!
 UCJB98011 LocoRoco (Toku Toku Pack)
@@ -204,7 +204,7 @@ UCJS10003 Piposaru Academia: Dossari! Sarugee Daizenshuu
 UCJS10004 Saru Get You! P!
 UCJS10005 PoPoLoCrois Monogatari
 UCJS10006 Derby Time
-UCJS10007 WipEoutÂ® Pure
+UCJS10007 WipEout® Pure
 UCJS10008 Bleach: Heat the Soul
 UCJS10009 TalkMan (Microphone Doukonban)
 UCJS10010 Tenchi no Mon
@@ -225,7 +225,7 @@ UCJS10024 Brave Story: Aratanaru Tabibito
 UCJS10025 Yarudora Portable: Blood the Last Vampire
 UCJS10026 Monster Kingdom: Jewel Summoner
 UCJS10027 Derby Time 2006
-UCJS10028 LemmingsÂ
+UCJS10028 Lemmings
 UCJS10029 I.Q Mania
 UCJS10030 Bomberman
 UCJS10031 XI Coliseum
@@ -349,12 +349,12 @@ UCUS70064 Little Big Planet [Demo]
 UCUS80170 Killzone: Liberation
 UCUS98601 Twisted Metal: Head-On
 UCUS98603 ATV Off-Road Fury: Blazin' Trails
-UCUS98604 Gretzky NHLÂ ('05)
+UCUS98604 Gretzky NHL ('05)
 UCUS98605 MLB '05
 UCUS98606 Syphon Filter: Logan's Shadow
 UCUS98607 NBA 05
 UCUS98609 Ape Escape: On the Loose
-UCUS98612 WipEoutÂ® Pure
+UCUS98612 WipEout® Pure
 UCUS98613 World Tour Soccer '05
 UCUS98614 Hot Shots Golf: Open Tee
 UCUS98615 SOCOM: U.S. Navy SEALs: Fireteam Bravo
@@ -367,7 +367,7 @@ UCUS98622 Neopets: PetPet Adventures: The Wand of Wishing
 UCUS98623 Kingdom of Paradise
 UCUS98624 MLB '06: The Show
 UCUS98626 NBA 06
-UCUS98627 Gretzky NHLÂ '06
+UCUS98627 Gretzky NHL '06
 UCUS98629 Ape Escape Academy [Demo]
 UCUS98631 World Tour Soccer '06
 UCUS98632 Gran Turismo
@@ -381,7 +381,7 @@ UCUS98642 PSP System Kiosk Disc #1
 UCUS98644 NBA 07
 UCUS98645 SOCOM: U.S. Navy SEALs: Fireteam Bravo 2
 UCUS98646 Killzone: Liberation
-UCUS98647 LemmingsÂ
+UCUS98647 Lemmings
 UCUS98648 ATV Off-Road Fury Pro
 UCUS98649 SOCOM: U.S. Navy SEALs: Tactical Strike
 UCUS98653 God of War: Chains of Olympus
@@ -394,7 +394,7 @@ UCUS98664 PSP System Kiosk Disc #3 [Demo]
 UCUS98667 MLB '07: The Show
 UCUS98668 Resistance Retribution
 UCUS98670 Killzone: Liberation [Regular Demo]
-UCUS98671 LemmingsÂ [Demo]
+UCUS98671 Lemmings [Demo]
 UCUS98675 SOCOM: U.S. Navy SEALs: Fireteam Bravo 2
 UCUS98676 World Tour Soccer '06 [Demo]
 UCUS98677 SOCOM: Fireteam Bravo 2
@@ -402,7 +402,7 @@ UCUS98680 MLB '07: The Show [Demo]
 UCUS98681 ATV Off-Road Fury Pro [Demo]
 UCUS98684 Ratchet & Clank: Size Matters [Regular Demo]
 UCUS98685 LocoRoco [Regular Demo]
-UCUS98687 Twisted MetalÂ®: Head-On
+UCUS98687 Twisted Metal®: Head-On
 UCUS98689 Gangs of London [Demo]
 UCUS98691 SOCOM: U.S. Navy SEALs: Fireteam Bravo 2 [Demo]
 UCUS98693 Hot Shots Golf: Open Tee 2
@@ -418,8 +418,8 @@ UCUS98703 Pursuit Force: Extreme Justice
 UCUS98705 God of War: Chains of Olympus [Special Edition: Battle of Attica]
 UCUS98706 Jeanne d'Arc [Demo]
 UCUS98711 Patapon
-UCUS98712 WipEoutÂ® Pulse
-UCUS98713 God of WarÂ® Chains of Olympus [Demo]
+UCUS98712 WipEout® Pulse
+UCUS98713 God of War® Chains of Olympus [Demo]
 UCUS98715 NBA 09: The Inside
 UCUS98716 SOCOM: U.S. Navy SEALs: Fireteam Bravo 3
 UCUS98717 Patapon
@@ -432,12 +432,12 @@ UCUS98734 Patapon 2 [Demo]
 UCUS98735 Resistance Retribution
 UCUS98737 God of War: Ghost of Sparta
 UCUS98738 NBA 10: The Inside
-UCUS98739 PixelJunkÂ Monsters Deluxe
+UCUS98739 PixelJunk Monsters Deluxe
 UCUS98740 Fat Princess: Fistful of Cake
-UCUS98741 ModNationÂ Racers
+UCUS98741 ModNation Racers
 UCUS98742 MLB '10: The Show
 UCUS98743 MotorStorm Arctic Edge
-UCUS98744 LittleBigPlanetÂ
+UCUS98744 LittleBigPlanet
 UCUS98745 BUZZ! Quiz World
 UCUS98746 InviZimals
 UCUS98751 Patapon 3
@@ -474,15 +474,15 @@ ULAS42289 World Soccer Winning Eleven 2012
 ULED90018 Mercury Meltdown [Demo]
 ULED90040 Metal Gear Solid: Portable Ops [Demo]
 ULED90043 Xyanide Resurrection [Demo]
-ULED90045 WormsÂ Open Warfare 2 [Demo]
+ULED90045 Worms Open Warfare 2 [Demo]
 ULES00003 World Tour Soccer
 ULES00008 Metal Gear Acid
 ULES00011 Mercury, Archer Maclean's
 ULES00016 Darkstalkers Chronicle: The Chaos Tower
 ULES00021 World Snooker Challenge 2005
-ULES00022 Spider-ManÂ 2
-ULES00023 Spider-ManÂ 2
-ULES00025 Need for SpeedÂ Underground Rivals
+ULES00022 Spider-Man 2
+ULES00023 Spider-Man 2
+ULES00025 Need for Speed Underground Rivals
 ULES00026 Dynasty Warriors
 ULES00033 Tony Hawk's Underground 2: Remix
 ULES00034 Tony Hawk's Underground 2: Remix
@@ -494,7 +494,7 @@ ULES00041 DTM Race Driver 2
 ULES00042 V8 Super Cars Australia 2 
 ULES00043 Lumines
 ULES00046 Untold Legends: Brotherhood of the Blade
-ULES00051 Grand Theft AutoÂ Liberty City Stories
+ULES00051 Grand Theft Auto Liberty City Stories
 ULES00108 Midnight Club 3: DUB Edition
 ULES00111 Colin McRae Rally 2005
 ULES00118 Dynasty Warriors
@@ -510,7 +510,7 @@ ULES00144 Death Jr.
 ULES00146 Koa Challenger
 ULES00147 Madden NFL 06
 ULES00149 Koa Challenger
-ULES00151 Grand Theft AutoÂ Liberty City Stories
+ULES00151 Grand Theft Auto Liberty City Stories
 ULES00153 Ghost in the Shell: Stand Alone Complex
 ULES00154 Tiger Woods PGA Tour '06
 ULES00155 ATV Off-Road Fury: Blazin' Trails
@@ -534,8 +534,8 @@ ULES00175 Frantix
 ULES00176 Tales of Eternia
 ULES00177 GripShift
 ULES00180 Midway Arcade Classic: Extended Play
-ULES00181 Grand Theft AutoÂ Liberty City Stories
-ULES00182 Grand Theft AutoÂ Liberty City Stories
+ULES00181 Grand Theft Auto Liberty City Stories
+ULES00182 Grand Theft Auto Liberty City Stories
 ULES00183 Star Wars Battlefront II
 ULES00189 X-Men Legends II: Rise of Apocalypse
 ULES00190 X-Men Legends II: Rise of Apocalypse
@@ -543,7 +543,7 @@ ULES00191 X-Men Legends II: Rise of Apocalypse
 ULES00192 SSX on Tour
 ULES00193 Breath of Fire III
 ULES00195 Dead to Rights: Reckoning
-ULES00196 Need for SpeedÂ Most Wanted 5-1-0
+ULES00196 Need for Speed Most Wanted 5-1-0
 ULES00198 Lord of the Rings, The: Tactics
 ULES00199 Seigneur Des Anneaux, Le: Tactics
 ULES00200 Lord of the Rings, The: Tactics
@@ -564,7 +564,7 @@ ULES00224 World Series of Poker
 ULES00225 King Kong, Peter Jackson's
 ULES00227 WWE SmackDown! vs. Raw 2006
 ULES00233 Bust-A-Move Ghost
-ULES00235 Street FighterÂ® Alpha 3 MAX
+ULES00235 Street Fighter® Alpha 3 MAX
 ULES00239 Street Supremacy
 ULES00248 Football Manager Handheld
 ULES00251 MegaMan: Maverick Hunter X
@@ -573,14 +573,14 @@ ULES00260 Pac-Man World 3
 ULES00262 Outrun 2006: Coast 2 Coast
 ULES00264 FIFA Street 2
 ULES00267 Ys: The Ark of Napishtim
-ULES00268 WormsÂ Open Warfare
+ULES00268 Worms Open Warfare
 ULES00270 FIGHT NIGHT ROUND 3
 ULES00274 MX vs. ATV Unleashed: On the Edge
 ULES00275 Pocket Racers
 ULES00276 Street Riders
 ULES00277 Tenchu: Time of the Assassins
 ULES00280 SpongeBob Squarepants: The Yellow Avenger
-ULES00281 Tom Clancy'sÂ Splinter Cell Essentials
+ULES00281 Tom Clancy's Splinter Cell Essentials
 ULES00283 Tomb Raider Legend
 ULES00284 Metal Gear Acid 2
 ULES00285 Exit
@@ -597,7 +597,7 @@ ULES00299 Samurai Warriors: State of War
 ULES00301 Untold Legends: The Warrior's Code
 ULES00303 Bubble Bobble Evolution
 ULES00307 MegaMan: Powered Up
-ULES00309 DRAGON BALLÂ® Z Shin Budokai
+ULES00309 DRAGON BALL® Z Shin Budokai
 ULES00312 Tokobot
 ULES00318 Monster Hunter Freedom
 ULES00319 Disney Pixar's Cars
@@ -671,13 +671,13 @@ ULES00473 Taito Legends: Power-Up
 ULES00474 Eragon
 ULES00475 Eragon
 ULES00476 Pro Evolution Soccer 6
-ULES00477 NHLÂ 07
-ULES00479 LEGOÂ® Star Wars II: The Original Trilogy
+ULES00477 NHL 07
+ULES00479 LEGO® Star Wars II: The Original Trilogy
 ULES00483 Warriors, The
 ULES00484 GUN Showdown
 ULES00485 Gun Showdown
 ULES00496 Power Stone Collection
-ULES00502 Grand Theft AutoÂ Vice City Stories
+ULES00502 Grand Theft Auto Vice City Stories
 ULES00503 GTA: Vice City Stories [DE]
 ULES00507 Open Season
 ULES00508 Open Season
@@ -697,7 +697,7 @@ ULES00545 Scarface: Money. Power. Respect.
 ULES00546 Scarface: Money. Power. Respect.
 ULES00547 Scarface: Money. Power. Respect.
 ULES00549 Football Manager Handheld 2007
-ULES00550 Cabela'sÂ® Dangerous Hunts: Ultimate Challenge
+ULES00550 Cabela's® Dangerous Hunts: Ultimate Challenge
 ULES00553 Lumines II
 ULES00554 L.A. Rush
 ULES00555 Mind Quiz
@@ -718,12 +718,12 @@ ULES00571 Scooby-Doo! Who's Watching Who
 ULES00572 Scooby-Doo! Who's Watching Who
 ULES00573 Scooby-Doo! Who's Watching Who
 ULES00574 Guilty Gear Judgment
-ULES00576 Need for SpeedÂ Carbon: Own the City
-ULES00577 Need for SpeedÂ Carbon: Own the City
+ULES00576 Need for Speed Carbon: Own the City
+ULES00577 Need for Speed Carbon: Own the City
 ULES00579 Prince of Persia: Rival Swords
 ULES00581 MTX Mototrax
 ULES00582 Death Jr. 2: Root of Evil
-ULES00584 Tom Clancy's Rainbow SixÂ® Vegas
+ULES00584 Tom Clancy's Rainbow Six® Vegas
 ULES00588 Ford Street Racing: XR Edition
 ULES00590 Aces of War
 ULES00591 World Series of Poker: Tournament of Champions: 2007 Edition
@@ -836,7 +836,7 @@ ULES00773 Dave Mirra BMX Challenge
 ULES00776 State Shift
 ULES00783 Freak Out: Extreme Freeride
 ULES00785 After Burner: Black Falcon
-ULES00789 DRAGON BALLÂ® Z Shin Budokai 2
+ULES00789 DRAGON BALL® Z Shin Budokai 2
 ULES00792 Beta BLOC
 ULES00798 History Channel, The: Great Battles of Rome
 ULES00800 SBK 07: Superbike World Championship
@@ -850,12 +850,12 @@ ULES00815 Ricky Ponting 2007: Pressure Play
 ULES00816 Surf's Up
 ULES00817 Surf's Up
 ULES00818 Riviera: The Promised Land
-ULES00819 WormsÂ Open Warfare 2
+ULES00819 Worms Open Warfare 2
 ULES00820 Generation of Chaos
 ULES00821 World of Pool
-ULES00823 TRANSFORMERSÂ The Game
-ULES00824 TRANSFORMERSÂ The Game
-ULES00825 TRANSFORMERSÂ The Game
+ULES00823 TRANSFORMERS The Game
+ULES00824 TRANSFORMERS The Game
+ULES00825 TRANSFORMERS The Game
 ULES00826 Tomb Raider Anniversary
 ULES00827 Hellboy: The Science of Evil
 ULES00828 Hot Wheels: Ultimate Racing
@@ -876,7 +876,7 @@ ULES00850 Final Fantasy Tactics: The War of the Lions
 ULES00851 Monster Hunter Freedom 2
 ULES00858 Fading Shadows
 ULES00861 Star Wars Battlefront: Renegade Squadron
-ULES00865 NARUTO SHIPPUDENÂ: Ultimate Ninja Heroes
+ULES00865 NARUTO SHIPPUDEN: Ultimate Ninja Heroes
 ULES00867 Madden NFL 08
 ULES00869 Silent Hill: Origins
 ULES00873 Warhammer 40,000: Squad Command
@@ -896,10 +896,10 @@ ULES00900 Spider-Man: Friend or Foe
 ULES00901 Spider-Man: Freund oder Feind [DE]
 ULES00902 Dead Head Fred
 ULES00903 Dead Head Fred
-ULES00905 BEN 10Â Protector of Earth
-ULES00906 BEN 10Â Protector of Earth
+ULES00905 BEN 10 Protector of Earth
+ULES00906 BEN 10 Protector of Earth
 ULES00909 Puzzle Quest: Challenge of the Warlords
-ULES00910 Sega RallyÂ Revo
+ULES00910 Sega Rally Revo
 ULES00911 Sega Rally
 ULES00914 King of Clubs
 ULES00915 Crash of the Titans [IT]
@@ -936,7 +936,7 @@ ULES00969 FlatOut: Head On
 ULES00972 Aliens vs Predator: Requiem
 ULES00973 Fast and the Furious, The
 ULES00974 WWII: Battle Over the Pacific
-ULES00975 The SimpsonsÂ Game
+ULES00975 The Simpsons Game
 ULES00976 Les Simpson Le Jeu [FR]
 ULES00977 I Simpson Il Videogioco [IT]
 ULES00978 Die Simpsons: Das Spiel [DE]
@@ -980,7 +980,7 @@ ULES01055 Warriors Orochi
 ULES01056 Warriors Orochi
 ULES01063 SBK 08: Superbike World Championship
 ULES01066 Puzzler Collection
-ULES01068 Tom Clancy's EndWarÂ
+ULES01068 Tom Clancy's EndWar
 ULES01070 Iron Man
 ULES01071 Iron Man
 ULES01072 WALL-E
@@ -992,8 +992,8 @@ ULES01080 WALL-E [IT]
 ULES01081 WALL-E [RU]
 ULES01082 WALL-E [DE]
 ULES01085 Wild Arms XF
-ULES01086 LEGOÂ® Indiana JonesÂ: The Original Adventures
-ULES01088 NARUTO SHIPPUDENÂ: Ultimate Ninja Heroes 2 [IT]
+ULES01086 LEGO® Indiana Jones: The Original Adventures
+ULES01088 NARUTO SHIPPUDEN: Ultimate Ninja Heroes 2 [IT]
 ULES01090 International Athletics
 ULES01091 Super Hind
 ULES01093 Madden NFL 09
@@ -1021,7 +1021,7 @@ ULES01145 Need for Speed Undercover
 ULES01147 NBA Live 09
 ULES01148 NBA Live 09
 ULES01149 NBA Live 09
-ULES01151 LEGOÂ® BatmanÂ: The Videogame
+ULES01151 LEGO® Batman: The Videogame
 ULES01152 Football Manager Handheld 2009
 ULES01154 Star Ocean: First Departure
 ULES01161 Imagine Champion Rider
@@ -1040,7 +1040,7 @@ ULES01180 Harry Potter and the Half Blood Prince
 ULES01183 Yu-Gi-Oh! GX Tag Force 3
 ULES01185 Shaun White Snowboarding
 ULES01187 Star Ocean: Second Evolution
-ULES01189 BEN 10Â Alien Force
+ULES01189 BEN 10 Alien Force
 ULES01191 King of Fighters Collection: The Orochi Saga, The
 ULES01211 Samurai Shodown Anthology
 ULES01213 Monster Hunter Freedom Unite
@@ -1050,7 +1050,7 @@ ULES01218 Phantasy Star Portable
 ULES01219 Real Madrid: The Game
 ULES01221 Dynasty Warriors: Strikeforce
 ULES01226 X-Men Origins: Wolverine
-ULES01227 DRAGON BALLÂ® Evolution
+ULES01227 DRAGON BALL® Evolution
 ULES01230 Blood Bowl
 ULES01237 Tenchu: Shadow Assassins
 ULES01238 G-Force: The Video Game
@@ -1087,7 +1087,7 @@ ULES01302 Cover Girl
 ULES01303 Hannah Montana: Rock Out the Show
 ULES01304 Hannah Montana: Rock Out the Show
 ULES01305 TNA Impact: Cross the Line
-ULES01306 NARUTO SHIPPUDENÂ: Akatsuki Rising
+ULES01306 NARUTO SHIPPUDEN: Akatsuki Rising
 ULES01308 NBA Live 10
 ULES01309 NBA Live 10
 ULES01310 NBA Live 10
@@ -1110,14 +1110,14 @@ ULES01343 Marvel Ultimate Alliance 2
 ULES01345 Astro Boy: The Video Game
 ULES01347 GTA: Chinatown Wars
 ULES01350 Tom Clancy's Ghost Recon: Predator
-ULES01351 LEGOÂ® Harry PotterÂ: Years 1-4 (version 2.01)
+ULES01351 LEGO® Harry Potter: Years 1-4 (version 2.01)
 ULES01352 Silent Hill: Shattered Memories
 ULES01353 Pro Evolution Soccer 2010
 ULES01354 Pro Evolution Soccer 2010
 ULES01355 Formula 1 2009
 ULES01356 Puzzle Chronicles
-ULES01357 James Cameron's AVATARÂ: THE GAME
-ULES01358 BEN 10Â Alien Force: Vilgax Attacks
+ULES01357 James Cameron's AVATAR: THE GAME
+ULES01358 BEN 10 Alien Force: Vilgax Attacks
 ULES01359 Half-Minute Hero
 ULES01360 Gensan
 ULES01361 Cloudy With a Chance of Meatballs
@@ -1127,13 +1127,13 @@ ULES01365 SpongeBob's Truth or Square
 ULES01366 Autoescuela Aprueba Conmigo
 ULES01367 Assassin's Creed: Bloodlines
 ULES01368 Marvel Super Hero Squad
-ULES01370 LEGOÂ® Indiana JonesÂ 2: The Adventure Continues
+ULES01370 LEGO® Indiana Jones 2: The Adventure Continues
 ULES01372 Metal Gear Solid: Peace Walker
 ULES01375 MX vs. ATV Reflex
 ULES01376 TEKKEN 6
 ULES01381 Army of TWO: The 40th Day
 ULES01383 Adventures to Go!
-ULES01384 Dante's InfernoÂ
+ULES01384 Dante's Inferno
 ULES01385 Dante's Inferno
 ULES01386 Dante's Inferno
 ULES01387 Dante's Inferno
@@ -1147,7 +1147,7 @@ ULES01402 Split/Second: Velocity
 ULES01404 Toy Story 3 [RU]
 ULES01405 Toy Story 3
 ULES01406 Toy Story 3
-ULES01407 NARUTO SHIPPUDENÂ: Ultimate Ninja Heroes 3
+ULES01407 NARUTO SHIPPUDEN: Ultimate Ninja Heroes 3
 ULES01408 Prince of Persia: The Forgotten Sands
 ULES01409 Prince of Persia: The Forgotten Sands
 ULES01410 UFC Undisputed 2010
@@ -1158,7 +1158,7 @@ ULES01415 Megamind: The Blue Defender
 ULES01416 Dead or Alive: Paradise
 ULES01417 Valkyria Chronicles II
 ULES01418 What Did I Do to Deserve This, My Lord?! 2
-ULES01422 Iron ManÂ 2: The Video Game
+ULES01422 Iron Man 2: The Video Game
 ULES01429 Metal Slug XX
 ULES01431 Dead or Alive: Paradise
 ULES01432 Fullmetal Alchemist: Brotherhood
@@ -1167,7 +1167,7 @@ ULES01438 Prince of Persia: The Forgotten Sands
 ULES01439 Phantasy Star Portable 2
 ULES01440 PlayEnglish
 ULES01441 Kingdom Hearts: Birth By Sleep
-ULES01446 LEGOÂ® Star Wars III: The Clone WarsÂ
+ULES01446 LEGO® Star Wars III: The Clone Wars
 ULES01447 Despicable Me
 ULES01448 Pro Cycling Season 2010: Le Tour de France
 ULES01455 Football Manager Handheld 2011
@@ -1203,13 +1203,13 @@ ULES01510 WWE All Stars
 ULES01512 Michael Jackson: The Experience
 ULES01513 3rd Birthday, The
 ULES01515 Gladiator Begins
-ULES01516 NARUTO SHIPPUDENÂ: Kizuna Drive
+ULES01516 NARUTO SHIPPUDEN: Kizuna Drive
 ULES01519 Gods Eater: Burst
 ULES01521 Final Fantasy IV: Complete Collection
 ULES01523 Shin Megami Tensei: Persona 3 Portable
 ULES01526 BlazBlue: Continuum Shift II
-ULES01528 LEGOÂ® Pirates of the CaribbeanÂ The Video Game
-ULES01529 LEGOÂ® Pirates of the CaribbeanÂ The Video Game [RU]
+ULES01528 LEGO® Pirates of the Caribbean The Video Game
+ULES01529 LEGO® Pirates of the Caribbean The Video Game [RU]
 ULES01532 LEGO Harry Potter: Years 5-7
 ULES01537 Naruto Shippuden: Ultimate Ninja Impact
 ULES01540 Pro Evolution Soccer 2012
@@ -1242,7 +1242,7 @@ ULES01578 NBA 2K13
 ULET00385 Test Drive Unlimited [Beta]
 ULET00386 Test Drive Unlimited (Beta)
 ULET00456 Battlezone [Beta]
-ULET00919 SEGA RallyÂ Revo [Promo]
+ULET00919 SEGA Rally Revo [Promo]
 ULJM05001 Metal Gear Acid
 ULJM05002 Mahjong Kakutou Club
 ULJM05003 Shin Sangoku Musou
@@ -2052,7 +2052,7 @@ ULJS00045 Derby Stallion P
 ULJS00046 Kinnikuman: Muscle Generations
 ULJS00047 Namco Museum Vol.2
 ULJS00048 TEKKEN Dark Resurrection
-ULJS00049 DRAGON BALLÂ® Z Shin Budokai
+ULJS00049 DRAGON BALL® Z Shin Budokai
 ULJS00050 Biz Taiken Series: Kigyodo
 ULJS00051 Minna no Chizu
 ULJS00052 Daito Giken Koushiki Pachi-Slot Simulator: Ossu! Banchou Portable
@@ -2106,7 +2106,7 @@ ULJS00099 New Rainbow Islands: Hurdy Gurdy Daibouken!!
 ULJS00103 Minna no Chizu 2
 ULJS00104 Minna no Chizu 2 (Soft Tantaiban)
 ULJS00105 Mawaskes: Based on Carton-kun
-ULJS00107 DRAGON BALLÂ® Z Shin Budokai 2
+ULJS00107 DRAGON BALL® Z Shin Budokai 2
 ULJS00108 Simple 2500 Series Portable!! Vol. 10: The IQ Cube: Moyatte Atama o Puzzle de Sukkiri!
 ULJS00111 R-Type Tactics
 ULJS00112 Dragoneer's Aria: Ryu ga Nemuru Made
@@ -2169,7 +2169,7 @@ ULJS00178 Giren No Yabou Kyoui V
 ULJS00180 Midnight Club L.A. Remix
 ULJS00181 Kidou Senshi Gundam: Senjou no Kizuna Portable
 ULJS00183 Disgaea 2: Portable Portable
-ULJS00184 DRAGON BALLÂ® Evolution
+ULJS00184 DRAGON BALL® Evolution
 ULJS00186 Tora Dora Portable!
 ULJS00187 Sengoku Tenka Touitsu
 ULJS00188 Bokujou Monogatari: Sugar Mura to Minna no Negai
@@ -2203,7 +2203,7 @@ ULJS00229 Antiphona no Seikahime: Tenshi no Score Op.A
 ULJS00230 Naraku no Shiro Portable: Ichiyanagi Nagomu, 2-dome no Junan
 ULJS00234 ATOM
 ULJS00235 Kenka Banchou Portable
-ULJS00236 NARUTO SHIPPUDENÂ: Narutimate Accel 3
+ULJS00236 NARUTO SHIPPUDEN: Narutimate Accel 3
 ULJS00237 God Eater
 ULJS00238 Battle Spirits: Kiseki no Hasha
 ULJS00239 Fushigi no Dungeon: Fuurai no Shiren 3 Portable
@@ -2228,7 +2228,7 @@ ULJS00283 We Love Juggler
 ULJS00285 Prinny 2: Dawn of Operation Panties, Dood!
 ULJS00286 Disgaea Infinite
 ULJS00289 Daisenryaku Perfect: Senjou no Hasha
-ULJS00291 NARUTO SHIPPUDENÂ: Kizuna Drive
+ULJS00291 NARUTO SHIPPUDEN: Kizuna Drive
 ULJS00292 Hagane no Renkinjutsushi: Fullmetal Alchemist: Yakusoku no Hi e
 ULJS00293 Tales of Phantasia: Narikiri Dungeon X
 ULJS00295 Hisshou Pachinko: Pachi-Slot Kouryaku Series Portable Vol.1: Shinseiki Evangelion: Tamashii no Kiseki
@@ -2389,7 +2389,7 @@ ULUS10003 Untold Legends: Brotherhood of the Blade
 ULUS10004 Dynasty Warriors
 ULUS10005 Darkstalkers Chronicle: The Chaos Tower
 ULUS10006 Metal Gear Acid
-ULUS10007 Need for SpeedÂ Underground Rivals
+ULUS10007 Need for Speed Underground Rivals
 ULUS10008 NFL Street 2: Unleashed
 ULUS10009 Tiger Woods PGA Tour ('05)
 ULUS10010 NBA Street Showdown
@@ -2397,7 +2397,7 @@ ULUS10011 FIFA Soccer ('05)
 ULUS10012 MVP Baseball
 ULUS10013 Rengoku: The Tower of Purgatory
 ULUS10014 Tony Hawk's Underground 2 Remixed
-ULUS10015 Spider-ManÂ 2
+ULUS10015 Spider-Man 2
 ULUS10016 Smart Bomb
 ULUS10017 Mercury, Archer Maclean's
 ULUS10018 PoPoLoCrois
@@ -2418,12 +2418,12 @@ ULUS10032 Harry Potter and The Goblet of Fire
 ULUS10033 Marvel Nemesis: Rise of the Imperfects
 ULUS10034 Armored Core: Formula Front
 ULUS10035 Namco Museum Battle Collection
-ULUS10036 Need for SpeedÂ Most Wanted
+ULUS10036 Need for Speed Most Wanted
 ULUS10037 Virtua Tennis: World Tour
 ULUS10038 Lord of the Rings Tactics
 ULUS10039 Frantix
 ULUS10040 Gripshift
-ULUS10041 Grand Theft AutoÂ Liberty City Stories
+ULUS10041 Grand Theft Auto Liberty City Stories
 ULUS10042 SSX on Tour
 ULUS10043 Ultimate Block Party
 ULUS10044 Crash Tag Team Racing
@@ -2442,15 +2442,15 @@ ULUS10057 Bust-A-Move
 ULUS10059 Midway Arcade Treasures: Extended Play
 ULUS10060 World Championship Poker 2: featuring Howard Lederer
 ULUS10061 Tokobot
-ULUS10062 Street FighterÂ® Alpha 3 MAX
+ULUS10062 Street Fighter® Alpha 3 MAX
 ULUS10063 Prince of Persia: Revelations
 ULUS10064 Outrun 2006: Coast 2 Coast
-ULUS10065 WormsÂ Open Warfare
+ULUS10065 Worms Open Warfare
 ULUS10066 FIGHT NIGHT ROUND 3
 ULUS10067 FIFA Street 2
 ULUS10068 MegaMan: Maverick Hunter X
 ULUS10069 Street Supremacy
-ULUS10070 Tom Clancy'sÂ Splinter Cell Essentials
+ULUS10070 Tom Clancy's Splinter Cell Essentials
 ULUS10071 MX vs. ATV Unleashed: On the Edge
 ULUS10072 King Kong, Peter Jackson's: The Official Game of the Movie
 ULUS10073 Disney Pixar's Cars
@@ -2461,7 +2461,7 @@ ULUS10077 Metal Gear Acid 2
 ULUS10078 NBA Ballers: Rebound
 ULUS10079 World Poker Tour
 ULUS10080 James Bond 007: From Russia with Love
-ULUS10081 DRAGON BALLÂ® Z Shin Budokai
+ULUS10081 DRAGON BALL® Z Shin Budokai
 ULUS10082 FIFA World Cup 2006
 ULUS10083 Astonishia Story
 ULUS10084 Monster Hunter Freedom
@@ -2486,7 +2486,7 @@ ULUS10102 Mortal Kombat: Unchained
 ULUS10103 Gradius Collection
 ULUS10104 Guilty Gear Judgment
 ULUS10105 Ultimate Ghosts 'n Goblins
-ULUS10106 Cabela'sÂ® Dangerous Hunts: Ultimate Challenge
+ULUS10106 Cabela's® Dangerous Hunts: Ultimate Challenge
 ULUS10107 Valkyrie Profile: Lenneth
 ULUS10108 Metal Gear Solid: Digital Graphic Novel
 ULUS10109 Miami Vice
@@ -2494,9 +2494,9 @@ ULUS10110 Tomb Raider Legend
 ULUS10111 Pirates of the Caribbean: Dead Man's Chest
 ULUS10112 FIFA Soccer '07
 ULUS10113 NBA Live '07
-ULUS10114 Need for SpeedÂ Carbon: Own the City
+ULUS10114 Need for Speed Carbon: Own the City
 ULUS10115 Tiger Woods PGA Tour '07
-ULUS10116 NCAAÂ® Football 07
+ULUS10116 NCAA® Football 07
 ULUS10117 Madden NFL 07
 ULUS10118 Payout Poker and Casino
 ULUS10119 Superman Returns: The Video Game
@@ -2511,7 +2511,7 @@ ULUS10127 Rengoku II: The Stairway to H.E.A.V.E.N.
 ULUS10128 50 Cent: Bulletproof: G-Unit Edition
 ULUS10129 Micro Machines v4
 ULUS10130 Sims 2, The: Pets
-ULUS10131 NHLÂ 07
+ULUS10131 NHL 07
 ULUS10132 Super Monkey Ball Adventure
 ULUS10133 Mercury Meltdown
 ULUS10134 CAPCOM Classics Collection: Reloaded
@@ -2533,14 +2533,14 @@ ULUS10149 Pac-Man World Rally
 ULUS10150 Star Trek: Tactical Assault
 ULUS10151 Pocket Pool
 ULUS10152 Open Season
-ULUS10153 MotoGPÂ
+ULUS10153 MotoGP
 ULUS10154 Metal Slug Anthology
-ULUS10155 LEGOÂ® Star Wars II: The Original Trilogy
+ULUS10155 LEGO® Star Wars II: The Original Trilogy
 ULUS10156 BattleZone
 ULUS10157 Death Jr. 2: Root of Evil
 ULUS10158 GUN Showdown
 ULUS10159 Ford Street Racing
-ULUS10160 Grand Theft AutoÂ Vice City Stories
+ULUS10160 Grand Theft Auto Vice City Stories
 ULUS10161 Bounty Hounds
 ULUS10162 World Series of Poker: Tournament of Champions
 ULUS10163 Pocket Racers
@@ -2555,7 +2555,7 @@ ULUS10171 Power Stone Collection
 ULUS10172 WTF: Work Time Fun
 ULUS10173 Kazook
 ULUS10174 Rush
-ULUS10175 Cabela'sÂ® African Safari
+ULUS10175 Cabela's® African Safari
 ULUS10176 Ace Combat X: Skies of Deception
 ULUS10177 Dungeon Siege: Throne of Agony
 ULUS10178 Mind Quiz
@@ -2586,7 +2586,7 @@ ULUS10202 Metal Gear Solid: Portable Ops
 ULUS10203 Platypus
 ULUS10204 Dave Mirra: BMX Challenge
 ULUS10205 Rainbow Islands
-ULUS10206 Tom Clancy's Rainbow SixÂ® Vegas
+ULUS10206 Tom Clancy's Rainbow Six® Vegas
 ULUS10207 Gitaroo-Man Lives!
 ULUS10208 Taito Legends: Power-Up
 ULUS10209 ProStroke Golf: World Tour 2007
@@ -2613,7 +2613,7 @@ ULUS10230 Valhalla Knights
 ULUS10231 Arthur and the Invisibles
 ULUS10232 Dungeons & Dragons: Tactics
 ULUS10233 Rocky Balboa
-ULUS10234 DRAGON BALLÂ® Z Shin Budokai: Another Road
+ULUS10234 DRAGON BALL® Z Shin Budokai: Another Road
 ULUS10235 Driver '76
 ULUS10236 Burnout Dominator
 ULUS10237 Tom Clancy's Ghost Recon: Advanced Warfighter 2
@@ -2639,7 +2639,7 @@ ULUS10256 Pimp My Ride
 ULUS10257 Brooktown High: Senior Year
 ULUS10258 PQ2: Practical Intelligence Quotient
 ULUS10259 Heatseeker
-ULUS10260 WormsÂ Open Warfare 2
+ULUS10260 Worms Open Warfare 2
 ULUS10261 Harry Potter and The Order of the Phoenix
 ULUS10262 Surf's Up
 ULUS10263 Final Fantasy II: 20th Anniversary Edition
@@ -2653,7 +2653,7 @@ ULUS10270 Silverfall
 ULUS10271 Tales of the World: Radiant Mythology
 ULUS10272 Traxxpad
 ULUS10273 Crazy Taxi: Fare Wars
-ULUS10274 TRANSFORMERSÂ The Game
+ULUS10274 TRANSFORMERS The Game
 ULUS10275 Madden NFL 08
 ULUS10276 Tiger Woods PGA Tour '08
 ULUS10277 Castlevania: The Dracula X Chronicles
@@ -2674,11 +2674,11 @@ ULUS10291 Dragoneer's Aria
 ULUS10292 Star Wars Battlefront: Renegade Squadron
 ULUS10293 FIFA Soccer '08
 ULUS10294 NBA Live '08
-ULUS10295 The SimpsonsÂ Game
+ULUS10295 The Simpsons Game
 ULUS10296 Sims 2, The: Castaway
 ULUS10297 Final Fantasy Tactics: The War of the Lions
 ULUS10298 Hot Pixel
-ULUS10299 NARUTO SHIPPUDENÂ: Ultimate Ninja Heroes
+ULUS10299 NARUTO SHIPPUDEN: Ultimate Ninja Heroes
 ULUS10300 SBK '07
 ULUS10301 Hellboy: Science of Evil
 ULUS10302 Yu-Gi-Oh! GX Tag Force 2 
@@ -2686,17 +2686,17 @@ ULUS10303 Jackass: The Game
 ULUS10304 Crash of the Titans
 ULUS10305 Napoleon Dynamite
 ULUS10306 Thrillville: Off the Rails
-ULUS10307 BEN 10Â Protector of Earth
+ULUS10307 BEN 10 Protector of Earth
 ULUS10308 Disgaea: Afternoon of Darkness
 ULUS10309 Warriors of the Lost Empire
 ULUS10310 Medal of Honor: Heroes 2
-ULUS10311 SEGA RallyÂ Revo
+ULUS10311 SEGA Rally Revo
 ULUS10312 Juiced 2: Hot Import Nights
 ULUS10313 Warhammer 40,000: Squad Command
 ULUS10314 SWAT: Target Liberty
 ULUS10315 Golden Compass, The
 ULUS10316 Indiana Jones and the Staff of Kings
-ULUS10317 Spider-ManÂ 3
+ULUS10317 Spider-Man 3
 ULUS10318 Spider-Man: Friend or Foe
 ULUS10319 Bomberman Land
 ULUS10320 Pro Evolution Soccer 2008
@@ -2710,7 +2710,7 @@ ULUS10327 Aliens vs. Predator: Requiem
 ULUS10328 FlatOut: Head On
 ULUS10329 Beowulf
 ULUS10330 MX vs. ATV: Untamed
-ULUS10331 Need for SpeedÂ ProStreet
+ULUS10331 Need for Speed ProStreet
 ULUS10332 Blokus Portable: Steambot Championship
 ULUS10333 Luxor: Pharaoh's Challenge
 ULUS10334 Puzzle Guzzle
@@ -2726,20 +2726,20 @@ ULUS10343 R-Type Command
 ULUS10344 Fading Shadows
 ULUS10345 Star Wars: The Force Unleashed
 ULUS10346 Space Invaders Extreme
-ULUS10347 Iron ManÂ
-ULUS10349 NARUTO SHIPPUDENÂ: Ultimate Ninja Heroes 2: The Phantom Fortress
-ULUS10350 Disney Pixar's WALLÂE
+ULUS10347 Iron Man
+ULUS10349 NARUTO SHIPPUDEN: Ultimate Ninja Heroes 2: The Phantom Fortress
+ULUS10350 Disney Pixar's WALLE
 ULUS10351 Code Lyoko: Quest for Infinity
 ULUS10352 Madden NFL 09
 ULUS10354 State Shift
-ULUS10355 NCAAÂ® Football 09
+ULUS10355 NCAA® Football 09
 ULUS10356 CID the Dummy
-ULUS10358 Tom Clancy's EndWarÂ
+ULUS10358 Tom Clancy's EndWar
 ULUS10359 Pipemania
 ULUS10360 The King of Fighters Collection: The Orochi Saga
 ULUS10362 Cake Mania: Baker's Challenge
 ULUS10363 B-Boy
-ULUS10365 LEGOÂ® Indiana JonesÂ: The Original Adventures
+ULUS10365 LEGO® Indiana Jones: The Original Adventures
 ULUS10366 Valhalla Knights 2
 ULUS10367 Tiger Woods PGA Tour '09
 ULUS10368 Yggdra Union
@@ -2749,18 +2749,18 @@ ULUS10371 Umihara Kawase
 ULUS10372 Brave: A Warrior's Tale
 ULUS10374 Star Ocean: First Departure
 ULUS10375 Star Ocean: Second Evolution
-ULUS10376 Need for SpeedÂ Undercover
+ULUS10376 Need for Speed Undercover
 ULUS10377 Crash: Mind Over Mutant
 ULUS10378 My Spanish Coach
 ULUS10379 Monster Jam: Urban Assault
-ULUS10380 LEGOÂ® BatmanÂ: The Videogame
+ULUS10380 LEGO® Batman: The Videogame
 ULUS10381 Harry Potter and the Half-Blood Prince
 ULUS10382 Neverland Card Battles
 ULUS10383 Midnight Club L.A. Remix
 ULUS10384 WWE SmackDown! vs. Raw 2009
-ULUS10385 Cabela'sÂ® Legendary Adventures
+ULUS10385 Cabela's® Legendary Adventures
 ULUS10386 PDC World Championship Darts 2008
-ULUS10387 BEN 10Â Alien Force
+ULUS10387 BEN 10 Alien Force
 ULUS10388 Pro Evolution Soccer 2009
 ULUS10389 Spider-Man: Web of Shadows
 ULUS10390 Star Wars: Battlefront: Elite Squadron
@@ -2785,7 +2785,7 @@ ULUS10410 Phantasy Star Portable
 ULUS10411 X-Men Origins: Wolverine
 ULUS10412 Scrabble
 ULUS10413 Major League Baseball 2K9
-ULUS10415 DRAGON BALLÂ® Evolution
+ULUS10415 DRAGON BALL® Evolution
 ULUS10416 Dynasty Warriors: Strikeforce
 ULUS10417 Adventures to Go!
 ULUS10418 Rock Band: Unplugged
@@ -2815,7 +2815,7 @@ ULUS10447 Naruto Shippuden: Legends - Akatsuki Rising
 ULUS10448 BIGS 2, The
 ULUS10449 F1 2009
 ULUS10450 Silent Hill: Shattered Memories
-ULUS10451 James Cameron's AVATARÂ: THE GAME
+ULUS10451 James Cameron's AVATAR: THE GAME
 ULUS10452 WWE SmackDown! vs. RAW 2010
 ULUS10453 Undead Knights
 ULUS10454 Astro Boy: The Video Game
@@ -2831,33 +2831,33 @@ ULUS10464 FIFA Soccer '10
 ULUS10465 NBA Live '10
 ULUS10466 TEKKEN 6
 ULUS10468 Puzzle Chronicles
-ULUS10469 Dante's InfernoÂ
+ULUS10469 Dante's Inferno
 ULUS10470 Steambot Chronicles: Battle Tournament
 ULUS10471 Colin McRae DiRT 2
-ULUS10472 Army of TwoÂ The 40th Day
+ULUS10472 Army of Two The 40th Day
 ULUS10474 NBA 2K10
 ULUS10475 Lord of the Rings: Aragorn's Quest, The
 ULUS10476 IL-2 Sturmovik: Birds of Prey
 ULUS10477 Star Wars: The Clone Wars: Republic Heroes
 ULUS10478 SpongeBob's Truth or Square
-ULUS10479 LORD OF ARCANAÂ 
+ULUS10479 LORD OF ARCANA 
 ULUS10480 Prince of Persia: The Forgotten Sands
 ULUS10481 Yu-Gi-Oh! 5D's Tag Force 4
 ULUS10482 Lunar: Silver Star Harmony
 ULUS10484 Obscure: The Aftermath
 ULUS10485 Marvel: Super Hero Squad
 ULUS10486 GHOSTBUSTERS: The Video Game
-ULUS10487 LEGOÂ® Indiana JonesÂ 2: The Adventure Continues
-ULUS10488 BEN 10Â Alien Force: Vilgax Attacks
-ULUS10490 Grand Theft AutoÂ Chinatown Wars
+ULUS10487 LEGO® Indiana Jones 2: The Adventure Continues
+ULUS10488 BEN 10 Alien Force: Vilgax Attacks
+ULUS10490 Grand Theft Auto Chinatown Wars
 ULUS10491 Half-Minute Hero
 ULUS10492 Mimana Iyar Chronicle
 ULUS10494 What Did I Do to Deserve This, My Lord!? 2
 ULUS10495 Metal Slug XX
-ULUS10496 Dante's InfernoÂ
-ULUS10497 Iron ManÂ 2: The Video Game
+ULUS10496 Dante's Inferno
+ULUS10497 Iron Man 2: The Video Game
 ULUS10499 Shepherd's Crossing
-ULUS10500 LEGOÂ® Harry PotterÂ: Years 1-4
+ULUS10500 LEGO® Harry Potter: Years 1-4
 ULUS10503 MLB 2K10
 ULUS10504 FIFA World Cup 2010: South Africa
 ULUS10505 Kingdom Hearts: Birth By Sleep
@@ -2870,7 +2870,7 @@ ULUS10512 Shin Megami Tensei: Persona 3 Portable
 ULUS10513 Split/Second
 ULUS10515 Valkyria Chronicles II
 ULUS10516 Blood Bowl
-ULUS10518 NARUTO SHIPPUDENÂ: Ultimate Ninja Heroes 3
+ULUS10518 NARUTO SHIPPUDEN: Ultimate Ninja Heroes 3
 ULUS10519 BlazBlue: Calamity Trigger
 ULUS10520 Megamind: The Blue Defender
 ULUS10521 Dead or Alive: Paradise
@@ -2879,12 +2879,12 @@ ULUS10527 Blazing Souls: Accelate
 ULUS10528 Gladiator Begins
 ULUS10529 Phantasy Star Portable 2
 ULUS10530 Monster Jam: Path of Destruction
-ULUS10531 LEGOÂ® Star Wars III: The Clone WarsÂ
+ULUS10531 LEGO® Star Wars III: The Clone Wars
 ULUS10532 Rapala Pro Bass Fishing
-ULUS10533 Cabela'sÂ® North American Adventure
+ULUS10533 Cabela's® North American Adventure
 ULUS10534 Despicable Me
 ULUS10536 Bakugan Battle Brawlers: Defenders of the Core
-ULUS10537 DRAGON BALLÂ® Z Tenkaichi Tag Team
+ULUS10537 DRAGON BALL® Z Tenkaichi Tag Team
 ULUS10538 DJ Max Portable 3
 ULUS10539 Knights in the Nightmare
 ULUS10540 Legend of Heroes: Trails in the Sky, The
@@ -2909,16 +2909,16 @@ ULUS10565 Tactics Ogre: Let Us Cling Together
 ULUS10566 Dissidia: Final Fantasy
 ULUS10567 The 3rd Birthday
 ULUS10568 Mercury 2-For-1 Fun Pack
-ULUS10571 NARUTO SHIPPUDENÂ: Kizuna Drive
+ULUS10571 NARUTO SHIPPUDEN: Kizuna Drive
 ULUS10572 Phantom Brave: The Hermuda Triangle
 ULUS10573 Major League Baseball 2K11
-ULUS10575 LEGOÂ® Pirates of the CaribbeanÂ The Video Game
+ULUS10575 LEGO® Pirates of the Caribbean The Video Game
 ULUS10576 Fate/Extra
 ULUS10577 Hakuoki: Demon of the Fleeting Blossom
 ULUS10579 BlazBlue: Continuum Shift II
-ULUS10580 LEGOÂ® Harry PotterÂ: Years 5-7
+ULUS10580 LEGO® Harry Potter: Years 5-7
 ULUS10581 Madden NFL 12
-ULUS10582 NARUTO SHIPPUDENÂ: Ultimate Ninja Impact
+ULUS10582 NARUTO SHIPPUDEN: Ultimate Ninja Impact
 ULUS10583 FIFA 12
 ULUS10584 Shin Megami Tensei: Persona 2 - Innocent Sin
 ULUS10585 NBA 2K12
