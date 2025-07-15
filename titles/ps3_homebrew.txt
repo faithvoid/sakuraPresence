@@ -1,0 +1,91 @@
+UNINSBACK Uninstall backup utility from 3.55 DEX
+VBAM90000 VBA-PS3 [Emulator]
+VCJS15007 Killzone: Mercenary
+VEBUSPOOF PSN Enabler + Version Spoofer [kmeaw]
+VERSPOOFA Rebug's Version Spoofer
+VICE90000 Commodore 64 Emulator
+VSHU00100 vsh.self patcher for reActPSN
+WIPE01337 Wipe History
+WIRC12345 PS3 IRC
+XMBMANPLS XMB Manager Plus
+XREG00001 xReg Plus (backup/restore xRegistry.sys)
+RXCHE9117 RetroArch: Chex Quest [Doom]
+RXDOO5227 RetroArch: Doom 3 (smiley?) [Doom]
+RXDOO8743 RetroArch: Doom 2
+RXDOO9455 RetroArch: Doom
+RXDUK8847 RetroArch: Duke Nukem GP [Doom]
+RXEAR3028 RetroArch: Earth [Doom]
+RXGOL2861 RetroArch: Goldeneye 007 [Doom]
+RXPAK9136 RetroArch: Quake
+RXSIM7456 RetroArch: Simpson's Doom [Doom]
+RXSIM7456 RetroArch: The Darkening [Doom]
+RXSTA3442 RetroArch: Star Wars [Doom]
+RXSTA9974 RetroArch: Star Trek [Doom]
+RXULT0083 RetroArch: Ultimate FreeDoom [Doom]
+SACDRIP01 SACD-Ripper
+SCOG00001 Scooger
+SCUM12000 ScummVM [Emulator]
+SDISABLER PSN Disabler + 3.55 Version Restore [kmeaw]
+SFOO00003 Reboot
+RQAF00003 qa reset tool
+RPSN00001 reActPSN
+POPEN0000 Popen Unban
+PS2L00123 PS2 Classics Manager by CaptainCPS-X
+PS2U10000 PS2 Classics Placeholder
+PS3HATARI HATARI [Emulator]
+PS3ITAMNG PS3ITA Manager
+PS3ITAPSN PSoN CEX installer [PS3ITA]
+PS3ITARMV PSoN Uninstaller [PS3ITA]
+PS3LOAD04 Run PS3 SELF programs via wireless
+PS3Temp00 PS3 Temp [Monitor CPU/GPU Temperature]
+PS3UPDAT. PlayStationÂ®3 Firmware Update
+PSCD00001 PS3 Cloud Drive
+PSCHANNEL Playstation Channel [Brewology Edition]
+PSEISM0GR PS Seismograph
+PSL145310 PS3loadX
+PSONPSDEX PSoN DEX installer [PS3ITA]
+PSPC66820 Cobra PSP Launcher [Emulator]
+PSVB00001 PSVibe
+QAFG00003 qa flag/qa flag extra tool
+RBGSELECT Rebug Selector
+RBGTLBOX2 Rebug Selector 2.0
+RBOT00003 Setup FLASH for OtherOS
+RCTCORE00 Reset Core 4.31 CFW
+REMINIS00 REminiscence (Flashback)
+RESACTDAT Restore act.dat
+ROGE12345 Rogero Manager
+PCSX00001 PS3SX [Emulator]
+PKGENABLE PKG Enabler
+PKGMANAGE Rebug Package Manager / XMB Manager Plus Flasher
+PKGMANAGR Rebug Package Manager / XMB Manager Plus Flasher
+SLIMEROLL SlimeRoll
+SNES90000 SNES9x [Emulator]
+SSNE10000 RetroArch [Emulator] [FBA/GBA/SNES/Genesis/SEGA CD/NES/GB/GBC/GG/Doom/MAME/PC-Engine]
+SSNE11111 RetroArch: IMAME4all
+SSNE12121 RetroArch: SG-1000
+SSNE13131 RetroArch: Game Gear
+SSNE14141 RetroArch: Master System
+SSNE15151 RetroArch: TurboGrafx CD (aka TurboDuo)
+SSNE16161 RetroArch: Super Grafx
+SSNE17171 RetroArch: Sega CD
+SSNE22222 RetroArch: FBalpha (arcade)
+SSNE33333 RetroArch: Genesis
+SSNE44444 RetroArch: GameboyAdvance
+SSNE54321 RetroArch: Neo-Geo
+SSNE55555 RetroArch: TurboGrafx16
+SSNE65432 RetroArch: prBoom
+SSNE66666 RetroArch: Gameboy
+SSNE77777 RetroArch: NES
+SSNE88888 RetroArch: SNES
+SSNE99999 RetroArch: Wonderswan
+STOK01340 CFWLoader [USB Custom Firmware Loader by stoker25]
+STOK01342 PSIDPatch by stoker25
+SUIT11111 SuiteApp (image/text viewer)
+TEST00000 PS3 Model Detection
+THATOPONG That Other Pong
+TOGGLEQAF Rebug Toggle QA
+TRUEBLUE4 TrueBlue Updater 2.51
+TRUEBLUE5 TrueBlue Updater 2.60
+TRUEBLUE6 TrueBlue Updater 2.61
+TRUEBLUE7 TrueBlue Updater 2.62
+TXTR11111 Text Reader
