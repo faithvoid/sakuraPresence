@@ -75,6 +75,8 @@ For an example of how a game plugin or launcher can work, please look at the Pyt
 - [x] PS1/PS2/PS3/PSP support
 - [x] Xbox / Xbox 360 support
 - [ ] Xbox / Xbox 360 homebrew support (need to finish database)
+- [ ] PS3 homebrew support
+- [ ] PSP homebrew support (possibly not though, a lot of homebrew just reports back as Loco Roco).
 - [x] Wii / Wii U support
 - [ ] Dreamcast support
 - [ ] Gamecube support
@@ -87,7 +89,7 @@ For an example of how a game plugin or launcher can work, please look at the Pyt
 - [x] RPCN support
 - [ ] Wiimmfi support (not possible at the moment due to no external API + CloudFlare protection)
 - [ ] Better commenting and documentation for developers
-- [ ] Optimization (this is already at 1.5k lines of code because a ton of functionality was duplicated to save time during testing)
+- [ ] Optimization (this is already at 1.5k lines of code because a ton of functionality was duplicated to save time during testing. Also uses approx. 50MB of RAM, which can definitely be improved by loading files on-demand instead of all at once.)
 
 ## Credits:
 - Mobcat + Milenko - Original "xbdStats" server that this is based off of. This wouldn't be possible without their hard work!
