@@ -14,11 +14,11 @@ Discord Rich Presence for all network-capable retro consoles. Includes multi-med
 - [x] [Xbox](https://github.com/OfficialTeamUIX/Xbox-Discord-Rich-Presence) (includes XLink Kai & Insignia support) (128mb recommended for media presence) (server + client-side)
 - [x] [Xbox 360](https://github.com/OfficialTeamUIX/Xbox-Discord-Rich-Presence) (includes XLink Kai support) (server-side)
 - [x] Nintendo Wii (server-side)
+- [ ] Nintendo Gamecube (server-side)
 
 ## Planned Systems:
-- [ ] Dreamcast
-- [ ] Gamecube
-- [ ] Switch
+- [ ] Dreamcast (almost finished, just need to finish cover art directory)
+- [ ] Switch (maybe, maybe not)
 - [ ] Wii U
 - [ ] DS + 3DS
 
