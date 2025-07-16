@@ -89,7 +89,17 @@ For an example of how a game plugin or launcher can work, please look at the Pyt
 - [x] RPCN support
 - [ ] Wiimmfi support (not possible at the moment due to no external API + CloudFlare protection)
 - [ ] Better commenting and documentation for developers
-- [ ] Optimization (this is already at 1.5k lines of code because a ton of functionality was duplicated to save time during testing. Also uses approx. 50MB of RAM, which can definitely be improved by loading files on-demand instead of all at once.)
+- [ ] Optimization (this is already at 1.8k lines of code because a ton of functionality was duplicated to save time during testing. Also uses approx. 52MB of RAM, which can definitely be improved by loading files on-demand instead of all at once.)
+
+## FAQ:
+### Will this run on a Raspberry Pi?
+Technically yes, technically no. There isn't an official ARM port of Discord, but there are unofficial ports you can use (or attempt to run it via WINE on a newer Pi), but unauthorized third-client usage may result in your Discord account being terminated, so we don't recommend anything except the official Discord client. sakuraPresence also currently uses 52MB of RAM, which may be an issue on older Pi models. 
+### "Will this come to 'XYZ' console?"
+If it's a brand-new console, no. If it's an older one, maybe. I'll implement server-side support for almost anything, but if you don't see a client on the roadmap, someone else will have to make it!
+### "XYZ title art / title ID is missing!"
+Open up an issue on GitHub with the missing art or title ID and I'll fix it right away!
+### How can I help?
+We need client developers/maintainers, cover art repositories, and people to scan their console homebrew for title IDs and MD5 IDs using the utilities provided in the "utilities" folder to add to the Homebrew database!
 
 ## Credits:
 - Mobcat + Milenko - Original "xbdStats" server that this is based off of. This wouldn't be possible without their hard work!
