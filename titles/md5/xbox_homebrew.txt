@@ -45,7 +45,7 @@ c31242efa17beb8e03cfdb9f9f827ca4 Giddy 3: Somewhat Xbox Edition
 95a81d8d2d0a6209fbbeff7b7e5d1ab6 griffonlegendx
 8e347f04592abe446278917a2e4e0b96 xMoG
 3fe7a85cf82c5a0b92519747f0f864f4 Zelda - Oni Link Begins
-d9a525864d04ef2caa5993531f7b445e xheroes
+d9a525864d04ef2caa5993531f7b445e xHeroes
 34cae2e3c9af3e2cf9a8595a81fc1133 Madness Interactive SX
 020da8f60bd2c8793d89eb28a57974fb AfterShock Pool SX
 229bdd1b3c3346dd890fc851e9b0a945 xBermuda
