@@ -32,3 +32,9 @@ a6001a0 xRaine / xNeoRaine
 44464e47 DefendguinX
 a600126 xBermuda
 2a7c772 Catacomb 3D
+f0015001 GBA Emulator
+d008d009 Doom Legacy
+c76c3b xMadBomber
+a600220 xDink
+44464e47 DefendguinX
+52444654 RoadfighterX
