@@ -1,1 +1,1 @@
-Version 1.0 - Hello World!
+Version 1.0 is now available! Visit the GitHub page to download the latest release.
