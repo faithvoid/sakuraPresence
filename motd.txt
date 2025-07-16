@@ -1,1 +1,2 @@
-Version 1.1 is now available! Visit the GitHub page to download the latest release.
+sakuraPresence version 1.1 is now available! 
+Visit the GitHub page to download the latest release.
