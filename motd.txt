@@ -1,1 +1,1 @@
-Version 1.0 is now available! Visit the GitHub page to download the latest release.
+Version 1.1 is now available! Visit the GitHub page to download the latest release.
