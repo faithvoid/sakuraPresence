@@ -82,7 +82,7 @@ For an example of how a game plugin or launcher can work, please look at the Pyt
 - [ ] Gamecube support
 - [ ] DS / 3DS support
 - [ ] Switch support
-- [ ] Tkinter-based GUI?
+- [ ] Tkinter-based GUI? (include start/stop server button, "clear presence" button)
 - [ ] Server-side console toggles
 - [ ] Find better sources for cover art
 - [ ] Integrating proper XLink Kai arena support into every XLink-capable system
