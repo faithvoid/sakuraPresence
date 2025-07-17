@@ -109,6 +109,7 @@ For an example of how a game plugin or launcher can work, please look at the Pyt
 - [ ] Dreamcast support
 - [ ] Tkinter-based GUI? (include start/stop server button, "clear presence" button)
 - [ ] Server-side console toggles
+- [ ] Manual system/game selection via the UI
 - [ ] Wiimmfi support (not possible at the moment due to no external API + CloudFlare protection)
 - [ ] Better commenting and documentation for developers
 - [ ] Optimization (this is already at 1.8k lines of code because a ton of functionality was duplicated to save time during testing. Also uses approx. 52MB of RAM, which can definitely be improved by loading files on-demand instead of all at once.)
