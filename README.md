@@ -1,4 +1,4 @@
-# ![](https://cdn.discordapp.com/app-assets/1379734520508579960/1393481542910611476.png) sakuraPresence
+# 🌸 sakuraPresence
 Discord Rich Presence for all network-capable retro consoles (8th generation and prior). Includes multi-media support!
 ## Features:
 - Support for multiple consoles! If you can send a network packet, you can send a presence!
@@ -7,14 +7,17 @@ Discord Rich Presence for all network-capable retro consoles (8th generation and
 - Homebrew support! (currently only for Xbox + Xbox 360)
 
 ## Supported Systems:
+### Sony
 - [x] Playstation (server-side)
 - [x] Playstation 2 (server-side) (includes XLink Kai support)
 - [x] Playstation 3 (server-side) (includes XLink Kai & RPCN support)
 - [x] Playstation 4 (server-side) (includes XLink Kai support)
 - [x] Playstation Portable (server + client-side) (includes XLink Kai support)
 - [x] Playstation Vita (server-side) (includes XLink Kai support)
+### Microsoft
 - [x] [Xbox](https://github.com/OfficialTeamUIX/Xbox-Discord-Rich-Presence) (includes XLink Kai & Insignia support) (128mb recommended for media presence) (server + client-side)
 - [x] [Xbox 360](https://github.com/OfficialTeamUIX/Xbox-Discord-Rich-Presence) (includes XLink Kai support) (server-side)
+### Nintendo
 - [x] Nintendo Gamecube (server-side) (includes XLink Kai support)
 - [x] Nintendo Wii (server-side) (includes XLink Kai support)
 - [x] Nintendo Wii U (server-side) (includes XLink Kai support)
