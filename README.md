@@ -114,6 +114,7 @@ We need client developers/maintainers, cover art repositories, and people to sca
 
 ## Credits:
 - Mobcat + Milenko - Original "xbdStats" server that this is based off of. This wouldn't be possible without their hard work!
+- Mega - PS3 testing and WebMAN info grabbing support.
 - xlenore - PS1/PS2 cover art sources
 - OGXbox team - Insignia / XLink Kai statistics
 - RPSC3 team - RCPN stats
@@ -122,7 +123,7 @@ We need client developers/maintainers, cover art repositories, and people to sca
 - MusicBrainz + CoverArtArchive - Music information
 - Insignia Team 
 - XLink Kai Team
-- GameTDB - 3DS/Switch/Wii/Wii U title databases
+- GameTDB - 3DS/Switch/Wii/Wii U title databases and cover art
 - aldostools - PSP / PS3 title databases + cover art
 - OrbisPatches - PS4 cover art
 - Many more coming soon!
