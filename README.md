@@ -8,19 +8,23 @@ Discord Rich Presence for all network-capable retro consoles (8th generation and
 
 ## Supported Systems:
 - [x] Playstation (server-side)
-- [x] Playstation 2 (includes XLink Kai support) (server-side)
-- [x] Playstation 3 (includes XLink Kai & RPCN support) (server-side)
-- [x] Playstation Portable (includes XLink Kai support) (server + client-side)
+- [x] Playstation 2 (server-side) (includes XLink Kai support)
+- [x] Playstation 3 (server-side) (includes XLink Kai & RPCN support)
+- [x] Playstation 4 (server-side) (includes XLink Kai support)
+- [x] Playstation Portable (server + client-side) (includes XLink Kai support)
+- [x] Playstation Vita (server-side) (includes XLink Kai support)
 - [x] [Xbox](https://github.com/OfficialTeamUIX/Xbox-Discord-Rich-Presence) (includes XLink Kai & Insignia support) (128mb recommended for media presence) (server + client-side)
 - [x] [Xbox 360](https://github.com/OfficialTeamUIX/Xbox-Discord-Rich-Presence) (includes XLink Kai support) (server-side)
-- [x] Nintendo Wii (server-side)
-- [ ] Nintendo Gamecube (server-side)
+- [x] Nintendo Gamecube (server-side) (includes XLink Kai support)
+- [x] Nintendo Wii (server-side) (includes XLink Kai support)
+- [x] Nintendo Wii U (server-side) (includes XLink Kai support)
+- [x] Nintendo DS (server-side)
+- [x] Nintendo 3DS (server-side)
+- [x] Nintendo Switch (server-side) (includes XLink Kai support)
 
 ## Planned Systems:
 - [ ] Dreamcast (almost finished, just need to finish cover art directory)
-- [ ] Switch (maybe, maybe not)
-- [ ] Wii U
-- [ ] DS + 3DS
+- [ ] Emulators plug-ins(?)
 
 ## How to Use (as a user):
 - Download the latest sakuraPresence release .zip
@@ -122,4 +126,7 @@ We need client developers/maintainers, cover art repositories, and people to sca
 - MusicBrainz + CoverArtArchive - Music information
 - Insignia Team 
 - XLink Kai Team
+- GameTDB - 3DS/Switch/Wii/Wii U title databases
+- aldostools - PSP / PS3 title databases + cover art
+- OrbisPatches - PS4 cover art
 - Many more coming soon!
