@@ -1,5 +1,24 @@
 # 🌸sakuraPresence
 Discord Rich Presence for all network-capable retro consoles (8th generation and prior). Includes multi-media support!
+![](screenshots/ps1.png)
+![](screenshots/ps2.png)
+![](screenshots/ps3.png)
+![](screenshots/ps4.png)
+![](screenshots/psp.png)
+![](screenshots/vita.png)
+![](screenshots/gc.png)
+![](screenshots/wii.png)
+![](screenshots/wiiu.png)
+![](screenshots/switch.png)
+![](screenshots/ds.png)
+![](screenshots/3ds.png)
+![](screenshots/dreamcast.png)
+![](screenshots/xbox.png)
+![](screenshots/360.png)
+
+
+
+
 ## Features:
 - Support for multiple consoles! If you can send a network packet, you can send a presence!
 - Super modular and straightforward, can be adapted to any console or emulator with networking!
