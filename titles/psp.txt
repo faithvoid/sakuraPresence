@@ -2540,7 +2540,7 @@ ULUS10156 BattleZone
 ULUS10157 Death Jr. 2: Root of Evil
 ULUS10158 GUN Showdown
 ULUS10159 Ford Street Racing
-ULUS10160 Grand Theft Auto Vice City Stories
+ULUS10160 Grand Theft Auto Vice City Stories
 ULUS10161 Bounty Hounds
 ULUS10162 World Series of Poker: Tournament of Champions
 ULUS10163 Pocket Racers
