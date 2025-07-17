@@ -37,7 +37,7 @@ Discord Rich Presence for all network-capable retro consoles (8th generation and
 - Run the sakuraPresence launcher from your console and you should see your game and title ID automagically appear!
 
 ## How to Use (as a developer):
-If you're developing an add-on using this server as a base, making a console-specific plugin or game launcher is super easy! You just need to send a TCP/UDP packet with titleID of the game you've launched like the following:
+If you're developing a client using this server as a base, making a console-specific plugin or game launcher is super easy! You just need to send a TCP/UDP packet with a console ID as a true/false value and the titleID as a string. Examples below:
 
 ## Sony
 ### Playstation
