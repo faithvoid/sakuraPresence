@@ -109,7 +109,7 @@ For an example of how a game plugin or launcher can work, please look at the Pyt
 ### Will this run on a Raspberry Pi?
 Technically yes, technically no. There isn't an official ARM port of Discord, but there are unofficial ports you can use (or attempt to run it via WINE on a newer Pi), but unauthorized third-client usage may result in your Discord account being terminated, so we don't recommend anything except the official Discord client. sakuraPresence also currently uses 52MB of RAM, which may be an issue on older Pi models. 
 ### Will you support (current-gen console here)?
-[](https://en.meming.world/images/en/thumb/1/1d/Creating_Bugs_Bunny%27s_%22No%22.jpg/300px-Creating_Bugs_Bunny%27s_%22No%22.jpg)
+![](https://en.meming.world/images/en/thumb/1/1d/Creating_Bugs_Bunny%27s_%22No%22.jpg/300px-Creating_Bugs_Bunny%27s_%22No%22.jpg)
 ### "Will this come to 'XYZ' console?"
 If it's a brand-new console, no. If it's an older one, maybe. I'll implement server-side support for almost anything, but if you don't see a client on the roadmap, someone else will have to make it!
 ### "XYZ title art / title ID is missing!"
