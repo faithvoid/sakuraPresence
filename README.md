@@ -14,7 +14,7 @@ Discord Rich Presence for all network-capable retro consoles (8th generation and
 ## Features:
 - Support for multiple consoles! If you can send a network packet, you can send a presence!
 - Super modular and straightforward, can be adapted to any console or emulator with networking!
-- Integrated XLink / Insignia / RPCN multiplayer statistics for games where that information is available!
+- Integrated XLink Kai / Insignia / RPCN multiplayer statistics for games where that information is available, as well as automatic XLink Kai arena detection for supported titles!
 - Homebrew support! (currently only for Xbox + Xbox 360)
 
 ## Supported Systems:
