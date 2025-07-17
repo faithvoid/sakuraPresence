@@ -39,6 +39,7 @@ Discord Rich Presence for all network-capable retro consoles (8th generation and
 ## Planned Systems:
 - [ ] Dreamcast (almost finished, just need to finish cover art directory)
 - [ ] Emulators plug-ins(?)
+- [ ] Xbox One (using Dbox API, unsure of how to get cover art just yet)
 
 ## How to Use (as a user):
 - Download the latest sakuraPresence release .zip
