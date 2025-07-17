@@ -90,6 +90,8 @@ This will resolve your video files via TMDB/TVDB to grab cover art, episode/film
 For an example of how a game plugin or launcher can work, please look at the Python files in system/xbox (either mediapresence.py or gamepresence.py) to see how it parses game information (this implementation scans the .XBE file for the title ID, similar practices may be possible on other consoles, and if not, MD5 scanning or disc-based title reading reading is an option, please let me know if this is something you need for your presence project and I'll implement it server-side!)
 
 ## Roadmap
+- [ ] Playstation - Serial port support
+- [ ] Playstation Portable - USB support
 - [ ] Xbox / Xbox 360 homebrew support (need to finish database)
 - [ ] PS3 homebrew support
 - [ ] PSP homebrew support (possibly not though, a lot of homebrew just reports back as Loco Roco).
