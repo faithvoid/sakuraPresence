@@ -1,4 +1,4 @@
-# 🌸 sakuraPresence
+# 🌸sakuraPresence
 Discord Rich Presence for all network-capable retro consoles (8th generation and prior). Includes multi-media support!
 ## Features:
 - Support for multiple consoles! If you can send a network packet, you can send a presence!
