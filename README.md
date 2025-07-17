@@ -1,7 +1,7 @@
 # ![](https://cdn.discordapp.com/app-assets/1379734520508579960/1393481542910611476.png) sakuraPresence
-Discord Rich Presence for all network-capable retro consoles. Includes multi-media support!
+Discord Rich Presence for all network-capable retro consoles (8th generation and prior). Includes multi-media support!
 ## Features:
-- Support for multiple retro consoles! If you can send a network packet, you can send a presence!
+- Support for multiple consoles! If you can send a network packet, you can send a presence!
 - Super modular and straightforward, can be adapted to any console or emulator with networking!
 - Integrated XLink / Insignia / RPCN multiplayer statistics for games where that information is available!
 - Homebrew support! (currently only for Xbox + Xbox 360)
@@ -32,20 +32,29 @@ Discord Rich Presence for all network-capable retro consoles. Includes multi-med
 ## How to Use (as a developer):
 If you're developing an add-on using this server as a base, making a console-specific plugin or game launcher is super easy! You just need to send a TCP/UDP packet with titleID of the game you've launched like the following:
 
+## Sony
 ### Playstation
 ```{"ps1": true, "id": "SLUS-00662"}``` Parasite Eve Disc 1
 ### Playstation 2
 ```{"ps2": true, "id": "SLUS-20765"}``` Resident Evil Outbreak 
 ### Playstation 3
 ```{"ps3": true, "id": "BLUS30094"}``` Haze
+### Playstation 4
+```{"ps3": true, "id": "CUSA07559"}``` .hack//G.U Last Recode
 ### Playstation Portable
 ```{"psp": true, "id": "UCUS98711"}``` Patapon
+### Playstation Vita
+```{"psp": true, "id": "UCUS98711"}``` Patapon
+
+## Microsoft
 ### Xbox
 ```{"xbox": true, "id": "4D530064"}```  Halo 2
 ### Xbox 360
 ```{"xbox360": true, "id": "4D5307E6"}``` Halo 3 
+
+## Nintendo
 ### Gamecube
-```{"gc": true, "id": "DOL-GZLE-USA"}``` The Legend of Zelda: Wind Waker
+```{"gc": true, "id": "GZLE01"}``` The Legend of Zelda: Wind Waker
 ### Wii
 ```{"wii": true, "id": "RMCE01"}``` Mario Kart Wii
 ### Wii U
@@ -56,15 +65,17 @@ If you're developing an add-on using this server as a base, making a console-spe
 ```{"3ds": true, "id": "0004000000033500"}``` Super Mario Party 10
 ### Switch
 ```{"switch": true, "id": "0100152000022000"}``` Mario Kart 8 Deluxe
+
+## Sega
 ### Dreamcast
 ```{"dc": true, "id": "51000"}``` Sonic Adventure (USA)
+
+## Etc.
 ### Console Dashboard
 ```{"dashboard": true, "id": "XBOX_DASH"}``` Xbox Dashboard (can call any platform listed above for dashboard idling mode)
-
 ### Music
 ``` {"music": true, "id": "Artist - Title"} ``` 
 This will resolve your tracks via MusicBrainz!
-
 ### Videos
 ``` {"video": true, "id": "Title"} ``` 
 This will resolve your video files via TMDB/TVDB to grab cover art, episode/film information, plot synopsis, and more!
@@ -72,7 +83,7 @@ This will resolve your video files via TMDB/TVDB to grab cover art, episode/film
 For an example of how a game plugin or launcher can work, please look at the Python files in system/xbox (either mediapresence.py or gamepresence.py) to see how it parses game information (this implementation scans the .XBE file for the title ID, similar practices may be possible on other consoles, and if not, MD5 scanning or disc-based title reading reading is an option, please let me know if this is something you need for your presence project and I'll implement it server-side!)
 
 ## Roadmap
-- [x] PS1/PS2/PS3/PSP support
+- [x] PS1/PS2/PS3/PS4/PSP support
 - [x] Xbox / Xbox 360 support
 - [ ] Xbox / Xbox 360 homebrew support (need to finish database)
 - [ ] PS3 homebrew support
