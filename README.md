@@ -70,12 +70,16 @@ If you're developing a client using this server as a base, making a console-spec
 ## Microsoft
 ### Xbox
 ```{"xbox": true, "id": "4D530064"}```  Halo 2
+
 ```{"xbox": true, "id": "fff3faad"}```  Quake III Arena (homebrew, title ID)
+
 ```{"xbox": true, "id": "9a7870fbb2597d28af2b7ef83f66a6f8"}```  Quake III Arena (homebrew, MD5, recommended as most homebrew doesn't have a valid title ID)
 
 ### Xbox 360
 ```{"xbox360": true, "id": "4D5307E6"}``` Halo 3 
+
 ```{"xbox360": true, "id": "fff3faad"}```  Quake III Arena (homebrew, title ID)
+
 ```{"xbox360": true, "id": "9a7870fbb2597d28af2b7ef83f66a6f8"}```  Quake III Arena (homebrew, MD5, recommended as most homebrew doesn't have a valid title ID)
 
 ## Nintendo
