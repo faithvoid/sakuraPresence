@@ -23,7 +23,7 @@ Discord Rich Presence for all network-capable retro consoles (8th generation and
 - [x] Playstation 2 (server-side) (includes XLink Kai support)
 - [x] Playstation 3 (server-side) (includes XLink Kai & RPCN support)
 - [x] Playstation 4 (server-side) (includes XLink Kai support)
-- [x] Playstation Portable (server + client-side) (includes XLink Kai support)
+- [x] [Playstation Portable](https://github.com/faithvoid/sakuraPresencePSP) (server + client-side) (includes XLink Kai support)
 - [x] Playstation Vita (server-side) (includes XLink Kai support)
 ### Microsoft
 - [x] [Xbox](https://github.com/OfficialTeamUIX/Xbox-Discord-Rich-Presence) (includes XLink Kai & Insignia support) (128mb recommended for media presence) (server + client-side)
