@@ -3,6 +3,7 @@ ffff0002 Celeste
 7022007 Cave Story
 ffff0002 DevilutionX
 4292006 StepMania
+04292006 StepMania
 ffffd00a DoomX
 4f444c43 Doom
 ffff1d1d Quake X
