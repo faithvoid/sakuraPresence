@@ -74,3 +74,8 @@ eb3d70c58c51e5b6264b056832738852 PachiX
 2874d99c3c23ba9af575611fdd79dba4 StarfighterX
 12895c41c5d5d7d6b052eba11e33ca2a AmphetamineX
 8be741c5bad0f8f1d16216e566f8840c ShadowX
+838a362547b44f3aa16246dfe5119419 Cave Story (CaveStoryX)
+479e4e97cb1b8e2f506ca194ba74c26b Super Mario 64 (sm64)
+75bd85446f91a7540db02f645775a219 Celeste (CCelesteX)
+672382dbcc0ff6dea6e324c8e3583669 Tomb Raider (OpenLara)
+f32b3eb29614af67fbe3583a62dc218d Diablo (DevilutionX)
