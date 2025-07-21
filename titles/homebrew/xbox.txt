@@ -39,3 +39,6 @@ c76c3b xMadBomber
 a600220 xDink
 44464e47 DefendguinX
 52444654 RoadfighterX
+FALLOUT1 Fallout (fallout1-ce)
+FALLOUT2 Fallout 2 (fallout2-ce)
+
