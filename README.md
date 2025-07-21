@@ -63,7 +63,7 @@ If you're developing a client using this server as a base, making a console-spec
 ```{"ps3": true, "id": "CUSA07559"}``` .hack//G.U Last Recode
 ### Playstation Portable
 ```{"psp": true, "id": "UCUS98711"}``` Patapon
-```{"psp": true, "id": "9a7870fbb2597d28af2b7ef83f66a6f8"}```  Quake III Arena (homebrew, MD5)
+```{"psp": true, "md5": "9a7870fbb2597d28af2b7ef83f66a6f8"}```  Quake III Arena (homebrew, MD5)
 ### Playstation Vita
 ```{"psp": true, "id": "PCSD00035"}``` Gravity Rush
 
@@ -73,14 +73,14 @@ If you're developing a client using this server as a base, making a console-spec
 
 ```{"xbox": true, "id": "fff3faad"}```  Quake III Arena (homebrew, title ID)
 
-```{"xbox": true, "id": "9a7870fbb2597d28af2b7ef83f66a6f8"}```  Quake III Arena (homebrew, MD5, recommended as most homebrew doesn't have a valid title ID)
+```{"xbox": true, "md5": "9a7870fbb2597d28af2b7ef83f66a6f8"}```  Quake III Arena (homebrew, MD5, recommended as most homebrew doesn't have a valid title ID)
 
 ### Xbox 360
 ```{"xbox360": true, "id": "4D5307E6"}``` Halo 3 
 
 ```{"xbox360": true, "id": "fff3faad"}```  Quake III Arena (homebrew, title ID)
 
-```{"xbox360": true, "id": "9a7870fbb2597d28af2b7ef83f66a6f8"}```  Quake III Arena (homebrew, MD5, recommended as most homebrew doesn't have a valid title ID)
+```{"xbox360": true, "md5": "9a7870fbb2597d28af2b7ef83f66a6f8"}```  Quake III Arena (homebrew, MD5, recommended as most homebrew doesn't have a valid title ID)
 
 ## Nintendo
 ### Gamecube
