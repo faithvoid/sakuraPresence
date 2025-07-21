@@ -158,4 +158,5 @@ We need client developers/maintainers, cover art repositories, and people to sca
 - GameTDB - 3DS/Switch/Wii/Wii U title databases and cover art
 - aldostools - PSP / PS3 title databases + cover art
 - OrbisPatches - PS4 cover art
+- LutzPS - Console icons + homebrew title icons
 - Many more coming soon!
