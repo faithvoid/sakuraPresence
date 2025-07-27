@@ -41,4 +41,4 @@ a600220 xDink
 52444654 RoadfighterX
 FALLOUT1 Fallout (fallout1-ce)
 FALLOUT2 Fallout 2 (fallout2-ce)
-
+XGTA3CLR Grand Theft Auto III: Claudia's Requiem
