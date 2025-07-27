@@ -80,3 +80,4 @@ eb3d70c58c51e5b6264b056832738852 PachiX
 672382dbcc0ff6dea6e324c8e3583669 Tomb Raider (OpenLara)
 f32b3eb29614af67fbe3583a62dc218d Diablo (DevilutionX)
 15e9b208aca5e3e91b7dd551849140e5 Fallout (Fallout-CE)
+d195e60a57d628f3d2b7aedc6a0ada05 Fallout (Fallout-CE)
