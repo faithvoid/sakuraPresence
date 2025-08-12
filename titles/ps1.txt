@@ -8485,7 +8485,7 @@ SLPS-00197 Wolkenkratzer - Shinpan no Tou
 SLPS-00927 Wonder 3 Arcade Gears
 SLPS-02322 Wonder B-Cruise
 SLPS-03295 Wonder B-Cruise [Value 1500]
-SCPS-10072 Wonder Tracker
+SCPS-10072 Wonder Trek
 SLPM-86730 Woody Woodpecker no Go! Go! Racing
 SLUS-01188 Woody Woodpecker Racing
 SLES-02196 World Championship Snooker
