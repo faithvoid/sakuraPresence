@@ -26,6 +26,7 @@ TMDB_API_KEY = config.get("keys", "tmdb_api_key")
 TVDB_API_KEY = config.get("keys", "tvdb_api_key")
 YOUTUBE_API = config.get("keys", "youtube_api")
 SPOTIFY_API = config.get("keys", "spotify_api")
+XLINK_API = config.get("keys", "xlink_api")
 
 # Load PS3/360 addresses and scan intervals from config
 PS3_ADDRESS = config.get("network", "PS3_ADDRESS")
@@ -107,11 +108,6 @@ WIIU_LOGO = "https://cdn.discordapp.com/app-assets/1379734520508579960/139333265
 SWITCH_LOGO = "https://cdn.discordapp.com/app-assets/1379734520508579960/1395508580064694364.png"
 
 # API Keys
-TMDB_API_KEY = "YOURAPIKEYHERE" # Required for TMDB usage!
-TVDB_API_KEY = "YOURAPIKEYHERE" # Required for TVDB usage!
-YOUTUBE_API = "YOURAPIKEYHERE" # This doesn't do anything yet. 
-SPOTIFY_API = "YOURAPIKEYHERE" # This doesn't do anything yet.
-XLINKAPI = ""
 _tvdb_jwt = None
 _tvdb_jwt_time = 0
 
