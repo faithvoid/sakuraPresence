@@ -43,8 +43,8 @@ SLES-02384 40 Winks (Dutch)
 SLES-02017 4x4 World Trophy
 SLPS-01995 70's Robot Anime - Geppy-X - The Super Boosted Armor [Disc 1 of 4]
 SLPS-01996 70's Robot Anime - Geppy-X - The Super Boosted Armor [Disc 2 of 4]
-SLPS-01997 70's Robot Anime - Geppy-X - The Super Boosted Armor [Disc3of4]
-SLPS-01998 70's Robot Anime - Geppy-X - The Super Boosted Armor [Disc4of4]
+SLPS-01997 70's Robot Anime - Geppy-X - The Super Boosted Armor [Disc 3 of 4]
+SLPS-01998 70's Robot Anime - Geppy-X - The Super Boosted Armor [Disc 4 of 4]
 SLPS-01204 98 Koshien
 SLPS-03086 98 Koshien [Magical 1500]
 SLPS-02110 99 Koshien
@@ -168,8 +168,8 @@ SLES-02137 Aironauts
 SLPS-01916 Airs, The
 SLPM-86254 Aitakute Your Smiles In My Heart [Disc 1 of 4]
 SLPM-86255 Aitakute Your Smiles In My Heart [Disc 2 of 4]
-SLPM-86256 Aitakute Your Smiles In My Heart [Disc3of4]
-SLPM-86257 Aitakute Your Smiles In My Heart [Disc4of4]
+SLPM-86256 Aitakute Your Smiles In My Heart [Disc 3 of 4]
+SLPM-86257 Aitakute Your Smiles In My Heart [Disc 4 of 4]
 SLPS-01547 Aizouban Houshinengi
 SLPM-86377 Aizouban Houshinengi [Playstation The Best]
 SLPM-86290 Aizouban Houshinengi [Priced Down]
@@ -1142,20 +1142,20 @@ SLPS-01186 Chuushingura
 SLPS-01450 Cielgris Fantasm - Noir Yeux Noire - Kuroi Hitomi no Noir (Noir's Dark Eyes)
 SLPS-02016 Cinema Eikaiwa - a Boys Life [Disc 1 of 4]
 SLPS-02017 Cinema Eikaiwa - a Boys Life [Disc 2 of 4]
-SLPS-02018 Cinema Eikaiwa - a Boys Life [Disc3of4]
-SLPS-02019 Cinema Eikaiwa - a Boys Life [Disc4of4]
+SLPS-02018 Cinema Eikaiwa - a Boys Life [Disc 3 of 4]
+SLPS-02019 Cinema Eikaiwa - a Boys Life [Disc 4 of 4]
 SLPM-86568 Cinema Eikaiwa - a Boys Life [Reprint] [Disc 1 of 4]
 SLPM-86569 Cinema Eikaiwa - a Boys Life [Reprint] [Disc 2 of 4]
-SLPM-86570 Cinema Eikaiwa - a Boys Life [Reprint] [Disc3of4]
-SLPM-86571 Cinema Eikaiwa - a Boys Life [Reprint] [Disc4of4]
+SLPM-86570 Cinema Eikaiwa - a Boys Life [Reprint] [Disc 3 of 4]
+SLPM-86571 Cinema Eikaiwa - a Boys Life [Reprint] [Disc 4 of 4]
 SLPM-86241 Cinema Eikaiwa - Aino Hateni [Disc 1 of 4]
 SLPM-86242 Cinema Eikaiwa - Aino Hateni [Disc 2 of 4]
-SLPM-86243 Cinema Eikaiwa - Aino Hateni [Disc3of4]
-SLPM-86244 Cinema Eikaiwa - Aino Hateni [Disc4of4]
+SLPM-86243 Cinema Eikaiwa - Aino Hateni [Disc 3 of 4]
+SLPM-86244 Cinema Eikaiwa - Aino Hateni [Disc 4 of 4]
 SLPM-86561 Cinema Eikaiwa - Aino Hateni [Reprint] [Disc 1 of 4]
 SLPM-86562 Cinema Eikaiwa - Aino Hateni [Reprint] [Disc 2 of 4]
-SLPM-86563 Cinema Eikaiwa - Aino Hateni [Reprint] [Disc3of4]
-SLPM-86564 Cinema Eikaiwa - Aino Hateni [Reprint] [Disc4of4]
+SLPM-86563 Cinema Eikaiwa - Aino Hateni [Reprint] [Disc 3 of 4]
+SLPM-86564 Cinema Eikaiwa - Aino Hateni [Reprint] [Disc 4 of 4]
 SLPS-01954 Cinema Eikaiwa - Arashigaoka [Disc 1 of 3]
 SLPS-01955 Cinema Eikaiwa - Arashigaoka [Disc 2 of 3]
 SLPS-01956 Cinema Eikaiwa - Arashigaoka [Disc 3 of 3]
@@ -1176,12 +1176,12 @@ SLPM-86566 Cinema Eikaiwa - Tengokuni Ikenai Papa [Reprint] [Disc 2 of 3]
 SLPM-86567 Cinema Eikaiwa - Tengokuni Ikenai Papa [Reprint] [Disc 3 of 3]
 SLPS-02060 Cinema Eikaiwa - Zombie [Disc 1 of 4]
 SLPS-02061 Cinema Eikaiwa - Zombie [Disc 2 of 4]
-SLPS-02062 Cinema Eikaiwa - Zombie [Disc3of4]
-SLPS-02063 Cinema Eikaiwa - Zombie [Disc4of4]
+SLPS-02062 Cinema Eikaiwa - Zombie [Disc 3 of 4]
+SLPS-02063 Cinema Eikaiwa - Zombie [Disc 4 of 4]
 SLPM-86557 Cinema Eikaiwa - Zombie [Reprint] [Disc 1 of 4]
 SLPM-86558 Cinema Eikaiwa - Zombie [Reprint] [Disc 2 of 4]
-SLPM-86559 Cinema Eikaiwa - Zombie [Reprint] [Disc3of4]
-SLPM-86560 Cinema Eikaiwa - Zombie [Reprint] [Disc4of4]
+SLPM-86559 Cinema Eikaiwa - Zombie [Reprint] [Disc 3 of 4]
+SLPM-86560 Cinema Eikaiwa - Zombie [Reprint] [Disc 4 of 4]
 SCPS-10077 Circadia [Disc 1 of 2]
 SCPS-10078 Circadia [Disc 2 of 2]
 SLPS-00311 Circuit Beat
@@ -2172,8 +2172,8 @@ SLPS-01805 Eve - The Lost One [Disc 1 of 4]
 SLPM-87247 Eve - The Lost One [Disc 2 of 3] [Gamebridge The Best]
 SLPS-01806 Eve - The Lost One [Disc 2 of 4]
 SLPM-87248 Eve - The Lost One [Disc 3 of 3] [Gamebridge The Best]
-SLPS-01807 Eve - The Lost One [Disc3of4]
-SLPS-01808 Eve - The Lost One [Disc4of4]
+SLPS-01807 Eve - The Lost One [Disc 3 of 4]
+SLPS-01808 Eve - The Lost One [Disc 4 of 4]
 SLPM-86478 Eve Zero [Disc 1 of 3]
 SLPM-86976 Eve Zero [Disc 1 of 3] [Gamebridge The Best]
 SLPM-86479 Eve Zero [Disc 2 of 3]
@@ -2277,17 +2277,17 @@ SLPS-02754 Favorite Dear - Junshiro no Yogenmono (The Everlasting Voices)
 SLES-02166 Fear Effect
 SLES-03386 Fear Effect - Retro Helix [Disc 1 of 4]
 SLES-13386 Fear Effect - Retro Helix [Disc 2 of 4]
-SLES-23386 Fear Effect - Retro Helix [Disc3of4]
-SLES-33386 Fear Effect - Retro Helix [Disc4of4]
+SLES-23386 Fear Effect - Retro Helix [Disc 3 of 4]
+SLES-33386 Fear Effect - Retro Helix [Disc 4 of 4]
 SLES-02168 Fear Effect (Deutsch)
 SLUS-00920 Fear Effect [Disc 1 of 4]
 SLUS-01056 Fear Effect [Disc 2 of 4]
-SLUS-01057 Fear Effect [Disc3of4]
-SLUS-01058 Fear Effect [Disc4of4]
+SLUS-01057 Fear Effect [Disc 3 of 4]
+SLUS-01058 Fear Effect [Disc 4 of 4]
 SLUS-01266 Fear Effect 2 - Retro Helix [Disc 1 of 4]
 SLUS-01275 Fear Effect 2 - Retro Helix [Disc 2 of 4]
-SLUS-01276 Fear Effect 2 - Retro Helix [Disc3of4]
-SLUS-01277 Fear Effect 2 - Retro Helix [Disc4of4]
+SLUS-01276 Fear Effect 2 - Retro Helix [Disc 3 of 4]
+SLUS-01277 Fear Effect 2 - Retro Helix [Disc 4 of 4]
 SLPS-00723 FEDA 2 - White Surge - The Platoon
 SLPM-86874 FEDA 2 - White Surge - The Platoon [Cyclone Reprint]
 SLUS-00533 Felony 11-79
@@ -2373,11 +2373,11 @@ SLPS-02000 Final Fantasy IX [Disc 1 of 4]
 SLUS-01295 Final Fantasy IX [Disc 2 of 4]
 SLES-12966 Final Fantasy IX [Disc 2 of 4]
 SLPS-02001 Final Fantasy IX [Disc 2 of 4]
-SLUS-01296 Final Fantasy IX [Disc3of4]
-SLES-22966 Final Fantasy IX [Disc3of4]
-SLPS-02002 Final Fantasy IX [Disc3of4]
-SLUS-01297 Final Fantasy IX [Disc4of4]
-SLPS-02003 Final Fantasy IX [Disc4of4]
+SLUS-01296 Final Fantasy IX [Disc 3 of 4]
+SLES-22966 Final Fantasy IX [Disc 3 of 4]
+SLPS-02002 Final Fantasy IX [Disc 3 of 4]
+SLUS-01297 Final Fantasy IX [Disc 4 of 4]
+SLPS-02003 Final Fantasy IX [Disc 4 of 4]
 SLUS-01541 Final Fantasy Origins
 SLPS-03430 Final Fantasy Origins - Final Fantasy Disc
 SLPS-03500 Final Fantasy Origins - Final Fantasy Disc
@@ -2417,8 +2417,8 @@ SLPS-91440 Final Fantasy VII International [Disc 1 of 4] [PSone Books]
 SLPS-01058 Final Fantasy VII International [Disc 2 of 3]
 SLPS-91441 Final Fantasy VII International [Disc 2 of 4] [PSone Books]
 SLPS-01059 Final Fantasy VII International [Disc 3 of 3]
-SLPS-91442 Final Fantasy VII International [Disc3of4] [PSone Books]
-SLPS-91443 Final Fantasy VII International [Disc4of4] [PSone Books]
+SLPS-91442 Final Fantasy VII International [Disc 3 of 4] [PSone Books]
+SLPS-91443 Final Fantasy VII International [Disc 4 of 4] [PSone Books]
 SCES-02080 Final Fantasy VIII
 SCPS-45375 Final Fantasy VIII
 SLUS-00892 Final Fantasy VIII [Disc 1 of 4]
@@ -2430,12 +2430,12 @@ SLES-02080 Final Fantasy VIII [Disc 1 of 4] [Original and Platinum Editions]
 SLUS-00908 Final Fantasy VIII [Disc 2 of 4]
 SLPS-01881 Final Fantasy VIII [Disc 2 of 4]
 SLES-12080 Final Fantasy VIII [Disc 2 of 4] [Original and Platinum Editions]
-SLUS-00909 Final Fantasy VIII [Disc3of4]
-SLPS-01882 Final Fantasy VIII [Disc3of4]
-SLES-22080 Final Fantasy VIII [Disc3of4] [Original and Platinum Editions]
-SLUS-00910 Final Fantasy VIII [Disc4of4]
-SLPS-01883 Final Fantasy VIII [Disc4of4]
-SLES-32080 Final Fantasy VIII [Disc4of4] [Original and Platinum Editions]
+SLUS-00909 Final Fantasy VIII [Disc 3 of 4]
+SLPS-01882 Final Fantasy VIII [Disc 3 of 4]
+SLES-22080 Final Fantasy VIII [Disc 3 of 4] [Original and Platinum Editions]
+SLUS-00910 Final Fantasy VIII [Disc 4 of 4]
+SLPS-01883 Final Fantasy VIII [Disc 4 of 4]
+SLES-32080 Final Fantasy VIII [Disc 4 of 4] [Original and Platinum Editions]
 SCED-02062 Final Fantasy VIII Demo Disc
 SLPS-01266 Final Round
 SLUS-00064 Final Round, The
@@ -2599,8 +2599,8 @@ SLPS-00676 Gaball Screen
 SLPS-00675 Gaball Screen [Limited Edition]
 SLPS-01082 Gadget - Past as Future [Disc 1 of 4]
 SLPS-01083 Gadget - Past as Future [Disc 2 of 4]
-SLPS-01084 Gadget - Past as Future [Disc3of4]
-SLPS-01085 Gadget - Past as Future [Disc4of4]
+SLPS-01084 Gadget - Past as Future [Disc 3 of 4]
+SLPS-01085 Gadget - Past as Future [Disc 4 of 4]
 SLPS-02075 Gaia Master
 SLPS-00624 Gaiaseed - Project Seed Trap
 SLPS-00404 Gakkou Deatta Kowai Hanashi S
@@ -3021,8 +3021,8 @@ SLPS-03370 Heiwa Parlor! Pro Tsunatori Monogatari Special
 SLPS-02574 Heiwa Parlor! Pro Western Special
 SLPS-03340 Helix - Fear Effect [Disc 1 of 4]
 SLPS-03341 Helix - Fear Effect [Disc 2 of 4]
-SLPS-03342 Helix - Fear Effect [Disc3of4]
-SLPS-03343 Helix - Fear Effect [Disc4of4]
+SLPS-03342 Helix - Fear Effect [Disc 3 of 4]
+SLPS-03343 Helix - Fear Effect [Disc 4 of 4]
 SLES-01562 Hell Night - Dark Messiah
 SLUS-01414 Hellboy - Asylum Seeker
 SLUS-00778 Hello Kitty - Cube Frenzy
@@ -3753,12 +3753,12 @@ SLPS-02460 Koudelka [Disc 1 of 4]
 SLUS-01100 Koudelka [Disc 2 of 4]
 SLES-12897 Koudelka [Disc 2 of 4]
 SLPS-02461 Koudelka [Disc 2 of 4]
-SLUS-01101 Koudelka [Disc3of4]
-SLES-22897 Koudelka [Disc3of4]
-SLPS-02462 Koudelka [Disc3of4]
-SLUS-01102 Koudelka [Disc4of4]
-SLES-32897 Koudelka [Disc4of4]
-SLPS-02463 Koudelka [Disc4of4]
+SLUS-01101 Koudelka [Disc 3 of 4]
+SLES-22897 Koudelka [Disc 3 of 4]
+SLPS-02462 Koudelka [Disc 3 of 4]
+SLUS-01102 Koudelka [Disc 4 of 4]
+SLES-32897 Koudelka [Disc 4 of 4]
+SLPS-02463 Koudelka [Disc 4 of 4]
 SLPS-00684 Koukai Sarena Katta Shuki - The Note
 SLPS-00532 Koukon no Ode - Ode to The Sunset Era
 SLPS-02884 Koukon no Ode - Ode to The Sunset Era [Best Price]
@@ -3770,16 +3770,16 @@ SLES-02898 Kouvdelka
 SLPS-03454 Kowai Shashin
 SLPS-02975 Kowloon's Gate [Artdink Best Choice] [Disc 1 of 4]
 SLPS-02976 Kowloon's Gate [Artdink Best Choice] [Disc 2 of 4]
-SLPS-02977 Kowloon's Gate [Artdink Best Choice] [Disc3of4]
-SLPS-02978 Kowloon's Gate [Artdink Best Choice] [Disc4of4]
+SLPS-02977 Kowloon's Gate [Artdink Best Choice] [Disc 3 of 4]
+SLPS-02978 Kowloon's Gate [Artdink Best Choice] [Disc 4 of 4]
 SLPS-00669 Kowloon's Gate [Disc 1 of 4]
 SLPS-00706 Kowloon's Gate [Disc 1 of 4]
 SLPS-00670 Kowloon's Gate [Disc 2 of 4]
 SLPS-00707 Kowloon's Gate [Disc 2 of 4]
-SLPS-00671 Kowloon's Gate [Disc3of4]
-SLPS-00708 Kowloon's Gate [Disc3of4]
-SLPS-00672 Kowloon's Gate [Disc4of4]
-SLPS-00709 Kowloon's Gate [Disc4of4]
+SLPS-00671 Kowloon's Gate [Disc 3 of 4]
+SLPS-00708 Kowloon's Gate [Disc 3 of 4]
+SLPS-00672 Kowloon's Gate [Disc 4 of 4]
+SLPS-00709 Kowloon's Gate [Disc 4 of 4]
 SLPS-01775 Koyasai - A Sherd of Youthful Memories
 SCUS-94303 Krazy Ivan
 SLPS-00492 Krazy Ivan
@@ -3875,14 +3875,14 @@ SCUS-94584 Legend of Dragoon, The [Disc 2 of 4]
 SCES-13043 Legend of Dragoon, The [Disc 2 of 4]
 SCES-13046 Legend of Dragoon, The [Disc 2 of 4]
 SCPS-10120 Legend of Dragoon, The [Disc 2 of 4]
-SCUS-94585 Legend of Dragoon, The [Disc3of4]
-SCES-23043 Legend of Dragoon, The [Disc3of4]
-SCES-23046 Legend of Dragoon, The [Disc3of4]
-SCPS-10121 Legend of Dragoon, The [Disc3of4]
-SCUS-94586 Legend of Dragoon, The [Disc4of4]
-SCES-33043 Legend of Dragoon, The [Disc4of4]
-SCES-33046 Legend of Dragoon, The [Disc4of4]
-SCPS-10122 Legend of Dragoon, The [Disc4of4]
+SCUS-94585 Legend of Dragoon, The [Disc 3 of 4]
+SCES-23043 Legend of Dragoon, The [Disc 3 of 4]
+SCES-23046 Legend of Dragoon, The [Disc 3 of 4]
+SCPS-10121 Legend of Dragoon, The [Disc 3 of 4]
+SCUS-94586 Legend of Dragoon, The [Disc 4 of 4]
+SCES-33043 Legend of Dragoon, The [Disc 4 of 4]
+SCES-33046 Legend of Dragoon, The [Disc 4 of 4]
+SCPS-10122 Legend of Dragoon, The [Disc 4 of 4]
 SLPS-01323 Legend of Heroes (Eiyuu Densets) I & II
 SLPS-01201 Legend of Heroes III - Shiroki Majo
 SLPS-01540 Legend of Heroes IV (Eiyuu Densetsu)
@@ -4355,8 +4355,8 @@ SLPS-02165 Mighty Hits Special [Pop Collection 1280yen Vol.4]
 SLPS-02693 Migi Hadari U-Sa
 SLPS-01611 Mikagura Shoujo Tanteidan [Disc 1 of 4]
 SLPS-01612 Mikagura Shoujo Tanteidan [Disc 2 of 4]
-SLPS-01613 Mikagura Shoujo Tanteidan [Disc3of4]
-SLPS-01614 Mikagura Shoujo Tanteidan [Disc4of4]
+SLPS-01613 Mikagura Shoujo Tanteidan [Disc 3 of 4]
+SLPS-01614 Mikagura Shoujo Tanteidan [Disc 4 of 4]
 SLUS-01162 Mike Tyson Boxing
 SLES-02389 Mike Tyson Boxing
 SLES-02839 Mike Tyson Boxing
@@ -4607,8 +4607,8 @@ SLPS-02890 Murakoshi Masami no Bakuchou Nippon Rettou 2
 SLPS-02704 Murasaki Kinshiro, The [Value 1500]
 SLPM-86135 Murder on The Eurasia Express [Disc 1 of 4]
 SLPM-86136 Murder on The Eurasia Express [Disc 2 of 4]
-SLPM-86137 Murder on The Eurasia Express [Disc3of4]
-SLPM-86138 Murder on The Eurasia Express [Disc4of4]
+SLPM-86137 Murder on The Eurasia Express [Disc 3 of 4]
+SLPM-86138 Murder on The Eurasia Express [Disc 4 of 4]
 SLPM-86490 Muscle Ranking - Kinniku Banzuke - Road to Sasuke
 SLPM-86737 Muscle Ranking - Kinniku Banzuke - Road to Sasuke [Konami The Best]
 SLPM-86628 Muscle Ranking - Kinniku Banzuke Vol.1 - Oregasaikyouno Otokoda! [Konami The Best]
@@ -6570,10 +6570,10 @@ SLPS-02900 SD Gundam G-Generation F [Disc 1 of 4]
 SLPS-02912 SD Gundam G-Generation F [Disc 1 of 4]
 SLPS-02901 SD Gundam G-Generation F [Disc 2 of 4]
 SLPS-02913 SD Gundam G-Generation F [Disc 2 of 4]
-SLPS-02902 SD Gundam G-Generation F [Disc3of4]
-SLPS-02914 SD Gundam G-Generation F [Disc3of4]
-SLPS-02903 SD Gundam G-Generation F [Disc4of4]
-SLPS-02915 SD Gundam G-Generation F [Disc4of4]
+SLPS-02902 SD Gundam G-Generation F [Disc 3 of 4]
+SLPS-02914 SD Gundam G-Generation F [Disc 3 of 4]
+SLPS-02903 SD Gundam G-Generation F [Disc 4 of 4]
+SLPS-02915 SD Gundam G-Generation F [Disc 4 of 4]
 SLPS-03195 SD Gundam G-Generation F if
 SLPS-03206 SD Gundam G-Generation Zero [Bandai The Best] [Disc 1 of 2]
 SLPS-03207 SD Gundam G-Generation Zero [Bandai The Best] [Disc 2 of 2]
@@ -7232,8 +7232,8 @@ SLPS-00850 Stakes Winner 2
 SLPS-00783 Stand By Say You!
 SLPS-01196 Star Bowling, The - DX [Disc 1 of 4]
 SLPS-01197 Star Bowling, The - DX [Disc 2 of 4]
-SLPS-01198 Star Bowling, The - DX [Disc3of4]
-SLPS-01199 Star Bowling, The - DX [Disc4of4]
+SLPS-01198 Star Bowling, The - DX [Disc 3 of 4]
+SLPS-01199 Star Bowling, The - DX [Disc 4 of 4]
 SLUS-00241 Star Fighter
 SLUS-00372 Star Gladiator - Episode 1 - Final Crusade
 SLES-00495 Star Gladiator - Episode 1 - Final Crusade
@@ -7886,8 +7886,8 @@ SLPS-01433 Tokyo Majin Gakuen Ken Kaze Tobari [Disc 2 of 2]
 SLPS-02015 Tokyo Majin Gakuen Oboro-Kitan
 SLPS-02834 Tokyo Majin High School Kenpu-Cyou Emaki [Disc 1 of 4]
 SLPS-02835 Tokyo Majin High School Kenpu-Cyou Emaki [Disc 2 of 4]
-SLPS-02836 Tokyo Majin High School Kenpu-Cyou Emaki [Disc3of4]
-SLPS-02837 Tokyo Majin High School Kenpu-Cyou Emaki [Disc4of4]
+SLPS-02836 Tokyo Majin High School Kenpu-Cyou Emaki [Disc 3 of 4]
+SLPS-02837 Tokyo Majin High School Kenpu-Cyou Emaki [Disc 4 of 4]
 SLPM-87178 Tokyo Mew Mew (Myuumint Box)
 SLPM-87177 Tokyo Mew Mew [Myuuichigo Box]
 SLPS-00285 Tokyo Shadow [Disc 1 of 3]
@@ -8405,18 +8405,18 @@ SLUS-00134 Wing Commander III - Heart of the Tiger [Disc 2 of 4]
 SLES-10074 Wing Commander III - Heart of the Tiger [Disc 2 of 4]
 SLES-10105 Wing Commander III - Heart of the Tiger [Disc 2 of 4]
 SLPS-00478 Wing Commander III - Heart of the Tiger [Disc 2 of 4]
-SLUS-00135 Wing Commander III - Heart of the Tiger [Disc3of4]
-SLES-20074 Wing Commander III - Heart of the Tiger [Disc3of4]
-SLES-20105 Wing Commander III - Heart of the Tiger [Disc3of4]
-SLPS-00479 Wing Commander III - Heart of the Tiger [Disc3of4]
-SLUS-00136 Wing Commander III - Heart of the Tiger [Disc4of4]
-SLES-30074 Wing Commander III - Heart of the Tiger [Disc4of4]
-SLPS-00480 Wing Commander III - Heart of the Tiger [Disc4of4]
+SLUS-00135 Wing Commander III - Heart of the Tiger [Disc 3 of 4]
+SLES-20074 Wing Commander III - Heart of the Tiger [Disc 3 of 4]
+SLES-20105 Wing Commander III - Heart of the Tiger [Disc 3 of 4]
+SLPS-00479 Wing Commander III - Heart of the Tiger [Disc 3 of 4]
+SLUS-00136 Wing Commander III - Heart of the Tiger [Disc 4 of 4]
+SLES-30074 Wing Commander III - Heart of the Tiger [Disc 4 of 4]
+SLPS-00480 Wing Commander III - Heart of the Tiger [Disc 4 of 4]
 SLUS-00270 Wing Commander IV - The Price of Freedom [Disc 1 of 4]
 SLES-00661 Wing Commander IV - The Price of Freedom [Disc 1 of 4] (Deutsch)
 SLUS-00271 Wing Commander IV - The Price of Freedom [Disc 2 of 4]
-SLUS-00272 Wing Commander IV - The Price of Freedom [Disc3of4]
-SLUS-00273 Wing Commander IV - The Price of Freedom [Disc4of4]
+SLUS-00272 Wing Commander IV - The Price of Freedom [Disc 3 of 4]
+SLUS-00273 Wing Commander IV - The Price of Freedom [Disc 4 of 4]
 SLES-00540 Wing Over
 SLPS-00598 Wing Over
 SLES-01375 Wing Over 2
@@ -8583,10 +8583,10 @@ SLUS-00915 X-Files [Disc 1 of 4]
 SCES-01565 X-Files [Disc 1 of 4]
 SLUS-00949 X-Files [Disc 2 of 4]
 SCES-11565 X-Files [Disc 2 of 4]
-SLUS-00950 X-Files [Disc3of4]
-SCES-21565 X-Files [Disc3of4]
-SLUS-00951 X-Files [Disc4of4]
-SCES-31565 X-Files [Disc4of4]
+SLUS-00950 X-Files [Disc 3 of 4]
+SCES-21565 X-Files [Disc 3 of 4]
+SLUS-00951 X-Files [Disc 4 of 4]
+SCES-31565 X-Files [Disc 4 of 4]
 SLPS-01944 X-Games Pro Boarder
 SLUS-00044 X-Men - Children of the Atom
 SLES-00198 X-Men - Children of the Atom
@@ -8616,8 +8616,8 @@ SLPS-00152 Yaku - Yuujou Dangi
 SLPS-00689 Yaku Tou - Noroi no Game
 SLPS-02393 Yamagata Digital Museum [Disc 1 of 4]
 SLPS-02394 Yamagata Digital Museum [Disc 2 of 4]
-SLPS-02395 Yamagata Digital Museum [Disc3of4]
-SLPS-02396 Yamagata Digital Museum [Disc4of4]
+SLPS-02395 Yamagata Digital Museum [Disc 3 of 4]
+SLPS-02396 Yamagata Digital Museum [Disc 4 of 4]
 SLPS-03120 Yamasa Digi Guide - Faust
 SLPS-02989 Yamasa Digi Guide - Hyper Rush
 SLPS-03038 Yamasa Digi Guide - M771
@@ -8730,16 +8730,16 @@ SLPS-03389 Zoids 2 - Heric vs. Guylos
 SLPS-03255 Zoids Battle Card Game
 SLPS-01326 Zoku Hatsukoi Monogatari [Disc 1 of 4]
 SLPS-01327 Zoku Hatsukoi Monogatari [Disc 2 of 4]
-SLPS-01328 Zoku Hatsukoi Monogatari [Disc3of4]
-SLPS-01329 Zoku Hatsukoi Monogatari [Disc4of4]
+SLPS-01328 Zoku Hatsukoi Monogatari [Disc 3 of 4]
+SLPS-01329 Zoku Hatsukoi Monogatari [Disc 4 of 4]
 SLPS-02266 Zoku Mikagura Shoujo Tanteidan Kanketsuhen [Disc 1 of 4]
 SLPS-02267 Zoku Mikagura Shoujo Tanteidan Kanketsuhen [Disc 2 of 4]
-SLPS-02268 Zoku Mikagura Shoujo Tanteidan Kanketsuhen [Disc3of4]
-SLPS-02269 Zoku Mikagura Shoujo Tanteidan Kanketsuhen [Disc4of4]
+SLPS-02268 Zoku Mikagura Shoujo Tanteidan Kanketsuhen [Disc 3 of 4]
+SLPS-02269 Zoku Mikagura Shoujo Tanteidan Kanketsuhen [Disc 4 of 4]
 SLPS-02927 Zoku Mikagura Shoujo Tanteidan Kanketsuhen [Reprint] [Disc 1 of 4]
 SLPS-02928 Zoku Mikagura Shoujo Tanteidan Kanketsuhen [Reprint] [Disc 2 of 4]
-SLPS-02929 Zoku Mikagura Shoujo Tanteidan Kanketsuhen [Reprint] [Disc3of4]
-SLPS-02930 Zoku Mikagura Shoujo Tanteidan Kanketsuhen [Reprint] [Disc4of4]
+SLPS-02929 Zoku Mikagura Shoujo Tanteidan Kanketsuhen [Reprint] [Disc 3 of 4]
+SLPS-02930 Zoku Mikagura Shoujo Tanteidan Kanketsuhen [Reprint] [Disc 4 of 4]
 SLUS-00078 Zoop
 SLPS-00534 Zoop
 SLPS-00271 Zork I - The Great Underground Empire
