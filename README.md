@@ -38,6 +38,8 @@ Discord Rich Presence for all network-capable retro consoles (8th generation and
 - [x] Nintendo DS (server-side)
 - [x] Nintendo 3DS (server-side)
 - [x] Nintendo Switch (server-side) (includes XLink Kai support)
+### Etc.
+- [x] RetroPie
 
 ## Planned Systems:
 - [ ] Dreamcast (almost finished, just need to finish cover art directory)
