@@ -29,6 +29,8 @@ Discord Rich Presence for all network-capable retro consoles (8th generation and
 - [x] [Xbox](https://github.com/OfficialTeamUIX/Xbox-Discord-Rich-Presence) (includes XLink Kai & Insignia support) (128mb recommended for media presence) (server + client-side)
 - [x] [Xbox 360](https://github.com/OfficialTeamUIX/Xbox-Discord-Rich-Presence) (includes XLink Kai support) (server-side)
 ### Nintendo
+- [x] Nintendo Entertainment System (server-side)
+- [x] Super Nintendo Entertainment System (server-side)
 - [x] Nintendo Gamecube (server-side) (includes XLink Kai support)
 - [x] Nintendo Wii (server-side) (includes XLink Kai support)
 - [x] Nintendo Wii U (server-side) (includes XLink Kai support)
