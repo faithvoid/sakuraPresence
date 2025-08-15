@@ -8,7 +8,8 @@ Discord Rich Presence for all network-capable retro consoles (8th generation and
 ![](screenshots/wiiu.png)![](screenshots/switch.png)
 ![](screenshots/ds.png)![](screenshots/3ds.png)
 ![](screenshots/xbox.png)![](screenshots/360.png)
-![](screenshots/dreamcast.png)
+![](screenshots/dreamcast.png)![](screenshots/genesis.png)
+![](screenshots/nes.png)![](screenshots/snes.png)
 
 
 ## Features:
