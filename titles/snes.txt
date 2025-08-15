@@ -1,19 +1,19 @@
 SNS-A3NE-USA 3 Ninjas Kick Back
-SNS-EL-USA 7th Saga, The
+SNS-EL-USA The 7th Saga
 SNS-ANNE-USA Aaahh!!! Real Monsters
 SNS-N5-USA ABC Monday Night Football
 SNS-ACME-USA ACME Animation Factory
 SNS-AR-USA ActRaiser
 SNS-A8-USA ActRaiser 2
 SNS-VY-USA Addams Family Values
-SNS-AF-USA Addams Family, The
-SNS-AH-USA Addams Family, The - Pugsley's Scavenger Hunt
+SNS-AF-USA The Addams Family
+SNS-AH-USA The Addams Family - Pugsley's Scavenger Hunt
 SNS-IB-USA Advanced Dungeons & Dragons - Eye of the Beholder
-SNS-ABTE-USA Adventures of Batman & Robin, The
-SNS-6F-USA Adventures of Dr. Franken, The
-SNS-YK-USA Adventures of Kid Kleets, The
-SNS-AMOE-USA Adventures of Mighty Max, The
-SNS-RZ-USA Adventures of Rocky and Bullwinkle and Friends, The
+SNS-ABTE-USA The Adventures of Batman & Robin
+SNS-6F-USA The Adventures of Dr. Franken
+SNS-YK-USA The Adventures of Kid Kleets
+SNS-AMOE-USA The Adventures of Mighty Max
+SNS-RZ-USA The Adventures of Rocky and Bullwinkle and Friends
 SNS-Y8-USA Adventures of Yogi Bear
 SNS-AERE-USA Aero Fighters
 SNS-XB-USA Aero the Acro-Bat
@@ -27,7 +27,7 @@ SNS-RJ-USA Aladdin
 SNS-A3-USA Alien 3
 SNS-AP-USA Alien vs. Predator
 SNS-AA-USA American Gladiators
-SNS-9W-USA American Tail, An - Fievel Goes West
+SNS-9W-USA An American Tail - Fievel Goes West
 SNS-7A-USA Andre Agassi Tennis
 SNS-ANCE-USA Animaniacs
 SNS-AW7E-USA Arcade's Greatest Hits - The Atari Collection 1
@@ -63,13 +63,13 @@ SNS-7F-USA Bill Walsh College Football
 SNS-BV-USA Bio Metal
 SNS-6Z-USA Blackthorne
 SNS-BL-USA BlaZeon - The Bio-Cyborg Challenge
-SNS-B6-USA Blues Brothers, The
+SNS-B6-USA The Blues Brothers
 SNS-B4-USA BOB
 SNS-ABNE-USA Bonkers
 SNS-AB4E-USA Boogerman - A Pick and Flick Adventure
 SNS-LL-USA Boxing Legends of the Ring
 SNS-3B-USA Brain Lord
-SNS-B7-USA Brainies, The
+SNS-B7-USA The Brainies
 SNS-5D-USA Bram Stoker's Dracula
 SNS-QF-USA Brandish
 SNS-RE-USA Brawl Brothers
@@ -103,7 +103,7 @@ SNS-5P-USA Championship Pool
 SNS-67-USA Championship Soccer '94
 SNS-ZV-USA Chavez
 SNS-AC2E-USA Chavez II
-SNS-CH-USA Chessmaster, The
+SNS-CH-USA The Chessmaster
 SNS-CE-USA Chester Cheetah - Too Cool to Fool
 SNS-7C-USA Chester Cheetah - Wild, Wild Quest
 SNS-3C-USA Choplifter III
@@ -117,7 +117,7 @@ SNS-6C-USA Cliffhanger
 SNS-CL-USA Clue
 SNS-AC7E-USA College Football USA '97
 SNS-ANYE-USA College Slam
-SNS-CR-USA Combatribes, The
+SNS-CR-USA The Combatribes
 SNS-J2-USA Congo's Caper
 SNS-CS-USA Contra III - The Alien Wars
 SNS-C8-USA Cool Spot
@@ -129,7 +129,7 @@ SNS-DF-USA D-Force
 SNS-YF-USA Daffy Duck - The Marvin Missions
 SNS-DT-USA Darius Twin
 SNS-ZT-USA David Crane's Amazing Tennis
-SNS-9D-USA Death and Return of Superman, The
+SNS-9D-USA The Death and Return of Superman
 SNS-AD6E-USA Demolition Man
 SNS-3Z-USA Demon's Crest
 SNS-4D-USA Dennis the Menace
@@ -191,8 +191,8 @@ SNS-FW-USA Firepower 2000
 SNS-3S-USA Firestriker
 SNS-FK-USA First Samurai
 SNS-5F-USA Flashback - The Quest for Identity
-SNS-AFNE-USA Flintstones, The
-SNS-9F-USA Flintstones, The - The Treasure of Sierra Madrock
+SNS-AFNE-USA The Flintstones
+SNS-9F-USA The Flintstones - The Treasure of Sierra Madrock
 SNS-UF-USA Football Fury
 SNS-AFEE-USA Foreman For Real
 SNS-AFKE-USA Frank Thomas' Big Hurt Baseball
@@ -210,8 +210,8 @@ SNS-G6-USA Goof Troop
 SNS-G7-USA GP-1
 SNS-AGRE-USA GP-1 - Part II
 SNS-G3-USA Gradius III
-SNS-4C-USA Great Circus Mystery, The - Starring Micky & Minnie
-SNS-GW-USA Great Waldo Search, The
+SNS-4C-USA The Great Circus Mystery - Starring Micky & Minnie
+SNS-GW-USA The Great Waldo Search
 SNS-GU-USA GunForce
 SNS-AHGE-USA Hagane
 SNS-JO-USA Hal's Hole in One Golf
@@ -225,24 +225,24 @@ SNS-HA-USA Home Alone
 SNS-HN-USA Home Alone 2 - Lost in New York
 SNS-AHIE-USA Home Improvement
 SNS-HO-USA Hook
-SNS-RO-USA Hunt for Red October, The
+SNS-RO-USA The Hunt for Red October
 SNS-AHUE-USA Hurricanes
 SNS-HQ-USA Hyper V-Ball
 SNS-HZ-USA Hyper Zone
-SNS-AIFE-USA Ignition Factor, The
+SNS-AIFE-USA The Ignition Factor
 SNS-JG-USA Illusion of Gaia
 SNS-DN-USA Imperium
 SNS-AIYE-USA Incantation
-SNS-C7-USA Incredible Crash Dummies, The
-SNS-8U-USA Incredible Hulk, The
+SNS-C7-USA The Incredible Crash Dummies
+SNS-8U-USA The Incredible Hulk
 SNS-AIJE-USA Indiana Jones' Greatest Adventures
 SNS-IN-USA Inindo - Way of the Ninja
 SNS-5G-USA Inspector Gadget
 SNS-3U-USA International Superstar Soccer
 SNS-AWJE-USA International Superstar Soccer Deluxe
 SNS-IT-USA International Tennis Tour
-SNS-MT-USA Irem Skins Game, The
-SNS-AISE-USA Itchy & Scratchy Game, The
+SNS-MT-USA The Irem Skins Game
+SNS-AISE-USA The Itchy & Scratchy Game
 SNS-AIZE-USA Izzy's Quest for the Olympic Rings
 SNS-JN-USA Jack Nicklaus Golf
 SNS-JJ-USA James Bond Jr.
@@ -250,7 +250,7 @@ SNS-J6-USA Jammit
 SNS-JY-USA Jeopardy!
 SNS-7J-USA Jeopardy! - Deluxe Edition
 SNS-8Y-USA Jeopardy! - Sports Edition
-SNS-8J-USA Jetsons, The - Invasion of the Planet Pirates
+SNS-8J-USA The Jetsons - Invasion of the Planet Pirates
 SNS-AWIE-USA Jim Lee's Wild Covert Action Teams
 SNS-6J-USA Jim Power - The Lost Dimension in 3D
 SNS-JC-USA Jimmy Connors' Pro Tennis Tour
@@ -260,7 +260,7 @@ SNS-J3-USA Joe & Mac 2 - Lost in the Tropics
 SNS-JM-USA John Madden Football
 SNS-MF-USA John Madden Football '93
 SNS-AJDE-USA Judge Dredd
-SNS-7K-USA Jungle Book, The
+SNS-7K-USA The Jungle Book
 SNS-AJGE-USA Jungle Strike
 SNS-J8-USA Jurassic Park
 SNS-A2JE-USA Jurassic Park 2 - The Chaos Continues
@@ -288,22 +288,22 @@ SNS-AKPE-USA Kyle Petty's No Fear Racing
 SNS-LA-USA Lagoon
 SNS-L8-USA Lamborghini American Challenge
 SNS-L5-USA Last Action Hero
-SNS-LW-USA Lawnmower Man, The
+SNS-LW-USA The Lawnmower Man
 SNS-6L-USA Legend
-SNS-GG-USA Legend of the Mystical Ninja, The
-SNS-ZL-USA Legend of Zelda, The - A Link to the Past
+SNS-GG-USA The Legend of the Mystical Ninja
+SNS-ZL-USA The Legend of Zelda - A Link to the Past
 SNS-LE-USA Lemmings
 SNS-L2-USA Lemmings 2 - The Tribes
 SNS-LY-USA Lester the Unlikely
 SNS-LK-USA Lethal Enforcers
 SNS-L3-USA Lethal Weapon
 SNS-7L-USA Liberty or Death
-SNS-ALKE-USA Lion King, The
+SNS-ALKE-USA The Lion King
 SNS-AZ-USA Lock On
 SNS-ALTE-USA Looney Tunes B-Ball
-SNS-64-USA Lord of the Rings, The - Volume 1
+SNS-64-USA The Lord of the Rings - Volume 1
 SNS-ALVE-USA Lost Vikings 2
-SNS-LV-USA Lost Vikings, The
+SNS-LV-USA The Lost Vikings
 SNS-ES-USA Lufia & The Fortress of Doom
 SNS-ANIE-USA Lufia II - Rise of the Sinistrals
 SNS-9M-USA Madden NFL '94
@@ -313,7 +313,7 @@ SNS-A7NE-USA Madden NFL '97
 SNS-A8NE-USA Madden NFL '98
 SNS-YG-USA Magic Boy
 SNS-MD-USA Magic Sword
-SNS-MI-USA Magical Quest Starring Mickey Mouse, The
+SNS-MI-USA The Magical Quest Starring Mickey Mouse
 SNS-MU-USA Mario is Missing!
 SNS-MP-USA Mario Paint
 SNS-AMYE-USA Mario's Early Years - Fun with Letters
@@ -323,7 +323,7 @@ SNS-8M-USA Mario's Time Machine
 SNS-AOAE-USA Mark Davis' The Fishing Master
 SNS-AHZE-USA Marvel Super Heroes in War of the Gems
 SNS-AFRE-USA Mary Shelley's Frankenstein
-SNS-AMGE-USA Mask, The
+SNS-AMGE-USA The Mask
 SNS-AMME-USA Math Blaster - Episode One
 SNS-AZBE-USA Maui Mallard in Cold Shadow
 SNS-TS-USA Mecarobot Golf
@@ -347,7 +347,7 @@ SNS-3H-USA Might & Magic III - Isles of Terra
 SNS-52-USA Mighty Morphin Power Rangers
 SNS-A3RE-USA Mighty Morphin Power Rangers - The Fighting Edition
 SNS-A2RE-USA Mighty Morphin Power Rangers - The Movie
-SNS-MR-USA Miracle Piano Teaching System, The
+SNS-MR-USA The Miracle Piano Teaching System
 SNS-XH-USA MLBPA Baseball
 SNS-AJYE-USA Mohawk & Headphone Jack
 SNS-ML-USA Monopoly
@@ -410,10 +410,10 @@ SNS-25-USA Pac-Man 2 - The New Adventures
 SNS-TK-USA Pacific Theater of Operations
 SNS-ATEE-USA Pacific Theater of Operations II
 SNS-APYE-USA Packy & Marlon
-SNS-APME-USA Pagemaster, The
+SNS-APME-USA The Pagemaster
 SNS-LN-USA Paladin's Quest
 SNS-P2-USA Paperboy 2
-SNS-R6-USA Peace Keepers, The
+SNS-R6-USA The Peace Keepers
 SNS-AEPE-USA PGA European Tour
 SNS-A3GE-USA PGA Tour '96
 SNS-PG-USA PGA Tour Golf
@@ -425,7 +425,7 @@ SNS-7D-USA Pinball Dreams
 SNS-APFE-USA Pinball Fantasies
 SNS-YW-USA Pink Goes to Hollywood
 SNS-ACGE-USA Pinocchio
-SNS-8P-USA Pirates of Dark Water, The
+SNS-8P-USA The Pirates of Dark Water
 SNS-PF-USA Pit-Fighter
 SNS-APAE-USA Pitfall - The Mayan Adventure
 SNS-P4-USA Plok
@@ -456,10 +456,10 @@ SNS-ARVE-USA Rap Jam - Volume One
 SNS-ARQE-USA Realm
 SNS-6R-USA Red Line - F1 Racer
 SNS-5R-USA Relief Pitcher
-SNS-ARBE-USA Ren & Stimpy Show, The - Buckeroo$!
-SNS-6Y-USA Ren & Stimpy Show, The - Fire Dogs
-SNS-ARTE-USA Ren & Stimpy Show, The - Time Warp
-SNS-V8-USA Ren & Stimpy Show, The - Veediots!
+SNS-ARBE-USA The Ren & Stimpy Show - Buckeroo$!
+SNS-6Y-USA The Ren & Stimpy Show - Fire Dogs
+SNS-ARTE-USA The Ren & Stimpy Show - Time Warp
+SNS-V8-USA The Ren & Stimpy Show - Veediots!
 SNS-AXRE-USA Revolution X - Music is the Weapon
 SNS-XR-USA Rex Ronan - Experimental Surgeon
 SNS-XG-USA Riddick Bowe Boxing
@@ -472,7 +472,7 @@ SNS-R3-USA RoboCop 3
 SNS-VR-USA RoboCop vs. The Terminator
 SNS-E9-USA Robotrek
 SNS-RN-USA Rock & Roll Racing
-SNS-RK-USA Rocketeer, The
+SNS-RK-USA The Rocketeer
 SNS-8D-USA Rocko's Modern Life - Spunky's Dangerous Day
 SNS-NP-USA Rocky Rodent
 SNS-VP-USA Roger Clemens' MVP Baseball
@@ -496,8 +496,8 @@ SNS-AN-USA SimAnt - The Electronic Ant Colony
 SNS-SC-USA SimCity
 SNS-AWWE-USA SimCity 2000
 SNS-SE-USA SimEarth - The Living Planet
-SNS-BN-USA Simpsons, The - Bart's Nightmare
-SNS-AVBE-USA Simpsons, The - Virtual Bart
+SNS-BN-USA The Simpsons - Bart's Nightmare
+SNS-AVBE-USA The Simpsons - Virtual Bart
 SNS-9J-USA Sink or Swim
 SNS-SL-USA Skuljagger - Revolt of the Westicans
 SNS-LZ-USA Skyblazer
@@ -523,7 +523,7 @@ SNS-A2CE-USA Spider-Man & Venom - Separation Anxiety
 SNS-MN-USA Spider-Man & X-Men - Arcade's Revenge
 SNS-ADME-USA Spider-Man - The Animated Series
 SNS-SX-USA Spindizzy Worlds
-SNS-AWBE-USA Sporting News Baseball, The
+SNS-AWBE-USA The Sporting News Baseball
 SNS-LU-USA Sports Illustrated - Championship Football & Baseball
 SNS-FO-USA Star Fox
 SNS-FU-USA Star Fox - Super Weekend
@@ -546,7 +546,7 @@ SNS-6S-USA Sunset Riders
 SNS-H2-USA Super Adventure Island
 SNS-E4-USA Super Adventure Island II
 SNS-8A-USA Super Alfred Chicken
-SNS-AU-USA Super Aquatic Games starring the Aquabats, The
+SNS-AU-USA The Super Aquatic Games starring the Aquabats
 SNS-SA-USA Super Baseball 2020
 SNS-UB-USA Super Baseball Simulator 1.000
 SNS-SP-USA Super Bases Loaded
@@ -630,7 +630,7 @@ SNS-27-USA Tetris 2
 SNS-AYLE-USA Tetris Attack
 SNS-6T-USA Thomas the Tank Engine & Friends
 SNS-TH-USA Thunder Spirits
-SNS-ATHE-USA Tick, The
+SNS-ATHE-USA The Tick
 SNS-ATCE-USA Time Cop
 SNS-XT-USA Time Slip
 SNS-X8-USA Time Trax
@@ -657,7 +657,7 @@ SNS-TG-USA True Golf Classics - Waialae Country Club
 SNS-ATLE-USA True Lies
 SNS-TE-USA Tuff E Nuff
 SNS-ZN-USA Turn and Burn - No-Fly Zone
-SNS-83-USA Twisted Tales of Spike McFang, The
+SNS-83-USA The Twisted Tales of Spike McFang
 SNS-7U-USA Ultima - Runes of Virtue II
 SNS-U6-USA Ultima VI - The False Prophet
 SNS-7I-USA Ultima VII - The Black Gate
@@ -668,7 +668,7 @@ SNS-E8-USA UN Squadron
 SNS-QK-USA Uncharted Waters
 SNS-QL-USA Uncharted Waters - New Horizons
 SNS-4L-USA Uniracers
-SNS-UC-USA Untouchables, The
+SNS-UC-USA The Untouchables
 SNS-AUSE-USA Urban Strike
 SNS-UP-USA Utopia - The Creation of a Nation
 SNS-VS-USA Vegas Stakes
@@ -696,7 +696,7 @@ SNS-WC-USA Wing Commander
 SNS-2W-USA Wing Commander - The Secret Missions
 SNS-WG-USA Wings 2 - Aces High
 SNS-W4-USA Winter Olympic Games - Lillehammer '94
-SNS-W6-USA Wizard of Oz, The
+SNS-W6-USA The Wizard of Oz
 SNS-W5-USA Wizardry V - Heart of the Maelstrom
 SNS-WH-USA Wolf Child
 SNS-6W-USA Wolfenstein 3D
