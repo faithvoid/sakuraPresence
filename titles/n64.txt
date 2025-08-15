@@ -1,0 +1,888 @@
+NUS-CDZJ-JPN Dezaemon 3D 
+NUS-CFZE-USA F-Zero X 
+NUS-CFZJ-JPN F-Zero X 
+NUS-CFZP-EUR F-Zero X 
+NUS-CLBE-USA Mario Party 
+NUS-CP2J-JPN Pokemon Stadium 
+NUS-CP2J-JPN Pokemon Stadium 2 
+NUS-CZLE-USA Legend of Zelda, The - Ocarina of Time 
+NUS-CZLE-USA Legend of Zelda, The - Ocarina of Time (GameCube Edition)
+NUS-CZLE-USA Legend of Zelda, The - Ocarina of Time 
+NUS-CZLE-USA Legend of Zelda, The - Ocarina of Time 
+NUS-CZLE-USA Legend of Zelda, The - Ocarina of Time - Master Quest (Debug Version)
+NUS-CZLE-USA Legend of Zelda, The - Ocarina of Time - Master Quest (GameCube Edition)
+NUS-CZLJ-JPN Zelda no Densetsu - Toki no Ocarina 
+NUS-CZLJ-JPN Zelda no Densetsu - Toki no Ocarina 
+NUS-CZLJ-JPN Zelda no Densetsu - Toki no Ocarina 
+NUS-CZLJ-JPN Zelda no Densetsu - Toki no Ocarina GC (GameCube Edition)
+NUS-CZLJ-JPN Zelda no Densetsu - Toki no Ocarina GC Ura (GameCube Edition)
+NUS-N07E-USA 007 - The World Is Not Enough 
+NUS-N07P-EUR 007 - The World Is Not Enough 
+NUS-N22E-USA Ready 2 Rumble Boxing - Round 2 
+NUS-N2ME-USA Madden NFL 2002 
+NUS-N2PE-USA Rampage 2 - Universal Tour 
+NUS-N2PP-EUR Rampage 2 - Universal Tour 
+NUS-N2VE-USA Chameleon Twist 2 
+NUS-N2VP-EUR Chameleon Twist 2 
+NUS-N32E-USA Army Men - Sarge's Heroes 2 
+NUS-N3DJ-JPN Doraemon 3 - Nobita no Machi SOS! 
+NUS-N3HE-USA International Track & Field 2000 
+NUS-N3HJ-JPN Ganbare! Nippon! Olympics 2000 
+NUS-N3HP-EUR International Track & Field - Summer Games 
+NUS-N3PE-USA Triple Play 2000 
+NUS-N3TE-USA Tony Hawk's Pro Skater 3 
+NUS-N64J-JPN Kiratto Kaiketsu! 64 Tanteidan 
+NUS-N7IE-USA FIFA Soccer 64 
+NUS-N7IP-EUR FIFA Soccer 64 
+NUS-N8IE-USA FIFA - Road to World Cup 98  
+NUS-N8IJ-JPN FIFA - Road to World Cup 98 - World Cup e no Michi 
+NUS-N8IP-EUR FIFA - Road to World Cup 98  
+NUS-N8ME-USA Madden Football 64 
+NUS-N8MP-EUR Madden Football 64 
+NUS-N8WE-USA World Cup 98  
+NUS-N8WP-EUR World Cup 98  
+NUS-N9BE-USA NBA Live 99 
+NUS-N9BP-EUR NBA Live 99 
+NUS-N9CE-USA NASCAR 99 
+NUS-N9CP-EUR NASCAR 99 
+NUS-N9FE-USA FIFA 99  
+NUS-N9FP-EUR FIFA 99  
+NUS-N9HE-USA NHL 99 
+NUS-N9HP-EUR NHL 99 (En,De,Sv,Fi)
+NUS-N9ME-USA Madden NFL 99 
+NUS-N9MP-EUR Madden NFL 99 
+NUS-NA2J-JPN Virtual Pro Wrestling 2 - Oudou Keishou 
+NUS-NABJ-JPN Air Boarder 64 
+NUS-NABP-EUR Air Boarder 64 
+NUS-NACE-USA Army Men - Air Combat 
+NUS-NADE-USA Worms Armageddon 
+NUS-NAFJ-JPN Doubutsu no Mori 
+NUS-NAGE-USA AeroGauge 
+NUS-NAGJ-JPN AeroGauge 
+NUS-NAGP-EUR AeroGauge 
+NUS-NAHE-USA Asteroids Hyper 64 
+NUS-NAIE-USA Midway's Greatest Arcade Hits - Volume 1 
+NUS-NALE-USA Super Smash Bros. 
+NUS-NALJ-JPN Nintendo All-Star! Dairantou Smash Brothers 
+NUS-NALP-EUR Super Smash Bros. 
+NUS-NALU-AUS Super Smash Bros. 
+NUS-NAME-USA Army Men - Sarge's Heroes 
+NUS-NAMP-EUR Army Men - Sarge's Heroes 
+NUS-NARE-USA Armorines - Project S.W.A.R.M. 
+NUS-NARP-EUR Armorines - Project S.W.A.R.M. 
+NUS-NARP-EUR Armorines - Project S.W.A.R.M. 
+NUS-NASE-USA All-Star Baseball 2001 
+NUS-NAYE-USA Aidyn Chronicles - The First Mage 
+NUS-NAYE-USA Aidyn Chronicles - The First Mage 
+NUS-NAYP-EUR Aidyn Chronicles - The First Mage 
+NUS-NB2E-USA NBA in the Zone '99 
+NUS-NB2J-JPN NBA in the Zone 2 
+NUS-NB2P-EUR NBA Pro 99 
+NUS-NB3E-USA Bust-A-Move '99 
+NUS-NB3P-EUR Bust-A-Move 3 DX 
+NUS-NB4E-USA Bassmasters 2000 
+NUS-NB5J-JPN Biohazard 2 
+NUS-NB6J-JPN Super B-Daman - Battle Phoenix 64 
+NUS-NB7E-USA Banjo-Tooie 
+NUS-NB7J-JPN Banjo to Kazooie no Daibouken 2 
+NUS-NB7P-EUR Banjo-Tooie 
+NUS-NB7U-AUS Banjo-Tooie 
+NUS-NB8J-JPN Beetle Adventure Racing! 
+NUS-NB9E-USA NBA Jam 99 
+NUS-NB9P-EUR NBA Jam 99 
+NUS-NBAE-USA NBA in the Zone '98 
+NUS-NBAJ-JPN NBA in the Zone '98 
+NUS-NBAP-EUR NBA Pro 98 
+NUS-NBCE-USA Blast Corps 
+NUS-NBCE-USA Blast Corps 
+NUS-NBCJ-JPN Blastdozer 
+NUS-NBCP-EUR Blast Corps  
+NUS-NBDE-USA Bomberman Hero 
+NUS-NBDJ-JPN Bomber Man Hero - Mirian Oujo o Sukue! 
+NUS-NBDP-EUR Bomberman Hero 
+NUS-NBEE-USA All-Star Baseball 2000 
+NUS-NBEP-EUR All-Star Baseball 2000 
+NUS-NBFE-USA Bio F.R.E.A.K.S. 
+NUS-NBFP-EUR Bio F.R.E.A.K.S. 
+NUS-NBHE-USA Body Harvest 
+NUS-NBHP-EUR Body Harvest 
+NUS-NBIE-USA NFL Blitz 2000 
+NUS-NBIE-USA NFL Blitz 2000 
+NUS-NBJJ-JPN Bakushou Jinsei 64 - Mezase! Resort Ou 
+NUS-NBKE-USA Banjo-Kazooie 
+NUS-NBKE-USA Banjo-Kazooie 
+NUS-NBKJ-JPN Banjo to Kazooie no Daibouken 
+NUS-NBKP-EUR Banjo-Kazooie 
+NUS-NBLE-USA Buck Bumble 
+NUS-NBLJ-JPN Buck Bumble 
+NUS-NBLP-EUR Buck Bumble 
+NUS-NBNJ-JPN Bakuretsu Muteki Bangaioh 
+NUS-NBOE-USA Bottom of the 9th 
+NUS-NBPE-USA Blues Brothers 2000 
+NUS-NBPP-EUR Blues Brothers 2000 
+NUS-NBQE-USA BattleTanx - Global Assault 
+NUS-NBQP-UKV BattleTanx - Global Assault 
+NUS-NBRE-USA Milo's Astro Lanes 
+NUS-NBRP-EUR Milo's Astro Lanes 
+NUS-NBSE-USA All-Star Baseball 99 
+NUS-NBSP-EUR All-Star Baseball 99 
+NUS-NBUE-USA Bust-A-Move 2 - Arcade Edition 
+NUS-NBUP-EUR Bust-A-Move 2 - Arcade Edition 
+NUS-NBVE-USA Bomberman 64 - The Second Attack! 
+NUS-NBVJ-JPN Baku Bomber Man 2 
+NUS-NBWE-USA Super Bowling 
+NUS-NBWJ-JPN Super Bowling 
+NUS-NBXE-USA BattleTanx 
+NUS-NBYE-USA Bug's Life, A 
+NUS-NBYP-EUR Bug's Life, A 
+NUS-NBYP-EUR Bug's Life, A 
+NUS-NBYP-EUR Bug's Life, A 
+NUS-NBYP-EUR Bug's Life, A 
+NUS-NBZE-USA NFL Blitz 
+NUS-NC2E-USA Clay Fighter - Sculptor's Cut 
+NUS-NCBE-USA Charlie Blast's Territory 
+NUS-NCBP-EUR Charlie Blast's Territory 
+NUS-NCCE-USA Command & Conquer 
+NUS-NCCP-EUR Command & Conquer  
+NUS-NCCP-EUR Command & Conquer 
+NUS-NCDE-USA Carmageddon 64 
+NUS-NCDP-EUR Carmageddon 64 
+NUS-NCDP-EUR Carmageddon 64  
+NUS-NCEE-USA Nuclear Strike 64 
+NUS-NCEP-EUR Nuclear Strike 64  
+NUS-NCEP-EUR Nuclear Strike 64 
+NUS-NCFE-USA Clay Fighter 63 1-3 
+NUS-NCFP-EUR Clay Fighter 63 1-3 
+NUS-NCGJ-JPN Choro Q 64 II - Hacha Mecha Grand Prix Race 
+NUS-NCHE-USA Chopper Attack 
+NUS-NCHP-EUR Chopper Attack 
+NUS-NCKE-USA NBA Courtside 2 featuring Kobe Bryant 
+NUS-NCLE-USA California Speed 
+NUS-NCOE-USA Jeremy McGrath Supercross 2000 
+NUS-NCOP-EUR Jeremy McGrath Supercross 2000 
+NUS-NCRE-USA Penny Racers 
+NUS-NCRJ-JPN Choro Q 64 
+NUS-NCRP-EUR Penny Racers 
+NUS-NCSE-USA S.C.A.R.S. 
+NUS-NCSP-EUR S.C.A.R.S. 
+NUS-NCTE-USA Chameleon Twist 
+NUS-NCTE-USA Chameleon Twist 
+NUS-NCTJ-JPN Chameleon Twist 
+NUS-NCTP-EUR Chameleon Twist 
+NUS-NCUE-USA Cruis'n USA 
+NUS-NCUE-USA Cruis'n USA 
+NUS-NCUE-USA Cruis'n USA 
+NUS-NCUP-EUR Cruis'n USA 
+NUS-NCWE-USA Cruis'n World 
+NUS-NCWP-EUR Cruis'n World 
+NUS-NCXJ-JPN Custom Robo 
+NUS-NCYE-USA South Park - Chef's Luv Shack 
+NUS-NCYP-EUR South Park - Chef's Luv Shack 
+NUS-NCZJ-JPN Custom Robo V2 
+NUS-ND2J-JPN Doraemon 2 - Nobita to Hikari no Shinden 
+NUS-ND3E-USA Castlevania 
+NUS-ND3E-USA Castlevania 
+NUS-ND3E-USA Castlevania 
+NUS-ND3J-JPN Akumajou Dracula Mokushiroku - Real Action Adventure 
+NUS-ND3P-EUR Castlevania 
+NUS-ND4E-USA Castlevania - Legacy of Darkness 
+NUS-ND4J-JPN Akumajou Dracula Mokushiroku Gaiden - Legend of Cornell 
+NUS-ND4P-EUR Castlevania - Legacy of Darkness 
+NUS-ND6J-JPN Densha de Go! 64 
+NUS-NDAJ-JPN Derby Stallion 64 
+NUS-NDCJ-JPN SD Hiryuu no Ken Densetsu 
+NUS-NDEE-USA Destruction Derby 64 
+NUS-NDEP-EUR Destruction Derby 64 
+NUS-NDFJ-JPN Dance Dance Revolution - Disney Dancing Museum 
+NUS-NDHE-USA Dual Heroes 
+NUS-NDHJ-JPN Dual Heroes 
+NUS-NDHP-EUR Dual Heroes 
+NUS-NDKE-USA Dark Rift 
+NUS-NDKJ-JPN Space Dynamites 
+NUS-NDKP-EUR Dark Rift 
+NUS-NDME-USA Doom 64 
+NUS-NDME-USA Doom 64 
+NUS-NDMJ-JPN Doom 64 
+NUS-NDMP-EUR Doom 64 
+NUS-NDNE-USA Duke Nukem 64 
+NUS-NDNP-EUR Duke Nukem 64 
+NUS-NDNP-EUR Duke Nukem 64 
+NUS-NDOE-USA Donkey Kong 64 
+NUS-NDOJ-JPN Donkey Kong 64 
+NUS-NDOP-EUR Donkey Kong 64 
+NUS-NDQE-USA Donald Duck - Goin' Quackers 
+NUS-NDQP-EUR Donald Duck - Quack Attack 
+NUS-NDRJ-JPN Doraemon - Nobita to 3tsu no Seireiseki 
+NUS-NDSJ-JPN J.League Dynamite Soccer 64 
+NUS-NDTE-USA South Park 
+NUS-NDTP-EUR South Park 
+NUS-NDTP-EUR South Park 
+NUS-NDUE-USA Duck Dodgers Starring Daffy Duck 
+NUS-NDUP-EUR Daffy Duck Starring as Duck Dodgers 
+NUS-NDWE-USA John Romero's Daikatana 
+NUS-NDWJ-JPN John Romero's Daikatana 
+NUS-NDWP-EUR John Romero's Daikatana 
+NUS-NDYE-USA Diddy Kong Racing  
+NUS-NDYE-USA Diddy Kong Racing  
+NUS-NDYJ-JPN Diddy Kong Racing 
+NUS-NDYP-EUR Diddy Kong Racing 
+NUS-NDYP-EUR Diddy Kong Racing  
+NUS-NDZE-USA Duke Nukem - Zero Hour 
+NUS-NDZP-EUR Duke Nukem - Zero Hour 
+NUS-NDZP-EUR Duke Nukem - Zero Hour 
+NUS-NEAE-USA PGA European Tour 
+NUS-NEAP-EUR PGA European Tour Golf 
+NUS-NEGE-USA Extreme-G 
+NUS-NEGJ-JPN Extreme-G 
+NUS-NEGP-EUR Extreme-G 
+NUS-NELE-USA Elmo's Letter Adventure 
+NUS-NENE-USA Elmo's Number Journey 
+NUS-NEPE-USA Star Wars Episode I - Racer 
+NUS-NEPJ-JPN Star Wars Episode I - Racer 
+NUS-NEPP-EUR Star Wars Episode I - Racer 
+NUS-NERE-USA AeroFighters Assault 
+NUS-NETE-USA Quest 64 
+NUS-NETJ-JPN Eltale Monsters 
+NUS-NETP-EUR Holy Magic Century 
+NUS-NETP-EUR Holy Magic Century 
+NUS-NETP-EUR Holy Magic Century 
+NUS-NEVJ-JPN Neon Genesis Evangelion 
+NUS-NF2P-EUR F-1 World Grand Prix II 
+NUS-NFBE-USA NFL Blitz 2001 
+NUS-NFDE-USA Flying Dragon 
+NUS-NFDP-EUR Flying Dragon 
+NUS-NFFE-USA Fighting Force 64 
+NUS-NFFP-EUR Fighting Force 64 
+NUS-NFGE-USA Fighter Destiny 2 
+NUS-NFHE-USA In-Fisherman - Bass Hunter 64 
+NUS-NFHP-EUR In-Fisherman - Bass Hunter 64 
+NUS-NFLE-USA Madden NFL 2001 
+NUS-NFOE-USA Forsaken 64 
+NUS-NFOP-EUR Forsaken 64  
+NUS-NFOP-EUR Forsaken 64 
+NUS-NFQE-USA Razor Freestyle Scooter 
+NUS-NFRP-EUR F1 Racing Championship 
+NUS-NFSE-USA Fox Sports College Hoops '99 
+NUS-NFSJ-JPN Famista 64 
+NUS-NFUE-USA Conker's Bad Fur Day 
+NUS-NFUP-EUR Conker's Bad Fur Day 
+NUS-NFWE-USA F-1 World Grand Prix 
+NUS-NFWJ-JPN F-1 World Grand Prix 
+NUS-NFWP-EUR F-1 World Grand Prix 
+NUS-NFWP-EUR F-1 World Grand Prix 
+NUS-NFWP-EUR F-1 World Grand Prix 
+NUS-NFXE-USA Star Fox 64 
+NUS-NFXE-USA Star Fox 64 
+NUS-NFXJ-JPN Star Fox 64 
+NUS-NFXP-EUR Lylat Wars 
+NUS-NFXU-AUS Lylat Wars  
+NUS-NFYJ-JPN Kakutou Denshou - F-Cup Maniax 
+NUS-NG2E-USA Extreme-G XG2 
+NUS-NG2J-JPN Extreme-G XG2 
+NUS-NG2P-EUR Extreme-G XG2 
+NUS-NG5J-JPN Ganbare Goemon - Dero Dero Douchuu Obake Tenkomori 
+NUS-NG5J-JPN Ganbare Goemon - Neo Momoyama Bakufu no Odori 
+NUS-NGAE-USA Deadly Arts 
+NUS-NGAJ-JPN G.A.S.P!! Fighters' NEXTream 
+NUS-NGAP-EUR G.A.S.P!! Fighters' NEXTream 
+NUS-NGBE-USA Top Gear Hyper-Bike 
+NUS-NGBJ-JPN Top Gear Hyper-Bike 
+NUS-NGBP-EUR Top Gear Hyper-Bike 
+NUS-NGCE-USA GT64 - Championship Edition 
+NUS-NGCP-EUR GT64 - Championship Edition 
+NUS-NGDJ-JPN Gauntlet Legends 
+NUS-NGEJ-JPN 007 - GoldenEye 
+NUS-NGLJ-JPN Getter Love!! Cho Renai Party Game 
+NUS-NGME-USA Goemon's Great Adventure 
+NUS-NGME-USA Mystical Ninja Starring Goemon 
+NUS-NGMP-EUR Mystical Ninja 2 Starring Goemon 
+NUS-NGMP-EUR Mystical Ninja Starring Goemon 
+NUS-NGNE-USA Golden Nugget 64 
+NUS-NGPJ-JPN Goemon - Mononoke Sugoroku 
+NUS-NGSJ-JPN Jikkyou G1 Stable 
+NUS-NGSJ-JPN Jikkyou G1 Stable 
+NUS-NGTJ-JPN City-Tour GP - Zen-Nihon GT Senshuken 
+NUS-NGUJ-JPN Tsumi to Batsu - Hoshi no Keishousha 
+NUS-NGVE-USA Glover 
+NUS-NGVP-EUR Glover 
+NUS-NGXE-USA Gauntlet Legends 
+NUS-NGXP-EUR Gauntlet Legends 
+NUS-NH5E-USA Nagano Winter Olympics '98 
+NUS-NH5J-JPN Hyper Olympics in Nagano 64 
+NUS-NH5P-EUU Nagano Winter Olympics '98 
+NUS-NH9E-USA NHL Breakaway 99 
+NUS-NH9P-EUR NHL Breakaway 99 
+NUS-NHAJ-JPN Baku Bomber Man 
+NUS-NHAJ-JPN Bomber Man 64 
+NUS-NHBJ-JPN Nintama Rantarou 64 Game Gallery 
+NUS-NHCE-USA Hercules - The Legendary Journeys 
+NUS-NHCP-EUR Hercules - The Legendary Journeys 
+NUS-NHFJ-JPN 64 Hanafuda - Tenshi no Yakusoku 
+NUS-NHGE-USA F1 Pole Position 64 
+NUS-NHGJ-JPN Human Grand Prix - The New Generation 
+NUS-NHGP-EUR F1 Pole Position 64 
+NUS-NHKJ-JPN Hiryuu no Ken Twin 
+NUS-NHLE-USA NHL Breakaway 98 
+NUS-NHLP-EUR NHL Breakaway 98 
+NUS-NHNE-USA Olympic Hockey 98 
+NUS-NHNJ-JPN Olympic Hockey 98 
+NUS-NHNP-EUR Olympic Hockey 98 
+NUS-NHOE-USA NHL Blades of Steel '99 
+NUS-NHOP-EUR NHL Pro 99 
+NUS-NHPJ-JPN Heiwa Pachinko World 64 
+NUS-NHSJ-JPN Hamster Monogatari 64 
+NUS-NHTE-USA Hydro Thunder 
+NUS-NHTP-EUR Hydro Thunder 
+NUS-NHTP-EUR Hydro Thunder 
+NUS-NHVE-USA Hybrid Heaven 
+NUS-NHVP-EUR Hybrid Heaven 
+NUS-NHWE-USA Hot Wheels - Turbo Racing 
+NUS-NHWP-EUR Hot Wheels - Turbo Racing 
+NUS-NHXE-USA Hexen 
+NUS-NHXJ-JPN Hexen 
+NUS-NHXP-EUR Hexen 
+NUS-NHXP-EUR Hexen 
+NUS-NHXP-EUR Hexen 
+NUS-NHYJ-JPN Hybrid Heaven 
+NUS-NIBJ-JPN Itoi Shigesato no Bass Tsuri No. 1 Kettei Ban! 
+NUS-NICE-USA Indy Racing 2000 
+NUS-NIJE-USA Indiana Jones and the Infernal Machine 
+NUS-NIMJ-JPN Ide Yosuke no Mahjong Juku 
+NUS-NIRJ-JPN Utchan Nanchan no Hono no Challenger - Denryuu Ira Ira Bou 
+NUS-NISE-USA International Superstar Soccer 2000  
+NUS-NISP-EUR International Superstar Soccer 2000  
+NUS-NISP-EUR International Superstar Soccer 2000  
+NUS-NIVE-USA Space Invaders 
+NUS-NJ2J-JPN Wonder Project J2 - Koruro no Mori no Jozet 
+NUS-NJ3J-JPN Jikkyou World Soccer 3 
+NUS-NJ5J-JPN Jikkyou Powerful Pro Yakyuu 5 
+NUS-NJ5J-JPN Jikkyou Powerful Pro Yakyuu 5 
+NUS-NJ5J-JPN Jikkyou Powerful Pro Yakyuu 5 
+NUS-NJAE-USA NBA Jam 2000 
+NUS-NJAP-EUR NBA Jam 2000 
+NUS-NJEJ-JPN J.League Eleven Beat 1997 
+NUS-NJFE-USA Jet Force Gemini 
+NUS-NJFJ-JPN Star Twins 
+NUS-NJFP-EUR Jet Force Gemini 
+NUS-NJGJ-JPN Jinsei Game 64 
+NUS-NJLJ-JPN J.League Live 64 
+NUS-NJME-USA Earthworm Jim 3D 
+NUS-NJMP-EUR Earthworm Jim 3D 
+NUS-NJOE-USA Jeopardy! 
+NUS-NJPE-USA International Superstar Soccer 64 
+NUS-NJPJ-JPN Jikkyou J.League Perfect Striker 
+NUS-NJPP-EUR International Superstar Soccer 64 
+NUS-NJQE-USA Batman Beyond - Return of the Joker 
+NUS-NJQP-EUR Batman of the Future - Return of the Joker 
+NUS-NK2E-USA Snowboard Kids 2 
+NUS-NK2J-JPN Chou Snobo Kids 
+NUS-NK2P-AUS Snowboard Kids 2 
+NUS-NK4E-USA Kirby 64 - The Crystal Shards 
+NUS-NK4J-JPN Hoshi no Kirby 64 
+NUS-NK4J-JPN Hoshi no Kirby 64 
+NUS-NK4J-JPN Hoshi no Kirby 64 
+NUS-NK4J-JPN Hoshi no Kirby 64 
+NUS-NK4P-EUR Kirby 64 - The Crystal Shards 
+NUS-NKAE-USA Fighters Destiny 
+NUS-NKAJ-JPN Fighting Cup 
+NUS-NKAP-EUR Fighters Destiny 
+NUS-NKAP-EUR Fighters Destiny 
+NUS-NKAP-EUR Fighters Destiny 
+NUS-NKEE-USA Knife Edge - Nose Gunner 
+NUS-NKEJ-JPN Knife Edge - Nose Gunner 
+NUS-NKEP-EUR Knife Edge - Nose Gunner 
+NUS-NKGE-USA Major League Baseball featuring Ken Griffey Jr. 
+NUS-NKGP-AUS Major League Baseball featuring Ken Griffey Jr. 
+NUS-NKIE-USA Killer Instinct Gold 
+NUS-NKIE-USA Killer Instinct Gold 
+NUS-NKIE-USA Killer Instinct Gold 
+NUS-NKIP-EUR Killer Instinct Gold 
+NUS-NKJE-USA Ken Griffey Jr.'s Slugfest 
+NUS-NKKE-USA Knockout Kings 2000 
+NUS-NKKP-EUR Knockout Kings 2000 
+NUS-NKMJ-JPN Pro Mahjong Kiwame 64 
+NUS-NKMJ-JPN Pro Mahjong Kiwame 64 
+NUS-NKRJ-JPN Rakuga Kids 
+NUS-NKRP-EUR Rakuga Kids 
+NUS-NKTE-USA Mario Kart 64 
+NUS-NKTJ-JPN Mario Kart 64 
+NUS-NKTJ-JPN Mario Kart 64 
+NUS-NKTP-EUR Mario Kart 64 
+NUS-NKTP-EUR Mario Kart 64 
+NUS-NL2E-USA Top Gear Rally 2 
+NUS-NL2J-JPN Top Gear Rally 2 
+NUS-NL2P-EUR TG Rally 2 
+NUS-NL2P-EUR Top Gear Rally 2 
+NUS-NLBJ-JPN Mario Party 
+NUS-NLBP-EUR Mario Party 
+NUS-NLCE-USA Automobili Lamborghini 
+NUS-NLCJ-JPN Super Speed Race 64 
+NUS-NLCP-EUR Automobili Lamborghini 
+NUS-NLGE-USA LEGO Racers  
+NUS-NLGP-EUR LEGO Racers  
+NUS-NLLJ-JPN Last Legion UX 
+NUS-NLRE-USA Lode Runner 3-D 
+NUS-NLRJ-JPN Lode Runner 3-D 
+NUS-NLRP-EUR Lode Runner 3-D 
+NUS-NM3E-USA Monster Truck Madness 64 
+NUS-NM3P-EUR Monster Truck Madness 64 
+NUS-NM4E-USA Mortal Kombat 4 
+NUS-NM4P-EUR Mortal Kombat 4 
+NUS-NM6E-USA Mega Man 64 
+NUS-NM8E-USA Mario Tennis 
+NUS-NM8J-JPN Mario Tennis 64 
+NUS-NM8P-EUR Mario Tennis 
+NUS-NMAJ-JPN Jangou Simulation Mahjong Dou 64 
+NUS-NMBE-USA Mike Piazza's StrikeZone 
+NUS-NMDE-USA Madden NFL 2000 
+NUS-NMEE-USA Mace - The Dark Age 
+NUS-NMEP-EUR Mace - The Dark Age 
+NUS-NMFE-USA Mario Golf 
+NUS-NMFJ-JPN Mario Golf 64 
+NUS-NMFJ-JPN Mario Golf 64 
+NUS-NMFP-EUR Mario Golf 
+NUS-NMGE-USA Monaco Grand Prix 
+NUS-NMGP-EUR Monaco Grand Prix - Racing Simulation 2  
+NUS-NMGP-EUR Racing Simulation 2 
+NUS-NMHE-USA Mia Hamm Soccer 64  
+NUS-NMHJ-JPN Mahjong Hourouki Classic 
+NUS-NMIE-USA Mission Impossible 
+NUS-NMIP-EUR Mission Impossible 
+NUS-NMIP-EUR Mission Impossible 
+NUS-NMIP-EUR Mission Impossible 
+NUS-NMIP-EUR Mission Impossible 
+NUS-NMIP-EUR Mission Impossible (Spain)
+NUS-NMJJ-JPN Mahjong 64 
+NUS-NMKE-USA Mortal Kombat Trilogy 
+NUS-NMKE-USA Mortal Kombat Trilogy 
+NUS-NMKE-USA Mortal Kombat Trilogy 
+NUS-NMKP-EUR Mortal Kombat Trilogy 
+NUS-NMLE-USA Mickey's Speedway USA 
+NUS-NMLJ-JPN Mickey no Racing Challenge USA 
+NUS-NMLP-EUR Mickey's Speedway USA 
+NUS-NMMJ-JPN Mahjong Master 
+NUS-NMOE-USA Monopoly 
+NUS-NMPJ-JPN Mario no Photopie 
+NUS-NMQE-USA Paper Mario 
+NUS-NMQJ-JPN Mario Story 
+NUS-NMQP-EUR Paper Mario 
+NUS-NMRE-USA MRC - Multi Racing Championship 
+NUS-NMRJ-JPN MRC - Multi Racing Championship 
+NUS-NMRP-EUR MRC - Multi Racing Championship 
+NUS-NMSJ-JPN Morita Shougi 64 
+NUS-NMTE-USA Magical Tetris Challenge 
+NUS-NMTJ-JPN Magical Tetris Challenge featuring Mickey 
+NUS-NMTP-EUR Defi au Tetris Magique 
+NUS-NMTP-EUR Magical Tetris Challenge 
+NUS-NMTP-EUR Magical Tetris Challenge 
+NUS-NMUE-USA Big Mountain 2000 
+NUS-NMVE-USA Mario Party 3 
+NUS-NMVJ-JPN Mario Party 3 
+NUS-NMVP-EUR Mario Party 3 
+NUS-NMWE-USA Mario Party 2 
+NUS-NMWJ-JPN Mario Party 2 
+NUS-NMWP-EUR Mario Party 2 
+NUS-NMXE-USA Excitebike 64 
+NUS-NMXE-USA Excitebike 64 
+NUS-NMXJ-JPN Excitebike 64 
+NUS-NMXP-EUR Excitebike 64 
+NUS-NMYE-USA Mortal Kombat Mythologies - Sub-Zero 
+NUS-NMYP-EUR Mortal Kombat Mythologies - Sub-Zero 
+NUS-NMZJ-JPN Zool - Majuu Tsukai Densetsu 
+NUS-NN2E-USA NASCAR 2000 
+NUS-NN6E-USA Dr. Mario 64 
+NUS-NNAE-USA Star Wars Episode I - Battle for Naboo 
+NUS-NNAP-EUR Star Wars Episode I - Battle for Naboo 
+NUS-NNBE-USA Kobe Bryant's NBA Courtside 
+NUS-NNBP-EUR Kobe Bryant in NBA Courtside 
+NUS-NNCE-USA Nightmare Creatures 
+NUS-NNLE-USA NBA Live 2000 
+NUS-NNLP-EUR NBA Live 2000 
+NUS-NNME-USA Namco Museum 64 
+NUS-NNRJ-JPN Pro Mahjong Tsuwamono 64 - Jansou Battle ni Chousen 
+NUS-NNSE-USA Beetle Adventure Racing! 
+NUS-NNSP-EUR Beetle Adventure Racing! 
+NUS-NNSX-AUS HSV Adventure Racing! 
+NUS-NO2J-JPN 64 Oozumou 2 
+NUS-NOBE-USA Ogre Battle 64 - Person of Lordly Caliber 
+NUS-NOBE-USA Ogre Battle 64 - Person of Lordly Caliber 
+NUS-NOBJ-JPN Ogre Battle 64 - Person of Lordly Caliber 
+NUS-NOFE-USA Off Road Challenge 
+NUS-NOFP-EUR Off Road Challenge 
+NUS-NOHE-USA Transformers - Beast Wars Transmetals 
+NUS-NOMJ-JPN Onegai Monsters 
+NUS-NOSJ-JPN 64 Oozumou 
+NUS-NOWE-USA Brunswick Circuit Pro Bowling 
+NUS-NP2J-JPN Chou Kuukan Nighter Pro Yakyuu King 2 
+NUS-NP3E-USA Pokemon Stadium 2 
+NUS-NP3J-JPN Pokemon Stadium Kin Gin 
+NUS-NP3P-EUR Pokemon Stadium 2 
+NUS-NP3P-EUR Pokemon Stadium 2 
+NUS-NP3P-EUR Pokemon Stadium 2 
+NUS-NP3P-EUR Pokemon Stadium 2 
+NUS-NP3P-EUR Pokemon Stadium 2 (Spain)
+NUS-NP4J-JPN Jikkyou Powerful Pro Yakyuu 4 
+NUS-NP4J-JPN Jikkyou Powerful Pro Yakyuu 4 
+NUS-NP6J-JPN Jikkyou Powerful Pro Yakyuu 6 
+NUS-NP6J-JPN Jikkyou Powerful Pro Yakyuu 6 
+NUS-NP6J-JPN Jikkyou Powerful Pro Yakyuu 6 
+NUS-NP9E-USA Ms. Pac-Man - Maze Madness 
+NUS-NPAJ-JPN Jikkyou Powerful Pro Yakyuu 2000 
+NUS-NPAJ-JPN Jikkyou Powerful Pro Yakyuu 2000 
+NUS-NPBJ-JPN Puzzle Bobble 64 
+NUS-NPCJ-JPN Pachinko 365 Nichi 
+NUS-NPDE-USA Perfect Dark 
+NUS-NPDE-USA Perfect Dark 
+NUS-NPDJ-JPN Perfect Dark 
+NUS-NPDP-EUR Perfect Dark 
+NUS-NPEJ-JPN Jikkyou Powerful Pro Yakyuu Basic Ban 2001 
+NUS-NPEJ-JPN Jikkyou Powerful Pro Yakyuu Basic Ban 2001 
+NUS-NPFE-USA Pokemon Snap 
+NUS-NPFJ-JPN Pokemon Snap 
+NUS-NPFP-EUR Pokemon Snap 
+NUS-NPFP-EUR Pokemon Snap 
+NUS-NPFP-EUR Pokemon Snap 
+NUS-NPFP-EUR Pokemon Snap 
+NUS-NPFP-EUR Pokemon Snap (Spain)
+NUS-NPFU-AUS Pokemon Snap 
+NUS-NPGE-USA Hey You, Pikachu! 
+NUS-NPGJ-JPN Pikachuu Genki de Chuu 
+NUS-NPKJ-JPN Chou Kuukan Nighter Pro Yakyuu King 
+NUS-NPLJ-JPN Power League 64 
+NUS-NPMP-EUR Premier Manager 64 
+NUS-NPNE-USA Pokemon Puzzle League 
+NUS-NPNP-EUR Pokemon Puzzle League 
+NUS-NPNP-EUR Pokemon Puzzle League 
+NUS-NPNP-EUR Pokemon Puzzle League 
+NUS-NPOE-USA Pokemon Stadium 
+NUS-NPOE-USA Pokemon Stadium 
+NUS-NPOE-USA Pokemon Stadium 
+NUS-NPOP-EUR Pokemon Stadium 
+NUS-NPOP-EUR Pokemon Stadium 
+NUS-NPOP-EUR Pokemon Stadium 
+NUS-NPOP-EUR Pokemon Stadium 
+NUS-NPOP-EUR Pokemon Stadium 
+NUS-NPOP-EUR Pokemon Stadium (Spain)
+NUS-NPPJ-JPN Parlor! Pro 64 - Pachinko Jikki Simulation Game 
+NUS-NPQE-USA Powerpuff Girls, The - Chemical X-Traction 
+NUS-NPRE-USA South Park Rally 
+NUS-NPRP-EUR South Park Rally 
+NUS-NPSJ-JPN Jikkyou J.League 1999 - Perfect Striker 2 
+NUS-NPSJ-JPN Jikkyou J.League 1999 - Perfect Striker 2 
+NUS-NPTJ-JPN Puyo Puyo 4 - Puyo Puyon Party 
+NUS-NPUE-USA Power Rangers - Lightspeed Rescue 
+NUS-NPUP-EUR Power Rangers - Lightspeed Rescue 
+NUS-NPWE-USA Pilotwings 64 
+NUS-NPWJ-JPN Pilotwings 64 
+NUS-NPWP-EUR Pilotwings 64 
+NUS-NPXE-USA Polaris SnoCross 
+NUS-NPYJ-JPN Puyo Puyo Sun 64 
+NUS-NPZJ-JPN Susume! Taisen Puzzle Dama - Toukon! Marutama Chou 
+NUS-NQ2E-USA Quake II 
+NUS-NQ2P-EUR Quake II 
+NUS-NQ8E-USA NFL Quarterback Club 98 
+NUS-NQ8P-EUR NFL Quarterback Club 98 
+NUS-NQ9E-USA NFL Quarterback Club 99 
+NUS-NQ9P-EUR NFL Quarterback Club 99 
+NUS-NQBE-USA NFL Quarterback Club 2000 
+NUS-NQBP-EUR NFL Quarterback Club 2000 
+NUS-NQCE-USA NFL QB Club 2001 
+NUS-NQKE-USA Quake 64 
+NUS-NQKP-EUR Quake 64 
+NUS-NR2E-USA Rush 2 - Extreme Racing USA 
+NUS-NR2P-EUR Rush 2 - Extreme Racing USA 
+NUS-NR3E-USA Stunt Racer 64 
+NUS-NR6E-USA Tom Clancy's Rainbow Six 
+NUS-NR6P-EUR Tom Clancy's Rainbow Six 
+NUS-NR6P-EUR Tom Clancy's Rainbow Six 
+NUS-NR6P-EUR Tom Clancy's Rainbow Six 
+NUS-NR7J-JPN Robot Poncots 64 - 7tsu no Umi no Caramel 
+NUS-NRAJ-JPN Rally '99 
+NUS-NRCE-USA Top Gear Overdrive 
+NUS-NRCJ-JPN Top Gear Overdrive 
+NUS-NRCP-EUR Top Gear Overdrive 
+NUS-NRDE-USA Ready 2 Rumble Boxing 
+NUS-NRDP-EUR Ready 2 Rumble Boxing 
+NUS-NREE-USA Resident Evil 2 
+NUS-NREE-USA Resident Evil 2 
+NUS-NREP-EUR Resident Evil 2  
+NUS-NRGE-USA Rugrats - Scavenger Hunt 
+NUS-NRGP-EUR Razmoket, Les - La Chasse aux Tresors 
+NUS-NRGP-EUR Rugrats - Die grosse Schatzsuche 
+NUS-NRGP-EUR Rugrats - Treasure Hunt 
+NUS-NRHJ-JPN Rockman Dash - Hagane no Boukenshin 
+NUS-NRIE-USA New Tetris, The 
+NUS-NRIP-EUR New Tetris, The 
+NUS-NRKE-USA Rugrats in Paris - The Movie 
+NUS-NRKP-EUR Rugrats in Paris - The Movie 
+NUS-NROE-USA Road Rash 64 
+NUS-NROP-EUR Road Rash 64 
+NUS-NRPE-USA Rampage - World Tour 
+NUS-NRPP-EUR Rampage - World Tour 
+NUS-NRRE-USA Roadsters 
+NUS-NRRP-EUR Roadsters 
+NUS-NRSE-USA Star Wars - Rogue Squadron 
+NUS-NRSE-USA Star Wars - Rogue Squadron 
+NUS-NRSJ-JPN Star Wars - Shutsugeki! Rogue Chuutai 
+NUS-NRSP-EUR Star Wars - Rogue Squadron 
+NUS-NRSP-EUR Star Wars - Rogue Squadron  
+NUS-NRTE-USA Rat Attack! 
+NUS-NRTP-EUR Rat Attack! 
+NUS-NRUE-USA San Francisco Rush 2049 
+NUS-NRUP-EUR San Francisco Rush 2049 
+NUS-NRVE-USA Re-Volt 
+NUS-NRVP-EUR Re-Volt 
+NUS-NRWE-USA Turok - Rage Wars 
+NUS-NRWE-USA Turok - Rage Wars 
+NUS-NRWP-EUR Turok - Legenden des Verlorenen Landes 
+NUS-NRWP-EUR Turok - Rage Wars 
+NUS-NRWP-EUR Turok - Rage Wars  
+NUS-NRXE-USA Robotron 64 
+NUS-NRXP-EUR Robotron 64 
+NUS-NRZE-USA RR64 - Ridge Racer 64 
+NUS-NRZP-EUR RR64 - Ridge Racer 64 
+NUS-NS2J-JPN SimCity 2000 
+NUS-NS3J-JPN AI Shougi 3 
+NUS-NS4J-JPN Super Robot Taisen 64 
+NUS-NS6E-USA Star Soldier - Vanishing Earth 
+NUS-NS6J-JPN Star Soldier - Vanishing Earth 
+NUS-NSAJ-JPN Sonic Wings Assault 
+NUS-NSAP-EUR AeroFighters Assault 
+NUS-NSBE-USA Twisted Edge - Extreme Snowboarding 
+NUS-NSBJ-JPN King Hill 64 - Extreme Snowboarding 
+NUS-NSBP-EUR Twisted Edge - Extreme Snowboarding 
+NUS-NSCE-USA Starshot - Space Circus Fever 
+NUS-NSCP-EUR Starshot - Space Circus Fever 
+NUS-NSDE-USA Shadow Man 
+NUS-NSDP-EUR Shadow Man 
+NUS-NSDP-EUR Shadow Man 
+NUS-NSDP-EUR Shadow Man 
+NUS-NSFE-USA San Francisco Rush - Extreme Racing 
+NUS-NSFE-USA San Francisco Rush - Extreme Racing  
+NUS-NSFP-EUR San Francisco Rush - Extreme Racing 
+NUS-NSGE-USA Shadowgate 64 - Trials of the Four Towers  
+NUS-NSGJ-JPN Shadowgate 64 - Trials of the Four Towers 
+NUS-NSGP-EUR Shadowgate 64 - Trials of the Four Towers 
+NUS-NSGP-EUR Shadowgate 64 - Trials of the Four Towers  
+NUS-NSGP-EUR Shadowgate 64 - Trials of the Four Towers  
+NUS-NSHJ-JPN Saikyou Habu Shougi 
+NUS-NSIJ-JPN Fushigi no Dungeon - Fuurai no Shiren 2 - Oni Shuurai! Shiren Jou! 
+NUS-NSJJ-JPN J.League Tactics Soccer 
+NUS-NSJJ-JPN J.League Tactics Soccer 
+NUS-NSKE-USA Snowboard Kids 
+NUS-NSKJ-JPN Snobo Kids 
+NUS-NSKP-EUR Snowboard Kids 
+NUS-NSLE-USA Spider-Man 
+NUS-NSME-USA Super Mario 64 
+NUS-NSMJ-JPN Super Mario 64 
+NUS-NSMJ-JPN Super Mario 64  (Shindou Edition)
+NUS-NSMP-EUR Super Mario 64 
+NUS-NSNJ-JPN Snow Speeder 
+NUS-NSOE-USA NBA Showtime - NBA on NBC 
+NUS-NSPE-USA Superman - The New Superman Aventures 
+NUS-NSPP-EUR Superman 
+NUS-NSQE-USA StarCraft 64 
+NUS-NSQP-AUS StarCraft 64 
+NUS-NSSJ-JPN Super Robot Spirits 
+NUS-NSTJ-JPN Eikou no Saint Andrews 
+NUS-NSUE-USA Rocket - Robot on Wheels 
+NUS-NSUP-EUR Rocket - Robot on Wheels 
+NUS-NSVE-USA SpaceStation Silicon Valley 
+NUS-NSVP-EUR SpaceStation Silicon Valley  
+NUS-NSWE-USA Star Wars - Shadows of the Empire 
+NUS-NSWE-USA Star Wars - Shadows of the Empire 
+NUS-NSWE-USA Star Wars - Shadows of the Empire 
+NUS-NSWJ-JPN Star Wars - Teikoku no Kage 
+NUS-NSWP-EUR Star Wars - Shadows of the Empire 
+NUS-NSXE-USA Supercross 2000 
+NUS-NSXP-EUR Supercross 2000 
+NUS-NSYE-USA Scooby-Doo! - Classic Creep Capers 
+NUS-NSYE-USA Scooby-Doo! - Classic Creep Capers 
+NUS-NSYP-EUR Scooby-Doo! - Classic Creep Capers 
+NUS-NSZE-USA NFL Blitz - Special Edition 
+NUS-NT2E-USA Turok 2 - Seeds of Evil 
+NUS-NT2E-USA Turok 2 - Seeds of Evil 
+NUS-NT2J-JPN Violence Killer - Turok New Generation 
+NUS-NT2P-EUR Turok 2 - Seeds of Evil 
+NUS-NT2P-EUR Turok 2 - Seeds of Evil  
+NUS-NT2P-EUR Turok 2 - Seeds of Evil 
+NUS-NT3J-JPN Shin Nihon Pro Wrestling Toukon Road 2 - The Next Generation 
+NUS-NT4E-USA CyberTiger 
+NUS-NT4P-EUR CyberTiger 
+NUS-NT6J-JPN Tetris 64  
+NUS-NT9E-USA Tigger's Honey Hunt 
+NUS-NT9P-EUR Tigger's Honey Hunt  
+NUS-NTAE-USA Tarzan 
+NUS-NTAP-EUR Tarzan 
+NUS-NTAP-EUR Tarzan 
+NUS-NTAP-EUR Tarzan 
+NUS-NTBJ-JPN Transformers - Beast Wars Metals 64 
+NUS-NTCJ-JPN 64 Trump Collection - Alice no Wakuwaku Trump World 
+NUS-NTEP-EUR 1080 TenEighty Snowboarding  
+NUS-NTFE-USA Tony Hawk's Pro Skater 
+NUS-NTFE-USA Tony Hawk's Pro Skater 
+NUS-NTFP-EUR Tony Hawk's Skateboarding 
+NUS-NTHE-USA Toy Story 2 - Buzz Lightyear to the Rescue! 
+NUS-NTHE-USA Toy Story 2 - Buzz Lightyear to the Rescue! 
+NUS-NTHP-EUR Toy Story 2 - Buzz Lightyear to the Rescue! 
+NUS-NTHP-EUR Toy Story 2 - Buzz l'Eclair a la Rescousse! 
+NUS-NTHP-EUR Toy Story 2 - Captain Buzz Lightyear auf Rettungsmission! 
+NUS-NTHP-EUR Toy Story 2 - Captain Buzz Lightyear auf Rettungsmission! 
+NUS-NTIE-USA WWF Attitude 
+NUS-NTIP-EUR WWF Attitude 
+NUS-NTIP-EUR WWF Attitude 
+NUS-NTJE-USA Tom and Jerry in Fists of Furry 
+NUS-NTJP-EUR Tom and Jerry in Fists of Furry 
+NUS-NTKE-USA Turok 3 - Shadow of Oblivion 
+NUS-NTKP-EUR Turok 3 - Shadow of Oblivion 
+NUS-NTME-USA Mischief Makers 
+NUS-NTME-USA Mischief Makers 
+NUS-NTMJ-JPN Yuke Yuke!! Trouble Makers 
+NUS-NTMP-EUR Mischief Makers 
+NUS-NTNE-USA All Star Tennis 99 
+NUS-NTNP-EUR All Star Tennis '99 
+NUS-NTOJ-JPN Shin Nihon Pro Wrestling Toukon Road - Brave Spirits 
+NUS-NTPE-USA Tetrisphere 
+NUS-NTPP-EUR Tetrisphere 
+NUS-NTQE-USA Tony Hawk's Pro Skater 2 
+NUS-NTQP-EUR Tony Hawk's Pro Skater 2 
+NUS-NTRE-USA Top Gear Rally 
+NUS-NTRJ-JPN Top Gear Rally 
+NUS-NTRP-EUR Top Gear Rally 
+NUS-NTSJ-JPN Let's Smash 
+NUS-NTSP-EUR Centre Court Tennis 
+NUS-NTTE-USA Tonic Trouble 
+NUS-NTTP-EUR Tonic Trouble 
+NUS-NTUE-USA Turok - Dinosaur Hunter 
+NUS-NTUE-USA Turok - Dinosaur Hunter 
+NUS-NTUE-USA Turok - Dinosaur Hunter 
+NUS-NTUJ-JPN Jikuu Senshi Turok 
+NUS-NTUP-EUR Turok - Dinosaur Hunter 
+NUS-NTUP-EUR Turok - Dinosaur Hunter 
+NUS-NTUP-EUR Turok - Dinosaur Hunter 
+NUS-NTUP-EUR Turok - Dinosaur Hunter 
+NUS-NTUP-EUR Turok - Dinosaur Hunter 
+NUS-NTUP-EUR Turok - Dinosaur Hunter 
+NUS-NTWJ-JPN 64 de Hakken!! Tamagotchi - Minna de Tamagotchi World 
+NUS-NTXP-EUR Taz Express 
+NUS-NUBJ-JPN PD Ultraman Battle Collection 64 
+NUS-NUMJ-JPN Nushi Zuri 64 - Shiokaze ni Notte 
+NUS-NUTJ-JPN Nushi Zuri 64 
+NUS-NUTJ-JPN Nushi Zuri 64 
+NUS-NV2J-JPN Chameleon Twist 2 
+NUS-NV3E-USA Micro Machines 64 Turbo 
+NUS-NV3P-EUR Micro Machines 64 Turbo 
+NUS-NV8E-USA Vigilante 8 
+NUS-NV8P-EUR Vigilante 8 
+NUS-NV8P-EUR Vigilante 8 
+NUS-NV8P-EUR Vigilante 8 
+NUS-NVBJ-JPN Bass Rush - ECOGEAR PowerWorm Championship 
+NUS-NVCE-USA Virtual Chess 64 
+NUS-NVGE-USA Vigilante 8 - 2nd Offense 
+NUS-NVGP-EUR Vigilante 8 - 2nd Offense 
+NUS-NVLE-USA V-Rally Edition 99 
+NUS-NVLP-EUR V-Rally Edition 99 
+NUS-NVPJ-JPN Virtual Pro Wrestling 64 
+NUS-NVRE-USA Virtual Pool 64 
+NUS-NVRP-EUR Virtual Pool 64 
+NUS-NVYJ-JPN V-Rally Edition 99 
+NUS-NW2E-USA WCW-nWo Revenge 
+NUS-NW2P-EUR WCW-nWo Revenge 
+NUS-NW3E-USA WCW Nitro 
+NUS-NW3E-USA WCW Nitro 
+NUS-NW4E-USA WWF No Mercy 
+NUS-NW4E-USA WWF No Mercy 
+NUS-NW4P-EUR WWF No Mercy 
+NUS-NW4P-EUR WWF No Mercy 
+NUS-NW8E-USA Wayne Gretzky's 3D Hockey '98 
+NUS-NW8P-EUR Wayne Gretzky's 3D Hockey '98 
+NUS-NWAE-USA War Gods 
+NUS-NWAP-EUR War Gods 
+NUS-NWBE-USA Iggy's Reckin' Balls 
+NUS-NWBJ-JPN Iggy-kun no Bura Bura Poyon 
+NUS-NWBP-EUR Iggy's Reckin' Balls 
+NUS-NWCJ-JPN Wild Choppers 
+NUS-NWDE-USA WinBack - Covert Operations 
+NUS-NWDJ-JPN WinBack 
+NUS-NWDJ-JPN WinBack 
+NUS-NWDP-EUR Operation WinBack 
+NUS-NWFE Wheel of Fortune 
+NUS-NWGE-USA Wayne Gretzky's 3D Hockey 
+NUS-NWGE-USA Wayne Gretzky's 3D Hockey 
+NUS-NWGJ-JPN Wayne Gretzky's 3D Hockey 
+NUS-NWGP-EUR Wayne Gretzky's 3D Hockey 
+NUS-NWIE-USA ECW Hardcore Revolution 
+NUS-NWIP-EUR ECW Hardcore Revolution 
+NUS-NWKF-FRA Telefoot Soccer 2000 
+NUS-NWLE-USA Waialae Country Club - True Golf Classics 
+NUS-NWLE-USA Waialae Country Club - True Golf Classics 
+NUS-NWLP-EUR Waialae Country Club - True Golf Classics 
+NUS-NWLP-EUR Waialae Country Club - True Golf Classics 
+NUS-NWME-USA WCW Mayhem 
+NUS-NWMP-EUR WCW Mayhem 
+NUS-NWNE-USA WCW vs. nWo - World Tour 
+NUS-NWNE-USA WCW vs. nWo - World Tour 
+NUS-NWNP-EUR WCW vs. nWo - World Tour 
+NUS-NWOE-USA World Driver Championship 
+NUS-NWOP-EUR World Driver Championship 
+NUS-NWPE Wipeout 64 
+NUS-NWPP Wipeout 64 
+NUS-NWQE-USA Rally Challenge 2000 
+NUS-NWRE-USA Wave Race 64 
+NUS-NWRE-USA Wave Race 64 
+NUS-NWRP-EUR Wave Race 64  
+NUS-NWSE-USA International Superstar Soccer '98 
+NUS-NWSJ-JPN Jikkyou World Soccer - World Cup France '98 
+NUS-NWSJ-JPN Jikkyou World Soccer - World Cup France '98 
+NUS-NWSJ-JPN Jikkyou World Soccer - World Cup France '98 
+NUS-NWSP-EUR International Superstar Soccer '98 
+NUS-NWTE-USA Wetrix 
+NUS-NWTJ-JPN Wetrix 
+NUS-NWTP-EUR Wetrix 
+NUS-NWUP-EUR Worms Armageddon 
+NUS-NWVE-USA WCW Backstage Assault 
+NUS-NWWE-USA WWF War Zone 
+NUS-NWWP-EUR WWF War Zone 
+NUS-NWXE-USA WWF WrestleMania 2000 
+NUS-NWXJ WWF WrestleMania 2000 
+NUS-NWXP WWF WrestleMania 2000 
+NUS-NWZE-USA NBA in the Zone 2000 
+NUS-NWZP-EUR NBA in the Zone 2000 
+NUS-NX2E-USA Gex 64 - Enter the Gecko 
+NUS-NX2P-EUR Gex 64 - Enter the Gecko 
+NUS-NX3E-USA Gex 3 - Deep Cover Gecko 
+NUS-NX3P-EUR Gex 3 - Deep Cover Gecko 
+NUS-NX3P-EUR Gex 3 - Deep Cover Gecko 
+NUS-NXFE-USA Xena - Warrior Princess - The Talisman of Fate 
+NUS-NXFP-EUR Xena - Warrior Princess - The Talisman of Fate 
+NUS-NXGE-USA NBA Hangtime 
+NUS-NXGP-EUR NBA Hangtime 
+NUS-NXOE-USA Cruis'n Exotica 
+NUS-NY2E-USA Rayman 2 - The Great Escape 
+NUS-NY2P-EUR Rayman 2 - The Great Escape 
+NUS-NYCP-EUR Virtual Chess 64 
+NUS-NYKJ-JPN Yakouchuu II - Satsujin Kouro 
+NUS-NYPE-USA Paperboy 
+NUS-NYPP-EUR Paperboy 
+NUS-NYSE-USA Yoshi's Story (En,Ja)
+NUS-NYSJ-JPN Yoshi Story 
+NUS-NYSP-EUR Yoshi's Story 
+NUS-NYWE-USA Harvest Moon 64 
+NUS-NYWJ-JPN Bokujou Monogatari 2 
+NUS-NYWJ-JPN Bokujou Monogatari 2 
+NUS-NYWJ-JPN Bokujou Monogatari 2 
+NUS-NZLP-EUR Legend of Zelda, The - Ocarina of Time 
+NUS-NZLP-EUR Legend of Zelda, The - Ocarina of Time  
+NUS-NZLP-EUR Legend of Zelda, The - Ocarina of Time (GameCube Edition)
+NUS-NZLP-EUR Legend of Zelda, The - Ocarina of Time - Master Quest (GameCube Edition)
+NUS-NZOE-USA Battlezone - Rise of the Black Dogs 
+NUS-NZSE-USA Legend of Zelda, The - Majora's Mask 
+NUS-NZSE-USA Legend of Zelda, The - Majora's Mask (GameCube Edition)
+NUS-NZSJ-JPN Zelda no Densetsu - Mujura no Kamen 
+NUS-NZSJ-JPN Zelda no Densetsu - Mujura no Kamen (GameCube Edition)
+NUS-NZSJ-JPN Zelda no Densetsu - Mujura no Kamen 
+NUS-NZSP-EUR Legend of Zelda, The - Majora's Mask 
+NUS-NZSP-EUR Legend of Zelda, The - Majora's Mask  (Debug Version)
+NUS-NZSP-EUR Legend of Zelda, The - Majora's Mask  
+NUS-NZSP-EUR Legend of Zelda, The - Majora's Mask (GameCube Edition)
+NUD-DKDJ-JPN Kyojin no Doshin 1 
