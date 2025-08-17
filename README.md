@@ -88,6 +88,10 @@ If you're developing a client using this server as a base, making a console-spec
 ```{"xbox360": true, "md5": "9a7870fbb2597d28af2b7ef83f66a6f8"}```  Quake III Arena (homebrew, MD5, recommended as most homebrew doesn't have a valid title ID)
 
 ## Nintendo
+### Nintendo Entertainment System
+```{"gc": true, "id": "NES-ZL-USA"}``` The Legend of Zelda
+### Super Nintendo Entertainment System
+```{"gc": true, "id": "SNS-ZL-USA"}``` The Legend of Zelda - A Link to the Past
 ### Gamecube
 ```{"gc": true, "id": "GZLE01"}``` The Legend of Zelda: Wind Waker
 ### Wii
