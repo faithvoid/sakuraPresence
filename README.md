@@ -40,6 +40,7 @@ Discord Rich Presence for all network-capable retro consoles (8th generation and
 - [x] Nintendo Switch (server-side) (includes XLink Kai support)
 ### Etc.
 - [x] RetroPie
+- [ ] Miyoo Mini (via OnionOS)
 
 ## Planned Systems:
 - [ ] Dreamcast (almost finished, just need to finish cover art directory)
