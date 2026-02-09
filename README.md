@@ -11,7 +11,6 @@ Discord Rich Presence for all network-capable retro consoles (8th generation and
 ![](screenshots/dreamcast.png)![](screenshots/genesis.png)
 ![](screenshots/nes.png)![](screenshots/snes.png)
 
-
 ## Features:
 - Support for multiple consoles! If you can send a network packet, you can send a presence!
 - Super modular and straightforward, can be adapted to any console or emulator with networking!
@@ -41,6 +40,7 @@ Discord Rich Presence for all network-capable retro consoles (8th generation and
 ### Etc.
 - [x] RetroPie
 - [ ] Miyoo Mini (via OnionOS)
+- [x] Media (with IMDB/TVDB/MusicBrainz support)
 
 ## Planned Systems:
 - [ ] Dreamcast (almost finished, just need to finish cover art directory)
